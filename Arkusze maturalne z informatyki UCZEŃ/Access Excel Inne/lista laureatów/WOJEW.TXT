@@ -1,0 +1,17 @@
+Id wojew;Nazwa wojew
+02;dolnoœl¹skie
+04;kujawsko-pomorskie
+06;lubelskie
+08;lubuskie
+10;³ódzkie
+12;ma³opolskie
+14;mazowieckie
+16;opolskie
+18;podkarpackie
+20;podlaskie
+22;pomorskie
+24;œl¹skie
+26;œwiêtokrzyskie
+28;warmiñsko-mazurskie
+30;wielkopolskie
+32;zachodniopomorskie

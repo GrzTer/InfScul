@@ -1,0 +1,4 @@
+Nazwisko	Imiê	Miejscowoœæ
+Kowalski	Jan	Gdañsk
+Malinowski	Adam	Sopot
+Malinowska	Adrinna	Katowice

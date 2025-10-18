@@ -1,0 +1,16 @@
+B podlaskie
+C kujawsko-pomorskie
+D dolnoslaskie
+E lodzkie
+F lubuskie
+G pomorskie
+K malopolskie
+L lubelskie
+N warminsko-mazurskie
+O opolskie
+P wielkopolskie
+R podkarpackie
+S slaskie
+T swietokrzyskie
+W mazowieckie
+Z zachodniopomorskie

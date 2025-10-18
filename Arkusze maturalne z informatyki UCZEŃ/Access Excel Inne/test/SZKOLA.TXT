@@ -1,0 +1,520 @@
+03/MAT-1020	Gebka	Agnieszka	Sierakowska 23	60-367	Poznan	N-01
+03/MAT-1050	Skwarek	Gustaw	Glowna 42	61-007	Poznan	N-01
+03/MAT-1062	Gorska	Kinga	Oswiecenia 64	61-209	Poznan	N-01
+03/MAT-1142	Wolny	Michal	Kazimierza Wielkiego 33	62-200	Gniezno	N-01
+03/MAT-1156	Piasecki	Piotr	Benesza 2	62-500	Konin	N-01
+03/MAT-1193	Czerw	Milena	Podmiejska 9 A	62-800	Kalisz	N-01
+03/MAT-1206	Szewczyk	Damian	Krzywoustego 4	63-300	Pleszew	N-01
+03/MAT-1252	Zielonka	Renata	1 Maja 1	64-100	Leszno	N-01
+03/MAT-1286	Moroz	Przemyslaw	Mala Poznanska 1	64-610	Rogozno	N-01
+03/MAT-1332	Korczynska	Anna	Dobra 16	66-400	Gorzow Wilekopolski	N-01
+03/MAT-1357	Paterek	Krzysztof	Moniuszki 30	66-600	Krosno Odrzanskie	N-01
+03/MAT-1364	Dulat	Jaroslaw	Raclawicka 2	66-620	Gubin	N-01
+03/MAT-1414	Heppel	Patrycja	Jagiellonska 59	70-382	Szczecin	N-01
+03/MAT-1072	Michalak	Marta	Gluszyna 187	61-329	Poznan	N-02
+03/MAT-1397	Marciniak	Wojciech	Dobrzynska 2	70-025	Szczecin	N-03
+03/MAT-1063	Hladczuk	Katarzyna	Oswiecenia 64	61-209	Poznan	N-02
+03/MAT-1126	Brojek	Agnieszka	Koscielna 2	62-050	Mosina	N-02
+03/MAT-1181	Ratajczak	Grzegorz	Chelmska 18	62-800	Kalisz	N-02
+03/MAT-1223	Przymuszala	Aleksandra	1000-lecia 1	63-600	Kepno	N-02
+03/MAT-1301	Chrzanowska	Agnieszka	Kujawska 18	64-920	Pila	N-02
+03/MAT-1322	Wegrzynowicz	Katarzyna	Sikorskiego 11	66-200	Swiebodzin	N-02
+03/MAT-1337	Siarkowski	Marcin	Kazimierza Wielkiego 65 	66-400	Gorzow Wielkopolski	N-02
+03/MAT-1340	Wojcicka	Paulina	Moscickiego 3	66-400	Gorzow Wielkopolski	N-02
+03/MAT-1415	Kaptur	Anna	Jagiellonska 61	70-382	Szczecin	N-02
+03/MAT-1451	Malycha	Katarzyna	Benesza 75	71-246	Szczecin	N-02
+03/MAT-1463	Walczak	Malgorzata	Malczewskiego 22	71-612	Szczecin	N-02
+03/MAT-1046	Kubacka	Monika	Berwinskiego 2/4	60-765	Poznan	N-03
+03/MAT-1164	Starczewska	Wieslawa	11 Listopada 15	62-510	Konin	N-03
+03/MAT-1218	Lewkowicz	Krzysztof	Sikorskiego 19	63-500	Ostrzeszow	N-03
+03/MAT-1240	Semklo	Damian	Koscielna 4	63-800	Gostyn	N-03
+03/MAT-1258	Grocholska	Anna	Jagiellonska 7	64-100	Leszno	N-03
+03/MAT-1390	Kaczmarek	Adrian	Podwale 16	68-200	Zary	N-03
+03/MAT-1433	Wachowski	Dariusz	Nalkowskiej 33	70-785	Szczecin	N-03
+03/MAT-1444	Kidon	Rafal	Chobolanska 20	71-023	Szczecin	N-03
+03/MAT-1450	Laniewska	Sylwia	Ottona 8	71-242	Szczecin	N-03
+03/MAT-1464	Wolek	Grzegorz	Malczewskiego 22 A	71-612	Szczecin	N-03
+03/MAT-1486	Trojnar	Marcin	Kilinskiego 11	72-100	Goleniow	N-03
+03/MAT-1001	Blazuk	Sylwester	Rawicka 12/14	60-113	Poznan	N-04
+03/MAT-1003	Cieslik	Andrzej	Pogodna 84	60-137	Poznan	N-04
+03/MAT-1014	Barwiak	Lukasz	Chociszewskiego 56	60-261	Poznan	N-04
+03/MAT-1025	Ostapczuk	Kamila	Koscierzynska 76/78	60-466	Poznan	N-04
+03/MAT-1026	Pietrzak	Barbara	Druskienicka 32	60-476	Poznan	N-04
+03/MAT-1064	Joks	Lukasz	Jagiellonskia 128	61-223	Poznan	N-04
+03/MAT-1260	Lewkowicz	Kamila	Kurpinskiego 2	64-100	Leszno	N-04
+03/MAT-1273	Wasilewska	Maja	Sikorskiego 27	64-400	Miedzychod	N-04
+03/MAT-1383	Bil	Michal	11 Listopada 33	68-200	Zary	N-04
+03/MAT-1394	Kubiak	Wieslaw	Kilinskiego 8	69-100	Slubice	N-04
+03/MAT-1406	Tomaszewska	Ewa	Malkowskiego 12	70-306	Szczecin	N-04
+03/MAT-1484	Thal	Malgorzata	Owocowa 5	72-015	Police	N-04
+03/MAT-1502	Rozycka	Alicja	Narutowicza 10	72-600	Swinoujscie	N-04
+03/MAT-1504	Seweryn	Tomasz	Bialoruska 2	72-602	Swinoujscie	N-04
+03/MAT-1027	Piosik	Marta	Chojnicka 57	60-480	Poznan	N-05
+03/MAT-1034	Utkowski	Stanislaw	Drzymaly 4/6	60-613	Poznan	N-05
+03/MAT-1082	Garbaciak	Wojciech	Sikorskiego 29	61-536	Poznan	N-05
+03/MAT-1103	Dybcio	Joanna	Golebia 8	61-834	Poznan	N-05
+03/MAT-1144	Arcisz	Andrzej	Paczkowskiego 13	62-200	Gniezno	N-05
+03/MAT-1165	Staszak	Jacek	Blaszaka 4	62-510	Konin	N-05
+03/MAT-1198	Krauze	Olga	20 Pazdziernika 2	63-000	Sroda Wielkopolska	N-05
+03/MAT-1228	Widlarz	Dawid	Jagielly 4	63-700	Krotoszyn	N-05
+03/MAT-1261	Lisiewicz	Jaroslaw	Narutowicza 74 	64-100	Leszno	N-05
+03/MAT-1418	Kubiak	Arkadiusz	Rayskiego 9	70-426	Szczecin	N-05
+03/MAT-1422	Miszczyszyn	Patrycja	Malopolska 22	70-515	Szczecin	N-05
+03/MAT-1469	Jarosiewicz	Bartosz	Pokoju 48	71-739	Szczecin	N-05
+03/MAT-1511	Gorski	Pawel	Kusnierzy 7	73-110	Stargard Szczecinski	N-05
+03/MAT-1006	Kurzawa	Agnieszka	Newtona 2	60-161	Poznan	N-06
+03/MAT-1007	Latarowska	Julita	Maloszynska 38	60-176	Poznan	N-06
+03/MAT-1028	Piotrowski	Piotr	Chojnicka 57	60-480	Poznan	N-06
+03/MAT-1035	Wator	Pawel	Drzymaly 4/6	60-613	Poznan	N-06
+03/MAT-1043	Flis	Dawid	Jana III Sobieskiego 105	60-688	Poznan	N-06
+03/MAT-1136	Marczak	Marta	Reja 10	62-100	Wagrowiec	N-06
+03/MAT-1191	Bystra	Mariola	Kosciuszki 10	62-800	Kalisz	N-06
+03/MAT-1274	Zajac	Przemyslaw	Gorzycka 1	64-400	Miedzychod	N-06
+03/MAT-1294	Surynt	Przemyslaw	Paderewskiego 13	64-800	Chodziez	N-06
+03/MAT-1310	Malodobra	Emilia	Kingi 1	65-215	Zielona Gora	N-06
+03/MAT-1371	Kubiak	Jaroslaw	22 Lipca 12	67-120	Kozuchow	N-06
+03/MAT-1403	Rzepa	Krzysztof	Kusocinskiego 3	70-237	Szczecin	N-06
+03/MAT-1483	Starek	Paulina	Sikorskiego 8	72-010	Police	N-06
+03/MAT-1008	Luczynski	Mateusz	Maloszynska 38	60-176	Poznan	N-07
+03/MAT-1100	Wolny	Irmina	Kutrzeby 8	61-719	Poznan	N-07
+03/MAT-1114	Potocka	Emilia	Klasztorna 12	62-010	Pobiedziska	N-07
+03/MAT-1194	Gagorowski	Pawel	Polna 17	62-800	Kalisz	N-07
+03/MAT-1201	Musinski	Grzegorz	Kosciuszki 10 A	63-000	Sroda Wielkopolska	N-07
+03/MAT-1225	Tomczyk	Marek	23 Stycznia 20	63-700	Krotoszyn	N-07
+03/MAT-1299	Zarzycki	Daniel	Grabowa 18	64-920	Pila	N-07
+03/MAT-1321	Weclewicz	Katarzyna	Chopina 1	66-200	Swiebodzin	N-07
+03/MAT-1456	Skalski	Pawel	Niemierzynska 17	71-441	Szczecin	N-07
+03/MAT-1462	Wachocz	Slawomir	Dubois 38/41	71-610	Szczecin	N-07
+03/MAT-1488	Zlobinski	Marek	Paderewskiego 2 A	72-100	Goleniow	N-07
+03/MAT-1507	Wojcik	Konrad	Skalista 24	72-722	Szczecin	N-07
+03/MAT-1079	Wisniewska	Natalia	Grabowa 33	61-473	Poznan	N-08
+03/MAT-1116	Rutkowski	Maciej	Kwasniewskiego 2	62-020	Swarzedz	N-08
+03/MAT-1121	Wojnarowski	Przemyslaw	Polna 21	62-020	Swarzedz	N-08
+03/MAT-1178	Piasecki	Mateusz	25 Pulku Artylerii 10	62-800	Kalisz	N-08
+03/MAT-1253	Zygmunt	Judyta	Jana Pawla II 10	64-100	Leszno	N-08
+03/MAT-1333	Krzyzanowska	Elzbieta	Dunikowskiego 5	66-400	Gorzow Wielkopolski	N-08
+03/MAT-1370	Klocek	Witold	Parafialna 4 B	67-100	Nowa Sol	N-08
+03/MAT-1372	Kusnierek	Angelika	Chopina 11	67-120	Kozuchow	N-08
+03/MAT-1424	Mlynarczak	Tomasz	Mariacka 1	70-547	Szczecin	N-08
+03/MAT-1452	Melson	Kamil	Reymonta 23	71-276	Szczecin	N-08
+03/MAT-1487	Zielinska	Kamila	Niepodleglosci 1	72-100	Goleniow	N-08
+03/MAT-1489	Delinowski	Marcin	Boh. Warszawy 78	72-200	Nowogard	N-08
+03/MAT-1518	Maczkowski	Marek	Kosciuszki 17	74-100	Gryfino	N-08
+03/MAT-1133	Kubas	Magdalena	Klasztorna 19	62-100	Wagrowiec	N-09
+03/MAT-1175	Konefon	Damian	Parkowa 3	62-700	Turek	N-09
+03/MAT-1213	Kaczmarek	Nina	Grabowska 1-3	63-400	Ostrow Wielkopolski	N-09
+03/MAT-1246	Szczepaniak	Klaudia	27 Stycznia 1	64-000	Koscian	N-09
+03/MAT-1272	Sych	Dorota	Polnocna 25	64-300	Nowy Tomysl	N-09
+03/MAT-1302	Chrzanowska	Dorota	Mariana Buczka 11	64-920	Pila	N-09
+03/MAT-1307	Korotusz	Anna	Chopina 15a	65-031	Zielona Gora	N-09
+03/MAT-1392	Korwek	Rafal	Bohaterow Warszawy 3	69-100	Slubice	N-09
+03/MAT-1398	Mielniczak	Nikodem	Dunkowskiego 1	70-123	Szczecin	N-09
+03/MAT-1457	Strozyk	Tomasz	Labedzia 4	71-453	Szczecin	N-09
+03/MAT-1032	Skwarek	Agnieszka	Janickiego 22	60-542	Poznan	N-10
+03/MAT-1083	Jaroszko	Anna	28 czerwca 1956 135/147	61-545	Poznan	N-10
+03/MAT-1150	Jadczak	Anna	Kosciuszki 24	62-300	Wrzesnia	N-10
+03/MAT-1196	Kawecki	Przemyslaw	Robotnicza 5	62-800	Kalisz	N-10
+03/MAT-1217	Lehmann	Przemyslaw	Partyzancka 15	63-400	Ostrow Wielkopolski	N-10
+03/MAT-1235	Kot	Dorota	Klasztorna 39	63-720	Kozmin Wielkopolski	N-10
+03/MAT-1237	Pacyna	Sebastian	Graniczna 1	63-800	Gostyn	N-10
+03/MAT-1295	Trubilowicz	Aron	Niepodleglosci 18	64-920	Pila	N-10
+03/MAT-1308	Kuropatwa	Tomasz	Chopina 18 A	65-032	Zielona Gora	N-10
+03/MAT-1393	Krol	Mateusz	Bohaterow Warszawy 3	69-100	Slubice	N-10
+03/MAT-1435	Zacharjasz	Katarzyna	Pomorska 150	70-812	Szczecin	N-10
+03/MAT-1458	Szewczyk	Maciej	Labedzia 4	71-453	Szczecin	N-10
+03/MAT-1470	Jaszczyszyn	Agnieszka	Dunska 43	71-785	Szczecin	N-10
+03/MAT-1012	Sokol	Anna	Klaudyny Potockiej 38	60-211	Poznan	N-11
+03/MAT-1123	Zawada	Bartosz	Dworcowa 11	62-035	Kornik	N-11
+03/MAT-1129	Gigiel	Przemyslaw	Chopina 26	62-065	Grodzisk Wielkopolski	N-11
+03/MAT-1132	Kazus	Jacek	Janowiecka 22	62-100	Wagrowiec	N-11
+03/MAT-1179	Piglas	Lucyna	3 Maja 16	62-800	Kalisz	N-11
+03/MAT-1195	Golla	Radoslaw	Pomorska 7	62-800	Kalisz	N-11
+03/MAT-1204	Ratajczak	Urszula	Kosciuszki 25	63-200	Jarocin	N-11
+03/MAT-1219	Marcinkowska	Dominika	Lakowa 1	63-500	Ostrzeszow	N-11
+03/MAT-1267	Polec	Marta	Marii. Konopnickiej 1	64-200	Wolsztyn	N-11
+03/MAT-1335	Mical	Piotr	Grobla 68 A	66-400	Gorzow Wielkopolski	N-11
+03/MAT-1351	Halas	Kamil	Slowackiego 14	66-500	Strzelce Krajenskie	N-11
+03/MAT-1388	Wojcicki	Bartlomiej	Partyzantow 9	68-200	Zary	N-11
+03/MAT-1395	Kukla	Krzysztof	Niepodleglosci 23	69-100	Slubice	N-11
+03/MAT-1459	Szmanda	Kamila	Robotnicza 5	71-472	Szczecin	N-11
+03/MAT-1009	Mitulski	Slawomir	Lawica 3	60-186	Poznan	N-12
+03/MAT-1013	Szymanowski	Mateusz	Jarochowskiego 62	60-249	Poznan	N-12
+03/MAT-1125	Bania	Piotr	Dworcowa 11	62-036	Kornik	N-12
+03/MAT-1130	Grzelak	Emilia	Chopina 26	62-065	Grodzisk Wielkopolski	N-12
+03/MAT-1174	Kedziora	Monika	3 Maja 29	62-700	Turek	N-12
+03/MAT-1185	Wojciechowska	Elzbieta	Grodzka 1	62-800	Kalisz	N-12
+03/MAT-1276	Zmuda	Aneta	Slowackiego 3	64-400	Miedzychod	N-12
+03/MAT-1356	Olejarz	Krystian	Bohaterow Wojska Polskiego 21	66-600	Krosno Odrzanskie	N-12
+03/MAT-1368	Judek	Natalia	Kosciuszki 26	67-100	Nowa Sol	N-12
+03/MAT-1369	Kania	Tomasz	Matejki 29	67-100	Nowa Sol	N-12
+03/MAT-1382	Wolek	Elzbieta	Pomorska 7	68-100	Zagan	N-12
+03/MAT-1441	Hylak	Artur	Piaseczna 40	70-893	Szczecin	N-12
+03/MAT-1449	Lubczynska	Agnieszka	Klonowica 3	71-241	Szczecin	N-12
+03/MAT-1494	Jagielik	Damian	Rodziewiczowny 6	72-300	Gryfice	N-12
+03/MAT-1039	Bargiel	Agnieszka	Boleslawa Chrobrego 107	60-681	Poznan	N-13
+03/MAT-1070	Maciejewska	Malgorzata	Lecha 37	61-294	Poznan	N-13
+03/MAT-1099	Wojciechowski	Lukasz	Niepodleglosci 32	61-714	Poznan	N-13
+03/MAT-1112	Napierala	Natalia	Rolna 1B	62-004	Czerwonak	N-13
+03/MAT-1151	Jeznach	Ireneusz	Slowackiego 41	62-300	Wrzesnia	N-13
+03/MAT-1173	Kaczmarek	Lukasz	Piaski 3	62-640	Barlogi	N-13
+03/MAT-1269	Rzepowska	Anna	Poniatowskiego 1	64-200	Wolsztyn	N-13
+03/MAT-1285	Matras	Mateusz	Kosciuszki 28	64-610	Rogozno	N-13
+03/MAT-1305	Ganczar	Mateusz	Chopina 36	64-980	Trzcianka	N-13
+03/MAT-1314	Sroka	Marcin	Jaskolcza 66	65-518	Zielona Gora	N-13
+03/MAT-1338	Szczepaniak	Sabina	Kobylogorska 110	66-400	Gorzow Wielkopolski	N-13
+03/MAT-1400	Odrobny	Mariusz	3 Maja 4/7	70-214	Szczecin	N-13
+03/MAT-1423	Mlodystach	Natalia	Grodzka 23	70-543	Szczecin	N-13
+03/MAT-1501	Pijajko	Monika	Matejki 35	72-600	Swinoujscie	N-13
+03/MAT-1030	Pryputniewicz	Pawel	Slowackiego 54	60-521	Poznan	N-14
+03/MAT-1047	Lewkowicz	Monika	Matejki 8/10	60-766	Poznan	N-14
+03/MAT-1096	Wawrowicz	Rafal	Romana Brandstaettera 1	61-659	Poznan	N-14
+03/MAT-1127	Fleszar	Maciej	3 Maja 5	62-065	Grodzisk Wielkopolski	N-14
+03/MAT-1162	Seklecki	Jacek	Leopolda Staffa 5	62-505	Konin	N-14
+03/MAT-1203	Pokorski	Dawid	Niepodleglosci 8	63-200	Jarocin	N-14
+03/MAT-1257	Golek	Pawel	Gronowska 45	64-100	Leszno	N-14
+03/MAT-1293	Slowik	Rafal	Kochanowskiego 1	64-800	Chodziez	N-14
+03/MAT-1306	Grygorcewicz	Krzysztof	Chopina 36	64-980	Trzcianka	N-14
+03/MAT-1348	Wierzbicka	Emilia	Kosciuszki 28	66-500	Strzelce Krajenskie	N-14
+03/MAT-1478	Pankiewicz	Mariusz	Piaskowa 99	72-009	Police	N-14
+03/MAT-1492	Gorny	Wojciech	Poniatowskiego 17	72-200	Nowogard	N-14
+03/MAT-1005	Krolik	Alicja	Jawornicka 1	60-161	Poznan	N-15
+03/MAT-1052	Szlapka	Grzegorz	Nieszawska 21	61-022	Poznan	N-15
+03/MAT-1122	Woloszczuk	Malgorzata	Piasta 1	62-025	Kostrzyn	N-15
+03/MAT-1172	Kaczkowska	Julianna	Poniatowskiego 22	62-600	Kolo	N-15
+03/MAT-1244	Sommer	Wioletta	Grota Roweckiego 9 F	63-900	Rawicz	N-15
+03/MAT-1256	Czekala	Krzysztof	Boleslawa Prusa 33	64-100	Leszno	N-15
+03/MAT-1303	Chrzanowski	Piotr	Roosevelta 12	64-920	Pila	N-15
+03/MAT-1349	Bartkowicz	Radoslaw	Kosciuszki 29	66-500	Strzelce Krajenskie	N-15
+03/MAT-1417	Kotyla	Monika	Mazurska 40	70-424	Szczecin	N-15
+03/MAT-1493	Hajducka	Anna	3 Maja 8	72-300	Gryfice	N-15
+03/MAT-1040	Bazewicz	Adam	Boleslawa Smialego 107	60-682	Poznan	N-16
+03/MAT-1084	Kopczynski	Marcin	Rozana 1/3	61-577	Poznan	N-16
+03/MAT-1134	Lenartowicz	Mateusz	Kolejowa 14	62-100	Wagrowiec	N-16
+03/MAT-1137	Nowicka	Justyna	Chrobrego 12	62-200	Gniezno	N-16
+03/MAT-1214	Kobusinski	Piotr	Kosciuszki 5	63-400	Ostrow Wielkopolski	N-16
+03/MAT-1243	Sommer	Krystian	Grota-Roweckiego 6	63-900	Rawicz	N-16
+03/MAT-1262	Lisiewicz	Krzysztof	Metziga 14	64-100	Leszno	N-16
+03/MAT-1270	Smalec	Adrian	Poniatowskiego 7	64-200	Wolsztyn	N-16
+03/MAT-1271	Sojka	Karolina	3 Stycznia 12	64-300	Nowy Tomysl	N-16
+03/MAT-1377	Rychla	Magdalena	Sobieskiego 58	67-300	Szprotawa	N-16
+03/MAT-1378	Sobota	Marta	Dworcowa 49	68-100	Zagan	N-16
+03/MAT-1380	Wichlacz	Marek	Nocznickiego 18	68-100	Zagan	N-16
+03/MAT-1408	Wolek	Rafal	Piastow 12	70-331	Szczecin	N-16
+03/MAT-1454	Parfeniuk	Krzysztof	Jaworowa 41	71-382	Szczecin	N-16
+03/MAT-1017	Wroz	Adam	Grunwaldzka 154	60-309	Poznan	N-17
+03/MAT-1036	Wisniewska	Alicja	Sochaczewska 3	60-645	Poznan	N-17
+03/MAT-1159	Rosolek	Tomasz	Mickiewicza 11	62-500	Konin	N-17
+03/MAT-1168	Brambor	Cezary	Kolejowa 2	62-510	Konin	N-17
+03/MAT-1177	Malycha	Pawel	Dziadowice	62-709	Dziadowice	N-17
+03/MAT-1182	Sobczak	Nina	Ciasna 16	62-800	Kalisz	N-17
+03/MAT-1264	Mendak	Marta	Rumunska 6 	64-100	Leszno	N-17
+03/MAT-1345	Pilarczyk	Bartlomiej	Kosciuszki 7	66-470	Kostrzyn Odrzanski	N-17
+03/MAT-1407	Urbanowicz	Radoslaw	Piastow 7	70-327	Szczecin	N-17
+03/MAT-1409	Bojek	Pawel	Boleslawa Smialego 42-43	70-351	Szczecin	N-17
+03/MAT-1499	Nowak	Katarzyna	Lesna 17	72-500	Miedzyzdroje	N-17
+03/MAT-1505	Siepielska	Magdalena	Norweska 12	72-602	Swinoujscie	N-17
+03/MAT-1514	Lukasiewicz	Piotr	Popiela 2	73-110	Stargard Szczecinski	N-17
+03/MAT-1024	Napierala	Anna	Lesnowolska 35	60-452	Poznan	N-18
+03/MAT-1049	Moras	Katarzyna	Norwida 21	60-867	Poznan	N-18
+03/MAT-1065	Kesicka	Krystyna	Rusa 56	61-245	Poznan	N-18
+03/MAT-1085	Krzeszowski	Krzysztof	Boranta 2	61-608	Poznan	N-18
+03/MAT-1192	Czekala	Agnieszka	Mickiewicza 11	62-800	Kalisz	N-18
+03/MAT-1251	Zielonka	Mateusz	Kolejowa 3	64-020	Czempin	N-18
+03/MAT-1266	Okuniewska	Dorota	5 Stycznia 14	64-200	Wolsztyn	N-18
+03/MAT-1288	Niesyn	Piotr	Kosciuszki 92	64-700	Czarnkow	N-18
+03/MAT-1355	Ogrodnik	Krystian	Portowa 1	66-530	Drezdenko	N-18
+03/MAT-1362	Cicha	Weronika	Piastowska 22	66-620	Gubin	N-18
+03/MAT-1479	Pankiewicz	Piotr	Cisowa 2	72-010	Police	N-18
+03/MAT-1002	Borowczak	Pawel	Bosa 9	60-125	Poznan	N-19
+03/MAT-1055	Urbanski	Kamil	Leszka 42	61-062	Poznan	N-19
+03/MAT-1077	Wardyn	Milena	Jesionowa 14	61-432	Poznan	N-19
+03/MAT-1107	Kowalczyk	Katarzyna	Rybaki 17	61-883	Poznan	N-19
+03/MAT-1111	Merda	Patryk	7 Pulku Strzelcow Konnych 3	62-003	Biedrusko	N-19
+03/MAT-1138	Piasecki	Kamil	Cymsa 14	62-200	Gniezno	N-19
+03/MAT-1248	Wisniak	Elwira	Mickiewicza 12	64-000	Koscian	N-19
+03/MAT-1259	Karbowniczek	Piotr	St.Wyszynskiego 57	64-100	Leszno	N-19
+03/MAT-1289	Opieczonek	Karolina	Kosciuszki 92	64-700	Czarnkow	N-19
+03/MAT-1334	Ludwikowski	Andrzej	Estkowskiego 3	66-400	Gorzow Wilekopolski	N-19
+03/MAT-1341	Zamiara	Agnieszka	Nowa 7	66-400	Gorzow Wielkopolski	N-19
+03/MAT-1363	Danilowicz	Dawid	Piastowska 26	66-620	Gubin	N-19
+03/MAT-1437	Darmochwal	Natalia	Portowa 21	70-833	Szczecin	N-19
+03/MAT-1498	Muniak	Adrian	Kolejowa 33	72-500	Miedzyzdroje	N-19
+03/MAT-1500	Pakoca	Ariel	Grunwaldzka 47	72-600	Swinoujscie	N-19
+03/MAT-1044	Gaweda	Agnieszka	Obornicka 314	60-691	Poznan	N-20
+03/MAT-1066	Kochanowski	Janusz	Stare Zegrze 1	61-249	Poznan	N-20
+03/MAT-1119	Szkudlarek	Anna	Kosciuszkowcow 4	62-020	Swarzedz	N-20
+03/MAT-1170	Gluszcz	Przemyslaw	Kolejowa 5	62-600	Kolo	N-20
+03/MAT-1184	Wit	Adriana	Fabryczna 13-15	62-800	Kalisz	N-20
+03/MAT-1220	Marynowska	Anna	Piastowska 3	63-500	Ostrzeszow	N-20
+03/MAT-1249	Wota	Maciej	Mickiewicza 12	64-000	Koscian	N-20
+03/MAT-1428	Piwecka	Sylwia	Letniskowa 1	70-763	Szczecin	N-20
+03/MAT-1432	Szczeglik	Beata	Rydla 49	70-783	Szczecin	N-20
+03/MAT-1438	Gasiorek	Tomasz	Bosniacka 7	70-842	Szczecin	N-20
+03/MAT-1460	Tomaszewska	Iwona	Cyryla i Metodego 43	71-540	Szczecin	N-20
+03/MAT-1468	Gierulska	Ewelina	Grzyminska 6	71-711	Szczecin	N-20
+03/MAT-1041	Bobaryko	Ewelina	Stefana Batorego 101	60-687	Poznan	N-21
+03/MAT-1092	Pietras	Alicja	Kosmonautow 111	61-642	Poznan	N-21
+03/MAT-1139	Pieczarka	Jacek	Czarnieckiego 7	62-200	Gniezno	N-21
+03/MAT-1160	Sardakowska	Anita	Mickiewicza 14	62-500	Konin	N-21
+03/MAT-1163	Sobanski	Krzysztof	Lezynska 9	62-506	Konin	N-21
+03/MAT-1221	Mauer	Piotr	Piastowska 3	63-500	Ostrzeszow	N-21
+03/MAT-1226	Tomiak	Magdalena	Powstancow Wielkopolskich 13	63-700	Krotoszyn	N-21
+03/MAT-1229	Zdanowicz	Bartlomiej	Jgielly 4	63-700	Krotoszyn	N-21
+03/MAT-1275	Zelek	Arkadiusz	Gwardii Ludowej 6b	64-400	Miedzychod	N-21
+03/MAT-1278	Dziaduszek	Andrzej	Kollataja 1	64-500	Szamotuly	N-21
+03/MAT-1365	Helminska	Oliwia	Botaniczna 22	67-100	Nowa Sol	N-21
+03/MAT-1420	Manczak	Monika	Obroncow Stalingradu 14	70-497	Szczecin	N-21
+03/MAT-1425	Modrzyk	Bartlomiej	Rymarska 22 A	70-702	Szczecin	N-21
+03/MAT-1480	Rechul	Patryk	Fabryczna 21	72-010	Police	N-21
+03/MAT-1076	Tomaszewska	Krystyna	Rzeczypospolitej 111	61-398	Poznan	N-22
+03/MAT-1095	Rzeszuto	Magdalena	Brandstaettera 1	61-659	Poznan	N-22
+03/MAT-1115	Radzik	Monika	Kostrzynska 23	62-010	Pobiedziska	N-22
+03/MAT-1167	Bot	Stanislaw	Stefana Wyszynskiego 44	62-510	Konin	N-22
+03/MAT-1171	Juzwikowska	Daria	Mickiewicza 14	62-600	Kolo	N-22
+03/MAT-1227	Tomiak	Tomasz	Powstancow Wielkopolskich 13	63-700	Krotoszyn	N-22
+03/MAT-1250	Zdanowicz	Slawomir	Piastowska 47	64-000	Koscian	N-22
+03/MAT-1281	Koltko	Dariusz	Czarnkowska 57	64-600	Oborniki	N-22
+03/MAT-1336	Pawlak	Eryk	Gwiazdzista 14	66-400	Gorzow Wielkopolski	N-22
+03/MAT-1384	Buda	Maciej	9 Maja 8	68-200	Zary	N-22
+03/MAT-1426	Modrzyk	Tomasz	Jodlowa 21	70-722	Szczecin	N-22
+03/MAT-1512	Grzegorczyk	Andrzej	Limanowskiego 9	73-110	Stargard Szczecinski	N-22
+03/MAT-1516	Markulak	Szczepan	Obroncow Westerplatte 1	73-200	Choszczno	N-22
+03/MAT-1075	Tatarynowicz	Slawomir	Rzeczypospolitej 44	61-395	Poznan	N-23
+03/MAT-1146	Chadzynska	Agnieszka	Powstancow Wielkopolskich 16	62-200	Gniezno	N-23
+03/MAT-1154	Kubicki	Dariusz	Szkolna 14	62-400	Slupca	N-23
+03/MAT-1158	Putynkowska	Agnieszka	Kolska 2	62-500	Konin	N-23
+03/MAT-1200	Krzeminski	Tomasz	Kosynierow 2 B	63-000	Sroda Wielkopolska	N-23
+03/MAT-1245	Stoksik	Pawel	Mickiewicza 16	63-900	Rawicz	N-23
+03/MAT-1311	Nowicki	Przemyslaw	Aliny 17	65-329	Zielona Gora	N-23
+03/MAT-1386	Felinska	Ewa	Czestochowska 15	68-200	Zary	N-23
+03/MAT-1421	Marciniak	Jolanta	H. Poboznego 2	70-507	Szczecin	N-23
+03/MAT-1445	Kubik	Pawel	Brodnicka 10	71-044	Szczecin	N-23
+03/MAT-1455	Sadkowska	Barbara	Felczaka 13	71-417	Szczecin	N-23
+03/MAT-1503	Senyk	Piotr	Piastowska 55	72-600	Swinoujscie	N-23
+03/MAT-1023	Marszalek	Dawid	Hangarowa 14	60-409	Poznan	N-24
+03/MAT-1110	Merda	Kamil	Powstancow Wielkopolskich 3	61-895	Poznan	N-24
+03/MAT-1149	Hanba	Magdalena	Kosynierow 32	62-300	Wrzesnia	N-24
+03/MAT-1155	Nowicka	Kamila	Szkolna 14	62-400	Slupca	N-24
+03/MAT-1161	Sarnowska	Magdalena	Fikusowa 8	62-502	Konin	N-24
+03/MAT-1241	Skora	Krzysztof	Lipowa 5	63-800	Gostyn	N-24
+03/MAT-1283	Madej	Marek	Obrzycka 88	64-600	Oborniki	N-24
+03/MAT-1313	Sroka	Filip	Piastowska 9	65-515	Zielona Gora	N-24
+03/MAT-1385	Dudek	Magdalena	Broni Pancernej 8	68-200	Zary	N-24
+03/MAT-1401	Piwecka	Anna	Jozefa Sowinskiego 78	70-236	Szczecin	N-24
+03/MAT-1416	Korach	Wioletta	Mickiewicza 23	70-383	Szczecin	N-24
+03/MAT-1447	Linowiecka	Marta	Czorsztynska 35	71-201	Szczecin	N-24
+03/MAT-1061	Gorny	Zbigniew	Piastowskia 106	61-164	Poznan	N-25
+03/MAT-1074	Palmowski	Grzegorz	Armii Krajowej 100	61-381	Poznan	N-25
+03/MAT-1118	Stec	Przemyslaw	Czwartakow 1	62-020	Swarzedz	N-25
+03/MAT-1186	Wrobel	Marcin	Hanki Sawickiej 3	62-800	Kalisz	N-25
+03/MAT-1202	Oczujda	Grzegorz	Lipowa 9	63-000	Sroda Wielkopolska	N-25
+03/MAT-1232	Cichy	Miroslaw	Szkolna 19	63-700	Krotoszyn	N-25
+03/MAT-1263	Maly	Mateusz	Komenskiego 1	64-100	Leszno	N-25
+03/MAT-1282	Kwiatkowski	Lukasz	Mickiewicza 3	64-600	Oborniki	N-25
+03/MAT-1291	Rownicki	Stanislaw	Powstancow Wielkopolskich 83/85	64-733	Drawsko	N-25
+03/MAT-1304	Fraczak	Justyna	Broniewskiego 2	64-980	Trzcianka	N-25
+03/MAT-1339	Szymczak	Judyta	Kosynierow Gdynskich 8	66-400	Gorzow Wilekopolski	N-25
+03/MAT-1410	Cicha	Paulina	Ofiar Oswiecimia 14	70-351	Szczecin	N-25
+03/MAT-1427	Olszowska	Adriana	Floriana Szarego 12	70-743	Szczecin	N-25
+03/MAT-1029	Polaczek	Anna	Sanatoryjna 2	60-480	Poznan	N-26
+03/MAT-1058	Antkowiak	Pawel	Piastowskie 27	61-149	Poznan	N-26
+03/MAT-1124	Baginska	Joanna	Armii Krajowej 11	62-036	Kornik	N-26
+03/MAT-1131	Kaminski	Maciej	Tadeusza Kutrzeby 3	62-095	Murowana Goslina	N-26
+03/MAT-1187	Wyrwa	Jolanta	Harcerska 1	62-800	Kalisz	N-26
+03/MAT-1207	Wiszniewska	Anna	Ogrodowa 2	63-300	Pleszew	N-26
+03/MAT-1268	Puchalski	Lukasz	Mickiewicza 4	64-200	Wolsztyn	N-26
+03/MAT-1296	Turek	Ewelina	Brzozowa 4	64-920	Pila	N-26
+03/MAT-1309	Makarska	Ewelina	Lisia 37	65-098	Zielona Gora	N-26
+03/MAT-1373	Michalak	Agnieszka	Koszarowa	67-120	Kozuchow	N-26
+03/MAT-1442	Janeczek	Magdalena	Kablowa	70-895	Szczecin	N-26
+03/MAT-1471	Jasniak	Krzysztof	Dabrowki 10	71-826	Szczecin	N-26
+03/MAT-1051	Slowinski	Szymon	Harcerska 3	61-011	Poznan	N-27
+03/MAT-1060	Dzierzek	Sylwia	Piastowskie 65	61-156	Poznan	N-27
+03/MAT-1068	Kurpisz	Michal	Tysiaclecia 43	61-255	Poznan	N-27
+03/MAT-1088	Nowak	Joanna	Sarmacka 105	61-616	Poznan	N-27
+03/MAT-1152	Konjor	Jerzy	Armii Krajowej 27	62-400	Slupca	N-27
+03/MAT-1180	Poczatek	Karolina	Budowlanych 2	62-800	Kalisz	N-27
+03/MAT-1317	Suski	Remigiusz	Francuska 25 A	65-943	Zielona Gora	N-27
+03/MAT-1326	Fabiszak	Damian	Mickiewicza 5	66-300	Miedzyrzecz	N-27
+03/MAT-1353	Lotysz	Lukasz	Poznanska 5	66-520	Dobiegniew	N-27
+03/MAT-1443	Jedlinski	Krzysztof	Kablowa 14	70-895	Szczecin	N-27
+03/MAT-1465	Zarzycki	Mariusz	Komuny Paryskiej 20	71-681	Szczecin	N-27
+03/MAT-1472	Krasowski	Lukasz	Dabrowki 10	71-826	Szczecin	N-27
+03/MAT-1037	Wos	Justyna	Piatkowska 148	60-650	Poznan	N-28
+03/MAT-1078	Wilczak	Iwetta	Lozowa 53	61-448	Poznan	N-28
+03/MAT-1080	Beer	Patrycja	Dabrowki 4-7	61-501	Poznan	N-28
+03/MAT-1086	Majorczyk	Dorota	W. Lokietka 104	61-616	Poznan	N-28
+03/MAT-1108	Krzyzaniak	Piotr	Krakowska 10	61-889	Poznan	N-28
+03/MAT-1157	Potocki	Wojciech	Kaliska 19	62-500	Konin	N-28
+03/MAT-1319	Szymczak	Sandra	Okrezna 4	66-200	Swiebodzin	N-28
+03/MAT-1358	Andrzejewska	Agnieszka	Poznanska 88	66-600	Krosno Odrzanskie	N-28
+03/MAT-1379	Szuster	Kamila	Mickiewicza 5	68-100	Zagan	N-28
+03/MAT-1396	Lyskawa	Sabina	Budziszynska 2	70-023	Szczecin	N-28
+03/MAT-1466	Zygmunt	Katarzyna	Komuny Paryskiej 20	71-681	Szczecin	N-28
+03/MAT-1467	Droszczak	Adrian	Hoza 25	71-699	Szczecin	N-28
+03/MAT-1506	Stryluk	Justyna	Sasiedzka 13a	72-605	Swinoujscie	N-28
+03/MAT-1033	Sochacki	Miroslaw	Piekna 37	60-591	Poznan	N-29
+03/MAT-1109	Marciniak	Sylwester	Krakowska 17a	61-889	Poznan	N-29
+03/MAT-1113	Owczarzak	Aleksander	Gajowa 22	62-010	Pobiedziska	N-29
+03/MAT-1140	Swirski	Lukasz	Lubienskiego 7	62-200	Gniezno	N-29
+03/MAT-1169	Dzumbelak	Emil	Koninska 18	62-511	Kramsk	N-29
+03/MAT-1210	Gorgiel	Jan	Asnyka 26	63-400	Ostrow Wielkopolski	N-29
+03/MAT-1222	Przadka	Julian	Kaliska 5	63-505	Doruchow	N-29
+03/MAT-1238	Radkiewicz	Marek	Hutnika 3	63-800	Gostyn	N-29
+03/MAT-1279	Galat	Wojciech	Mickiewicza 9	64-500	Szamotuly	N-29
+03/MAT-1331	Koltko	Dariusz	Dabrowskiego 13	66-400	Gorzow Wielkopolski	N-29
+03/MAT-1387	Getner	Kamil	Okrzei 19	68-200	Zary	N-29
+03/MAT-1405	Sypniewski	Lech	Budzysza Wosia 8/9	70-273	Szczecin	N-29
+03/MAT-1431	Soltysiak	Jacek	Seledynowa 50	70-781	Szczecin	N-29
+03/MAT-1022	Labiak	Grzegorz	Dabrowskiego 262/280	60-406	Poznan	N-30
+03/MAT-1038	Aniskiewicz	Anna	B. Chrobrego 105	60-681	Poznan	N-30
+03/MAT-1045	Glogowski	Pawel	Lukaszewicza 9/13	60-726	Poznan	N-30
+03/MAT-1048	Labiak	Ewa	Bukowska 16	60-809	Poznan	N-30
+03/MAT-1081	Blandzi	Aleksandra	Pradzynskiego 53	61-527	Poznan	N-30
+03/MAT-1098	Will	Marta	Wichrowe Wzgorze 119	61-699	Poznan	N-30
+03/MAT-1117	Sielska	Anna	Mielzynskiego 1	62-020	Swarzedz	N-30
+03/MAT-1239	Rulkowska	Barbara	Hutnika 3	63-800	Gostyn	N-30
+03/MAT-1247	Tomkowicz	Lukasz	Konopnickiej 1	64-000	Koscian	N-30
+03/MAT-1254	Baranek	Natalia	Krasinskiego 22	64-100	Leszno	N-30
+03/MAT-1287	Mosiolek	Justyna	Seminarialna 16	64-610	Rogozno	N-30
+03/MAT-1290	Rownicki	Dominik	Pilka 24	64-733	Pilka	N-30
+03/MAT-1399	Nadobnik	Alicja	Orawska 1	70-131	Szczecin	N-30
+03/MAT-1474	Kulasz	Dawid	Kamienna 22	71-883	Szczecin	N-30
+03/MAT-1004	Glowania	Kinga	Galileusza 14	60-158	Poznan	N-31
+03/MAT-1021	Krol	Marcin	Promyk 4	60-393	Poznan	N-31
+03/MAT-1053	Szmicel	Eugeniusz	Inowroclawska 19	61-044	Poznan	N-31
+03/MAT-1067	Kurowska	Marta	Orla Bialego 120	61-251	Poznan	N-31
+03/MAT-1087	Matuszewska	Ewelina	Wladyslawa Lokietka 104	61-616	Poznan	N-31
+03/MAT-1120	Tom	Joanna	Mielzynskiego 1	62-020	Swarzedz	N-31
+03/MAT-1128	Fornal	Agnieszka	Bukowska 18	62-065	Grodzisk Wielkopolski	N-31
+03/MAT-1197	Konopacka	Joanna	Serbinowska 22	62-800	Kalisz	N-31
+03/MAT-1242	Socha	Michal	Dabrowskiego 33	63-900	Rawicz	N-31
+03/MAT-1277	Bakan	Katarzyna	Kaplanska 18	64-500	Szamotuly	N-31
+03/MAT-1328	Jarzabek	Agata	Konstytucji 3 Maja 44	66-400	Gorzow Wielkopolski	N-31
+03/MAT-1476	Marszalek	Piotr	Kresowa 15	72-009	Police	N-31
+03/MAT-1519	Noga	Magdalena	Luzycka 22	74-100	Gryfino	N-31
+03/MAT-1018	Ziubrzynski	Slawomir	Bulgarska 63/65	60-320	Poznan	N-32
+03/MAT-1089	Nowakowski	Tobiasz	Przelajowa 4	61-622	Poznan	N-32
+03/MAT-1106	Kostrzewa	Magdalena	Garbary 24	61-867	Poznan	N-32
+03/MAT-1143	Antkowiak	Barbara	Orla Bialego 18	62-200	Gniezno	N-32
+03/MAT-1199	Krolik	Michal	Dabrowskiego 50	63-000	Sroda Wielkopolska	N-32
+03/MAT-1284	Marecik	Katarzyna	Pilsudskiego 28	64-600	Oborniki	N-32
+03/MAT-1318	Szymanska	Anna	Luzycka 33	66-200	Swiebodzin	N-32
+03/MAT-1324	Bieniaszewski	Karol	Konstytucji 3 Maja 60	66-300	Miedzyrzecz	N-32
+03/MAT-1361	Chmura	Marta	Kresowa 48	66-620	Gubin	N-32
+03/MAT-1389	Jakubiak	Malgorzata	Inwalidow 12	68-200	Zary	N-32
+03/MAT-1419	Kubik	Wojciech	Wojska Polskiego 111	70-483	Szczecin	N-32
+03/MAT-1436	Zurek	Piotr	Miernicza 10	70-823	Szczecin	N-32
+03/MAT-1440	Hinc	Mateusz	Baltycka 1 A	70-880	Szczecin	N-32
+03/MAT-1473	Kufel	Danuta	Karpacka 29	71-872	Szczecin	N-32
+03/MAT-1482	Sobkow	Marta	Siedlecka	72-010	Police	N-32
+03/MAT-1031	Saran	Marcin	Dabrowskiego 73	60-523	Poznan	N-33
+03/MAT-1101	Blandzi	Slawomir	Garbary 82	61-758	Poznan	N-33
+03/MAT-1147	Chadzynska	Edyta	Mieszka I 20	62-220	Gniezno	N-33
+03/MAT-1166	Benyskiewicz	Pawel	Bydgoska 2	62-510	Konin	N-33
+03/MAT-1188	Zawadzka	Katarzyna	Karpacka 3	62-800	Kalisz	N-33
+03/MAT-1316	Suminski	Karol	Wojska Polskiego 116	65-762	Zielona Gora	N-33
+03/MAT-1325	Blauciak	Karolina	Konstytucji 3 Maja 60	66-300	Miedzyrzecz	N-33
+03/MAT-1342	Gibowska	Bogumila	Przemyslowa 22	66-400	Gorzow Wielkopolski	N-33
+03/MAT-1344	Rybarczyk	Krzysztof	Banaszaka 1	66-470	Kostrzyn Odrzanski	N-33
+03/MAT-1381	Wolek	Beata	Orlat Lwowskich 4	68-100	Zagan	N-33
+03/MAT-1453	Omieczynska	Edyta	Siemiradzkiego 2	71-331	Szczecin	N-33
+03/MAT-1477	Muniak	Kazimierz	Kresowa 6	72-009	Police	N-33
+03/MAT-1517	Marzol	Malwina	Iwaszkiewicza 70	74-100	Gryfino	N-33
+03/MAT-1520	Owczarek	Karolina	Luzycka 82	74-100	Gryfino	N-33
+03/MAT-1019	Figura	Agnieszka	Przybyszewskiego 37	60-356	Poznan	N-34
+03/MAT-1042	Domin	Magdalena	J. III Sobieskiego 114	60-688	Poznan	N-34
+03/MAT-1073	Natkanska	Anna	Baranowska 1	61-353	Poznan	N-34
+03/MAT-1141	Witek	Przemyslaw	Orzeszkowej 20	62-200	Gniezno	N-34
+03/MAT-1189	Brychcy	Rafal	Karpacka 3	62-800	Kalisz	N-34
+03/MAT-1236	Krajewska	Hanna	Kopernika 1	63-720	Kozmin Wielkopolski	N-34
+03/MAT-1292	Sarbak	Natalia	Sienkiewicza 1	64-761	Krzyz Wielkopolski	N-34
+03/MAT-1297	Zapotoczny	Adrian	Bydgoska 23	64-920	Pila	N-34
+03/MAT-1300	Benysek	Piotr	Krolowej Jadwigi 2	64-920	Pila	N-34
+03/MAT-1320	Urbanski	Adam	Luzyckie 28	66-200	Swiebodzin	N-34
+03/MAT-1352	Kazubski	Rafal 	Gdanska 8	66-520	Dobiegniew	N-34
+03/MAT-1376	Piwecka	Karolina	Mikolaja Kopernika	67-300	Szprotawa	N-34
+03/MAT-1411	Groszek	Dawid	Piotra Sciegiennego 34/35	70-354	Szczecin	N-34
+03/MAT-1434	Wojtek	Karina	Dabska 105	70-789	Szczecin	N-34
+03/MAT-1059	Broniarczyk	Mariusz	os. Piastowskie 65	61-156	Poznan	N-35
+03/MAT-1071	Masztalerz	Karolina	Darzyborska 1	61-303	Poznan	N-35
+03/MAT-1097	Wiernowolski	Dominik	Przyjazni 127	61-684	Poznan	N-35
+03/MAT-1153	Kowalewski	Jacek	Kopernika 13	62-400	Slupca	N-35
+03/MAT-1211	Juzwik	Arkadiusz	Batorego 2	63-400	Ostrow Wielkopolski	N-35
+03/MAT-1280	Kaminski	Piotr	Piotra Skargi 2	64-500	Szamotuly	N-35
+03/MAT-1346	Habirek	Marcin	Mikolaja Reja 32 	66-470	Kostrzyn Odrzanski	N-35
+03/MAT-1350	Borkowski	Robert	J. Popieluszki 31	66-500	Strzelce Krajenskie	N-35
+03/MAT-1354	Myczko	Krystian	Wolnosci 8	66-530	Drezdenko	N-35
+03/MAT-1367	Horodyski	Marcin	Kasprowicza 8	67-100	Nowa Sol	N-35
+03/MAT-1404	Suchodolski	Tomasz	Krolowej Jadwigi 29	70-262	Szczecin	N-35
+03/MAT-1491	Golebiowska	Marcelina	Generala Bema 41	72-200	Nowogard	N-35
+03/MAT-1495	Jursza	Aleksandra	Sienkiewicza 10a	72-300	Gryfice	N-35
+03/MAT-1056	Wos	Magdalena	Piwna 1	61-065	Poznan	N-36
+03/MAT-1057	Wydra	Wojciech	Bydgoska 4	61-127	Poznan	N-36
+03/MAT-1069	Lipa	Joanna	Osiedle Czecha 59	61-288	Poznan	N-36
+03/MAT-1205	Sagan	Marta	M. Curie - Sklodowskiej 2	63-200	Jarocin	N-36
+03/MAT-1216	Kutnik	Pawel	Krolowej Jadwigi 3	63-400	Ostrow Wielkopolski	N-36
+03/MAT-1224	Siwek	Klaudia	Sienkiewicza 21	63-600	Kepno	N-36
+03/MAT-1265	Odrobna	Kalina	Zaborowska 41	64-100	Leszno	N-36
+03/MAT-1298	Zapotoczny	Bartlomiej	Dembowskiego 4	64-920	Pila	N-36
+03/MAT-1315	Stryjas	Grzegorz	Batorego 70 A	65-735	Zielona Gora	N-36
+03/MAT-1327	Grochowska	Monika	Kasztelanska 8	66-300	Miedzyrzecz	N-36
+03/MAT-1366	Hepel	Martyna	Gimnazjalna 11	67-100	Nowa Sol	N-36
+03/MAT-1374	Nowak	Bartlomiej	Kopernika 37	67-300	Szprotawa	N-36
+03/MAT-1402	Rychla	Barbara	J. Sowinskiego 1	70-236	Szczecin	N-36
+03/MAT-1439	Grol	Dominika	Przylesie 17	70-872	Szczecin	N-36
+03/MAT-1446	Kulus	Justyna	Mikolajczyka 20	71-075	Szczecin	N-36
+03/MAT-1054	Slusarczyk	Tomasz	Minska 32	61-049	Poznan	N-37
+03/MAT-1091	Pieczarka	Mateusz	Osiedle Pod Lipami 106	61-638	Poznan	N-37
+03/MAT-1145	Augustyniak	Miroslaw	Pocztowa 11	62-200	Gniezno	N-37
+03/MAT-1148	Goryczko	Marek	Batorego 8	62-300	Wrzesnia	N-37
+03/MAT-1176	Krawczyk	Mateusz	Sienkiewicza 3	62-700	Turek	N-37
+03/MAT-1234	Kornaszewska	Barbara	Glinki 11	63-720	Kozmin Wielkopolski	N-37
+03/MAT-1323	Ziemianski	Pawel	Dluga 102	66-300	Miedzyrzecz	N-37
+03/MAT-1359	Bajnog	Kamila	Pulaskiego 3	66-600	Krosno Odrzanskie	N-37
+03/MAT-1375	Omieczynski	Adam	Kopernika 37	67-300	Szprotawa	N-37
+03/MAT-1485	Tomczak	Przemyslaw	C. K.  Norwida 1	72-100	Goleniow	N-37
+03/MAT-1496	Kwiatkowski	Ireneusz	M. Konopnickiej 19	72-400	Kamien Pomorski	N-37
+03/MAT-1497	Majewski	Roman	Katedralna 5	72-400	Kamien Pomorski	N-37
+03/MAT-1508	Zurawska	Magdalena	Zachodnia A/15	73-100	Stargard Szczecinski	N-37
+03/MAT-1011	Senyczak	Anna	Glogowska 147	60-206	Poznan	N-38
+03/MAT-1090	Piatkowska	Karolina	Pod Lipami 106	61-638	Poznan	N-38
+03/MAT-1093	Radwanski	Artur	Zwyciestwa 101	61-643	Poznan	N-38
+03/MAT-1104	Grzeszczak	Bartosz	Cegielskiego 1	61-862	Poznan	N-38
+03/MAT-1135	Mackowiak	Katarzyna	Krotka 4	62-100	Wagrowiec	N-38
+03/MAT-1208	Adam	Krzysztof	Osiedlowa 1	63-300	Pleszew	N-38
+03/MAT-1209	Bak	Dawid	M. Konopnickiej 6	63-313	Chocz	N-38
+03/MAT-1312	Pentek	Kamila	Dluga 13	65-401	Zielona Gora	N-38
+03/MAT-1329	Jurgielaniec	Adam	Bema 1	66-400	Gorzow Wilekopolski	N-38
+03/MAT-1347	Krochmal	Paulina	Sienkiewicza 6	66-470	Kostrzyn Odrzanski	N-38
+03/MAT-1391	Kaczmarek	Ziemowit	Pulaskiego 4	68-205	Zary	N-38
+03/MAT-1429	Polanska	Ewelina	Mlodziezy Polskiej 9	70-774	Szczecin	N-38
+03/MAT-1461	Utracki	Przemyslaw	Kazimierza Krolewicza 63	71-551	Szczecin	N-38
+03/MAT-1481	Skowronski	Slawomir	Korczaka 27	72-010	Police	N-38
+03/MAT-1015	Walasek	Karolina	Glogowska 90	60-262	Poznan	N-39
+03/MAT-1094	Ruszczynska	Ewa	Zwyciestwa 101	61-643	Poznan	N-39
+03/MAT-1105	Jagiela	Kamila	Kazimierza Wielkiego 17	61-863	Poznan	N-39
+03/MAT-1183	Stasik	Agnieszka	Dlugosza 14	62-800	Kalisz	N-39
+03/MAT-1190	Bujarska	Joanna	Kordeckiego 19	62-800	Kalisz	N-39
+03/MAT-1212	Kaczmarek	Anna	Bema 30	63-400	Ostrow Wielkopolski	N-39
+03/MAT-1215	Kubiak	Ewelina	Krotoszynska 171	63-400	Ostrow Wielkopolski	N-39
+03/MAT-1230	Zok	Rafal	Ostrowska 49	63-700	Krotoszyn	N-39
+03/MAT-1360	Chlopek	Patrycja	Pulaskiego Nr 3	66-600	Krosno Odrzanskie	N-39
+03/MAT-1412	Grol	Patryk	Jagiellonska 41	70-382	Szczecin	N-39
+03/MAT-1430	Rychly	Dariusz	Maczna 4	70-780	Szczecin	N-39
+03/MAT-1448	Linowiecki	Michal	Modra 11	71-220	Szczecin	N-39
+03/MAT-1509	Czajka	Mateusz	Ceglana 11	73-110	Stargard Szczecinski	N-39
+03/MAT-1515	Majewski	Dawid	Sienkiewicza 8	73-110	Stargard Szczecinski	N-39
+03/MAT-1010	Naskret	Karolina	Dmowskiego 50	60-204	Poznan	N-40
+03/MAT-1016	Wolniewicz	Katarzyna	Glogowska 92	60-262	Poznan	N-40
+03/MAT-1102	Dabek	Przemyslaw	Krysiewicza 7/8	61-825	Poznan	N-40
+03/MAT-1231	Brychcy	Daniel	Ostrowska 49	63-700	Krotoszyn	N-40
+03/MAT-1233	Dziewaltowska	Katarzyna	Sienkiewicza 9	63-700	Krotoszyn	N-40
+03/MAT-1255	Broczkowski	Radoslaw	Zygmunta Krasinskiego 2	64-100	Leszno	N-40
+03/MAT-1330	Kisiel	Bartlomiej	Chelmonskiego 1	66-400	Gorzow Wilekopolski	N-40
+03/MAT-1343	Gwozdz	Katarzyna	Puszkina 31	66-400	Gorzow Wielkopolski	N-40
+03/MAT-1413	Hartsch	Damian	Jagiellonska 58	70-382	Szczecin	N-40
+03/MAT-1475	Lukasiewicz	Magdalena	Kornela Makuszynskiego	72-009	Police	N-40
+03/MAT-1490	Dzialak	Agata	Bema 41	72-200	Nowogard	N-40
+03/MAT-1510	Duchnicz	Renata	Kazimierza Wielkiego 17	73-110	Stargard Szczecinski	N-40
+03/MAT-1513	Iwanski	Marcin	Majdanek 13	73-110	Stargard Szczecinski	N-40

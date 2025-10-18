@@ -1,0 +1,120 @@
+nr_rejestracyjny	marka	model	rok_produkcji	paliwo	klimatyzacja
+PO99915	Ford	Focus	2014	PB98	T
+PO95487	Opel	Insignia STW	2015	gaz	T
+PO78897	Peugeot	Boxer	2014	PB98	N
+PO28982	Nissan	NV200	2013	ON	T
+PO31267	Renault	Trafic	2014	PB98	N
+PO45860	Nissan	Note	2014	PB98	T
+PO87173	Peugeot	Boxer	2013	PB98	T
+PO68559	Opel	Insignia STW	2014	PB98	N
+PO88931	Nissan	Qashqai	2015	PB98	T
+PO65885	Audi	A6	2015	ON	T
+PO30212	Nissan	Quashqai 1.6 Automatic	2014	PB98	T
+PO78638	Ford	Galaxy 2.0 5+2 Seats	2014	PB98	N
+PO77794	Ford	Focus	2015	gaz	N
+PO40989	Opel	Insignia STW	2015	ON	T
+PO92505	Citroen	Berlingo 5-osobowy	2015	PB98	N
+PO69245	Volvo	XC60	2014	PB98	T
+PO55903	Volvo	S60 Diesel	2014	gaz	T
+PO74635	Audi	A6	2015	ON	N
+PO19298	Volvo	S60 Diesel	2015	ON	T
+PO98732	Chevrolet	Spark	2014	ON	N
+PO68592	Toyota	Avensis	2015	PB98	N
+PO45365	Renault	Master 2.5 DCI Van	2014	ON	N
+PO50219	Nissan	Quashqai 1.6 Automatic	2014	ON	T
+PO53034	Ford	Focus	2015	ON	N
+PO93547	Volkswagen	Passat	2015	gaz	N
+PO53828	Volkswagen	Passat	2013	gaz	T
+PO53684	Volvo	XC60	2014	ON	T
+PO55906	Peugeot	302	2014	PB98	T
+PO27981	Audi	A6	2014	PB98	T
+PO43573	Renault	Megane STW	2014	gaz	N
+PO80994	Renault	Traffic 1.9	2014	ON	T
+PO47981	Audi	A6	2014	gaz	N
+PO39336	Volkswagen	Passat	2014	ON	T
+PO38629	Renault	Master 2.5 DCI Van	2013	ON	T
+PO57352	Volvo	XC60	2014	PB98	N
+PO41748	Nissan	Quashqai 1.6 Automatic	2014	ON	N
+PO13520	Volvo	V40 Automatic	2014	ON	T
+PO31605	Nissan	Micra	2014	PB98	N
+PO26872	Nissan	NV200	2013	gaz	T
+PO66511	Suzuki	Swift	2015	ON	N
+PO28594	Volvo	V40 Automatic	2015	ON	T
+PO13404	Nissan	Note	2014	ON	T
+PO65812	Mercedes-Benz	C180	2015	PB98	N
+PO55855	Nissan	NV200	2013	PB98	T
+PO94209	Renault	Traffic 1.9	2014	ON	N
+PO16780	Ford	Focus	2015	ON	N
+PO33562	Nissan	NV200	2014	ON	N
+PO12364	Renault	Megane STW	2014	PB98	N
+PO90659	Nissan	Micra	2014	PB98	T
+PO49131	Renault	Master 2.5 DCI Van	2014	ON	N
+PO10038	Toyota	Avensis	2013	PB98	N
+PO21902	Ford	Galaxy 2.0 5+2 Seats	2015	PB98	T
+PO75377	Ford	Galaxy 2.0 5+2 Seats	2014	PB98	N
+PO38839	Toyota	Avensis	2014	PB98	N
+PO26769	Ford	Focus	2013	ON	T
+PO73726	Ford	Galaxy 2.0 5+2 Seats	2015	PB98	N
+PO27684	Nissan	Micra	2015	PB98	T
+PO82681	Toyota	Avensis	2015	PB98	N
+PO27611	Opel	Insignia STW	2013	ON	T
+PO42529	Nissan	Note	2014	PB98	N
+PO34298	Peugeot	301	2015	ON	T
+PO46733	Toyota	Avensis	2014	PB98	N
+PO97847	Renault	Master 2.5 DCI Van	2015	PB98	T
+PO67216	Nissan	Note	2013	gaz	T
+PO23712	Renault	Trafic	2014	PB98	N
+PO31706	Ford	Galaxy 2.0 5+2 Seats	2014	PB98	N
+PO67812	Volkswagen	Passat	2014	PB98	T
+PO95167	Toyota	Avensis	2015	ON	T
+PO28139	Renault	Megane STW	2014	ON	T
+PO21362	Opel	Insignia	2014	PB98	T
+PO56789	Audi	A6	2015	PB98	N
+PO59211	Toyota	Avensis	2014	gaz	T
+PO43867	Suzuki	Swift	2015	PB98	T
+PO46319	Renault	Megane STW	2015	ON	N
+PO54793	Renault	Traffic 1.9	2014	gaz	T
+PO93944	Ford	Focus	2014	ON	T
+PO44414	Toyota	Avensis	2014	gaz	T
+PO47041	Nissan	Quashqai 1.6 Automatic	2014	gaz	N
+PO54941	Toyota	Avensis	2014	PB98	N
+PO90131	Nissan	Qashqai	2014	PB98	T
+PO36575	Skoda	Octavia Tour	2014	PB98	T
+PO14264	Ford	Focus	2014	gaz	N
+PO53036	Nissan	Micra	2013	ON	T
+PO80812	Opel	Insignia	2015	PB98	T
+PO20803	Volvo	XC60	2013	ON	N
+PO38346	Toyota	Avensis	2013	ON	T
+PO71142	Volvo	V40 Automatic	2014	PB98	T
+PO25564	Toyota	Avensis	2014	ON	N
+PO86821	Ford	Galaxy 2.0 5+2 Seats	2014	ON	N
+PO49145	Ford	Galaxy 2.0 5+2 Seats	2013	ON	T
+PO86790	Toyota	Avensis	2013	PB98	N
+PO92013	Ford	Focus	2015	PB98	T
+PO72852	Volkswagen	Passat	2014	PB98	T
+PO62426	Peugeot	301	2014	PB98	T
+PO18013	Volkswagen	Passat	2015	ON	T
+PO40689	Volvo	V40 Automatic	2014	ON	T
+PO86328	Peugeot	301	2014	PB98	T
+PO92158	Volvo	V40 Automatic	2015	PB98	N
+PO29238	Ford	Galaxy 2.0 5+2 Seats	2015	PB98	T
+PO37561	Volvo	S60	2014	PB98	T
+PO81382	Volkswagen	Passat	2015	ON	N
+PO60878	Nissan	Note	2014	ON	T
+PO94764	Renault	Traffic 1.9	2015	PB98	N
+PO20415	Ford	Galaxy 2.0 5+2 Seats	2015	PB98	T
+PO23751	Volvo	XC60	2014	ON	N
+PO58911	Peugeot	303	2015	PB98	N
+PO41270	Opel	Insignia STW	2015	ON	T
+PO69784	Ford	Galaxy 2.0 5+2 Seats	2014	ON	N
+PO12576	Nissan	Micra	2014	ON	N
+PO53004	Mercedes-Benz	C180	2015	PB98	N
+PO70387	Citroen	Berlingo 5-osobowy	2015	PB98	T
+PO37747	Renault	Megane STW	2015	ON	N
+PO15344	Volvo	S60	2015	ON	N
+PO70515	Audi	A6	2014	ON	T
+PO12531	Chevrolet	Spark	2013	PB98	T
+PO21907	Nissan	Note	2014	gaz	T
+PO43313	Skoda	Octavia Tour	2015	ON	T
+PO60482	Toyota	Avensis	2013	PB98	T
+PO96974	Toyota	Avensis	2013	ON	N

@@ -1,0 +1,9 @@
+ID_dystrybutora	Dystrybutor
+1	Best Film
+2	Gutek Film
+3	ITI
+4	Monolith
+5	Syrena
+6	UiP
+7	Vision
+8	Warner

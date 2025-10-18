@@ -1,0 +1,2479 @@
+ID GMINY;Nazwa gminy
+060802;Abramów
+061103;Adamów
+062001;Adamów
+181402;Adamówka
+101001;Aleksandrów
+060202;Aleksandrów
+040101;Aleksandrów Kujawski
+040104;Aleksandrów Kujawski
+102004;Aleksandrów £ódzki
+120301;Alwernia
+100602;Andrespol
+121801;Andrychów
+141602;Andrzejewo
+060702;Annopol
+200101;Augustów
+200102;Augustów
+300902;Babiak
+120302;Babice
+080901;Babimost
+160201;Baborów
+142003;Baboszewo
+260601;Baækowice
+201201;Baka³arzewo
+182101;Baligród
+260702;Ba³tów
+320601;Banie
+281801;Banie Mazurskie
+141501;Baranowo
+140503;Baranów
+300801;Baranów
+061402;Baranów
+182001;Baranów Sandomierski
+280802;Barciany
+041901;Barcin
+281401;Barczewo
+022401;Bardo
+200103;Barg³ów Koœcielny
+321001;Barlinek
+280101;Bartoszyce
+280103;Bartoszyce
+041802;Baruchowo
+321502;Barwice
+060501;Batorz
+040105;B¹dkowo
+100202;Bedlno
+260301;Bejsce
+140601;Belsk Du¿y
+100101;Be³chatów
+100102;Be³chatów
+061802;Be³¿ec
+060901;Be³¿yce
+181702;Besko
+240202;Bestwina
+101602;Bêdków
+240101;Bêdzin
+320901;Bêdzino
+101701;Bia³a
+161001;Bia³a
+281601;Bia³a Piska
+060103;Bia³a Podlaska
+066101;Bia³a Podlaska
+101302;Bia³a Rawska
+100701;Bia³aczów
+040301;Bia³e B³ota
+140101;Bia³obrzegi
+181002;Bia³obrzegi
+320101;Bia³ogard
+320102;Bia³ogard
+060302;Bia³opole
+301902;Bia³oœliwie
+200502;Bia³owie¿a
+321503;Bia³y Bór
+121702;Bia³y Dunajec
+206101;Bia³ystok
+120502;Biecz
+142902;Bielany
+020201;Bielawa
+100502;Bielawy
+321201;Bielice
+260401;Bieliny
+141901;Bielsk
+200301;Bielsk Podlaski
+200303;Bielsk Podlaski
+246101;Bielsko-Bia³a
+160302;Bierawa
+241401;Bieruñ
+021402;Bierutów
+320201;Bierzwnik
+320902;Biesiekierz
+143701;Bie¿uñ
+060201;Bi³goraj
+060203;Bi³goraj
+181301;Bircza
+121901;Biskupice
+281202;Biskupiec
+281402;Biskupiec
+060204;Biszcza
+280104;Bisztynek
+240401;Blachownia
+080301;Bledzew
+300701;Blizanów
+261002;Bli¿yn
+101402;B³aszki
+181602;B³a¿owa
+140602;B³êdów
+143201;B³onie
+320903;Bobolice
+120503;Bobowa
+221304;Bobowo
+080202;Bobrowice
+240104;Bobrowniki
+040802;Bobrowniki
+040202;Bobrowo
+120101;Bochnia
+120102;Bochnia
+200304;Boæki
+141902;Bodzanów
+260703;Bodzechów
+260402;Bodzentyn
+022503;Bogatynia
+080102;Bogdaniec
+261201;Bogoria
+181603;Boguchwa³a
+022101;Boguszów-Gorce
+141603;Boguty-Pianki
+080902;Bojad³a
+302201;Bojanowo
+181802;Bojanów
+241404;Bojszowy
+020101;Boleslawiec
+120401;Boles³aw
+121203;Boles³aw
+101801;Boles³awiec
+020102;Boles³awiec
+321002;Boleszkowice
+101501;Bolimów
+020502;Bolków
+041803;Boniewo
+300401;Borek Wielkopolski
+061502;Borki
+142301;Borkowice
+321504;Borne Sulinowo
+240702;Boronów
+181102;Borowa
+140303;Borowie
+021701;Borów
+060902;Borzechów
+120201;Borzêcin
+220101;Borzytuchom
+300802;Bralin
+160202;Branice
+280201;Braniewo
+280202;Braniewo
+200302;Brañsk
+200305;Brañsk
+143501;Brañszczyk
+101403;Br¹szewice
+240304;Brenna
+142802;Brochów
+302601;Brodnica
+040201;Brodnica
+040203;Brodnica
+261102;Brody
+081103;Brody
+100603;Brojce
+320501;Brojce
+141604;Brok
+141903;Brudzeñ Du¿y
+302702;Brudzew
+220202;Brusy
+142103;Brwinów
+160101;Brzeg
+022201;Brzeg Dolny
+120202;Brzesko
+121302;Brzeszcze
+041804;Brzeœæ Kujawski
+102101;Brzeziny
+102102;Brzeziny
+300702;Brzeziny
+121802;BrzeŸnica
+081003;BrzeŸnica
+101404;BrzeŸnio
+321602;Brze¿no
+180302;Brzostek
+040204;Brzozie
+180201;Brzozów
+041202;Brzuze
+180502;Brzyska
+100301;Buczek
+240203;Buczkowice
+281901;Budry
+101603;Budziszowice
+121503;Budzów
+300102;Budzyñ
+302103;Buk
+041401;Bukowiec
+121703;Bukowina Tatrzañska
+121201;Bukowno
+181703;Bukowsko
+141904;Bulkowo
+101405;Burzenin
+260101;Busko-Zdrój
+060903;Bychawa
+160401;Byczyna
+046101;Bydgoszcz
+121504;Bystra-Sidzina
+020806;Bystrzyca K³odzka
+080203;Bytnica
+246201;Bytom
+080402;Bytom Odrzañski
+041102;Bytoñ
+220102;Bytów
+220402;Cedry Wielkie
+320602;Cedynia
+141204;Ceg³ów
+041601;Cekcyn
+300703;Ceków-Kolonia
+141703;Celestynów
+142903;Ceranów
+220803;Cewice
+120801;Charsznica
+100503;Ch¹œno
+060303;Che³m
+066201;Che³m
+241405;Che³m Œl¹ski
+121303;Che³mek
+121002;Che³miec
+040401;Che³mno
+040402;Che³mno
+041501;Che³m¿a
+041502;Che³m¿a
+260403;Chêciny
+143001;Chlewiska
+180403;Ch³opice
+181604;Chmielnik
+260404;Chmielnik
+220501;Chmielno
+041805;Choceñ
+021601;Chocianów
+321402;Chociwel
+302001;Chocz
+221504;Choczewo
+041806;Chodecz
+061201;Chodel
+300903;Chodów
+300101;Chodzie¿
+300103;Chodzie¿
+320603;Chojna
+220201;Chojnice
+220203;Chojnice
+020901;Chojnów
+020902;Chojnów
+180701;Chorkówka
+200201;Choroszcz
+142202;Chorzele
+246301;Chorzów
+320202;Choszczno
+140901;Chotcza
+040803;Chrostkowo
+120303;Chrzanów
+060502;Chrzanów
+160901;Chrz¹stowice
+301401;Chrzypsko Wielkie
+240305;Chybie
+140603;Chynów
+240703;Ciasna
+201302;Ciechanowiec
+140201;Ciechanów
+140202;Ciechanów
+040502;Ciechocin
+040102;Ciechocinek
+101303;Ciel¹dz
+140902;Ciepielów
+022402;Ciep³owody
+180902;Cieszanów
+021301;Cieszków
+240301;Cieszyn
+121601;Ciê¿kowice
+160303;Cisek
+182102;Cisna
+180601;Cmolas
+080501;Cybinka
+061001;Cyców
+301801;Czajków
+320301;Czaplinek
+180103;Czarna
+180303;Czarna
+181003;Czarna
+200202;Czarna Bia³ostocka
+220103;Czarna D¹brówka
+221301;Czarna Woda
+220302;Czarne
+141502;Czarnia
+300201;Czarnków
+300202;Czarnków
+101002;Czarnocin
+260302;Czarnocin
+101702;Czarno¿y³y
+022104;Czarny Bór
+121103;Czarny Dunajec
+101802;Czastary
+120203;Czchów
+240204;Czechowice-Dziedzice
+240102;CzeladŸ
+061503;Czemierniki
+301102;Czempiñ
+200503;Czeremcha
+181103;Czermin
+302002;Czermin
+022301;Czernica
+142203;Czernice Borowe
+120601;Czernichów
+241702;Czernichów
+300302;Czerniejewo
+101604;Czerniewice
+041503;Czernikowo
+220204;Czersk
+080903;Czerwieñsk
+141503;Czerwin
+142004;Czerwiñsk Nad Wis³¹
+302104;Czerwonak
+141102;Czerwonka
+241201;Czerwonka-Leszczyny
+246401;Czêstochowa
+321702;Cz³opa
+220301;Cz³uchów
+220303;Cz³uchów
+121104;Czorsztyn
+141402;Czosnów
+181901;Czudec
+200504;Czy¿e
+201303;Czy¿ew-Osada
+260704;Æmielów
+260405;Daleszyce
+101101;Dalików
+302802;Damas³awek
+221202;Damnica
+321301;Dar³owo
+321303;Dar³owo
+100402;Daszyna
+300904;D¹bie
+080204;D¹bie
+160902;D¹browa
+040901;D¹browa
+201101;D¹browa Bia³ostocka
+040702;D¹browa Biskupia
+040302;D¹browa Che³miñska
+246501;D¹browa Górnicza
+120402;D¹browa Tarnowska
+240402;D¹browa Zielona
+100203;D¹browice
+143405;D¹brówka
+281502;D¹brówno
+220304;Debrzno
+080103;Deszczno
+141205;Dêbe Wielkie
+180301;Dêbica
+180304;Dêbica
+061601;Dêblin
+221203;Dêbnica Kaszubska
+120204;Dêbno
+321003;Dêbno
+061301;Dêbowa K³oda
+041702;Dêbowa £¹ka
+180503;Dêbowiec
+240306;Dêbowiec
+022302;D³ugo³êka
+143502;D³ugosiod³o
+100803;D³utów
+102103;Dmosin
+120901;Dobczyce
+080601;Dobiegniew
+120703;Dobra
+302703;Dobra
+321801;Dobra
+321101;Dobra Szczeciñska
+040303;Dobrcz
+141206;Dobre
+041103;Dobre
+281403;Dobre Miasto
+160801;Dobrodzieñ
+021903;Dobromierz
+100804;Dobroñ
+021403;Dobroszyce
+101202;Dobryszyce
+321403;Dobrzany
+160903;Dobrzeñ Wielki
+302003;Dobrzyca
+200203;Dobrzyniewo Du¿e
+040804;Dobrzyñ Nad Wis³¹
+321404;Dolice
+302602;Dolsk
+060402;Do³hobyczów
+142601;Domanice
+100504;Domaniewice
+021502;Domaniów
+180202;Domaradz
+160601;Domaszowice
+302501;Dominowo
+302105;Dopiewo
+060304;Dorohusk
+301802;Doruchów
+041402;Dragacz
+320203;Drawno
+300203;Drawsko
+320302;Drawsko Pomorskie
+060104;Drelów
+080602;Drezdenko
+141905;Drobin
+201002;Drohiczyn
+100103;Dru¿bice
+120103;Drwinia
+100702;Drzewica
+041403;Drzycim
+281802;Dubeninki
+200505;Dubicze Cerkiewne
+181302;Dubiecko
+060305;Dubienka
+180702;Dukla
+302402;Duszniki
+020801;Duszniki-Zdrój
+260902;Dwikozy
+180203;Dydnia
+320802;Dygowo
+181601;Dynów
+181605;Dynów
+281404;Dywity
+201003;Dziadkowice
+021404;Dziadowa K³oda
+280301;Dzia³dowo
+280302;Dzia³dowo
+260801;Dzia³oszyce
+100901;Dzia³oszyn
+220602;Dziemiany
+142005;Dzierz¹¿nia
+221601;Dzierzgoñ
+141302;Dzierzgowo
+060703;Dzierzkowice
+020202;Dzier¿oniów
+020205;Dzier¿oniów
+180606;Dzikowiec
+320701;Dziwnów
+060503;Dzwola
+281702;DŸwierzuty
+280401;Elbl¹g
+286101;Elbl¹g
+280501;E³k
+280502;E³k
+041807;Fabianki
+060602;Fajs³awice
+260501;Fa³ków
+201202;Filipów
+060803;Firlej
+060205;Frampol
+181303;Fredropol
+280203;Frombork
+181902;Frysztak
+181403;Gaæ
+101803;Galewice
+140701;Garbatka-Letnisko
+060904;Garbów
+220702;Gardeja
+140301;Garwolin
+140304;Garwolin
+241202;Gaszowice
+181104;Gaw³uszowice
+021602;Gaworzyce
+141906;G¹bin
+041902;G¹sawa
+226101;Gdañsk
+121902;Gdów
+226201;Gdynia
+200902;Giby
+101203;Gidle
+142302;Gielniów
+240503;Giera³towice
+281405;Gietrzwa³d
+241703;Gilowice
+302004;Giza³ki
+280601;Gi¿ycko
+280604;Gi¿ycko
+140203;Glinojeck
+246601;Gliwice
+020301;G³ogów
+020302;G³ogów
+181606;G³ogów Ma³opolski
+161002;G³ogówek
+140702;G³owaczów
+102001;G³owno
+102005;G³owno
+221204;G³ówczyce
+160203;G³ubczyce
+160701;G³ucho³azy
+101502;G³uchów
+060905;G³usk
+022105;G³uszyca
+221402;Gniew
+221505;Gniewino
+040703;Gniewkowo
+140703;Gniewoszów
+300301;Gniezno
+300303;Gniezno
+120205;Gnojnik
+260102;Gnojno
+241001;Gocza³kowice-Zdrój
+280402;Godkowo
+241505;Godów
+101503;Godzianów
+300704;Godziesze Wielkie
+060504;Godziszów
+160501;Gogolin
+320702;Golczewo
+320402;Goleniów
+240307;Goleszów
+301001;Golina
+040501;Golub-Dobrzyñ
+040503;Golub-Dobrzyñ
+302803;Go³añcz
+120802;Go³cza
+281803;Go³dap
+302005;Go³uchów
+140204;Go³ymin-Oœrodek
+101204;Gomunice
+200801;Goni¹dz
+060206;Goraj
+120501;Gorlice
+120504;Gorlice
+101003;Gorzkowice
+060603;Gorzków
+160802;Gorzów Œl¹ski
+086101;Gorzów Wielkopolski
+182002;Gorzyce
+241506;Gorzyce
+041602;Gostycyn
+140401;Gostynin
+140402;Gostynin
+300402;Gostyñ
+101406;Goszczanów
+140604;Goszczyn
+060704;Goœcieradów
+320803;Goœcino
+260502;Gowarczów
+141504;Goworowo
+081001;Gozdnica
+142702;Gozdowo
+020401;Góra
+141801;Góra Kalwaria
+100403;Góra Œw. Ma³gorzaty
+260406;Górno
+280102;Górowo I³aweckie
+280105;Górowo I³aweckie
+140305;Górzno
+040205;Górzno
+080502;Górzyca
+142502;Gózd
+101004;Grabica
+062002;Grabowiec
+200602;Grabowo
+100404;Grabów
+140704;Grabów Nad Pilic¹
+301803;Grabów Nad Prosn¹
+200401;Grajewo
+200402;Grajewo
+300501;Granowo
+040206;Gr¹¿awy
+143302;Grêbków
+021603;Grêbocice
+120403;Grêboszów
+182003;Grêbów
+160103;Grodków
+281203;Grodziczno
+301002;Grodziec
+201004;Grodzisk
+140504;Grodzisk Mazowiecki
+300502;Grodzisk Wielkopolski
+180802;Grodzisko Dolne
+020103;Gromadka
+121602;Gromnik
+280403;Gronowo Elbl¹skie
+200204;Gródek
+121003;Gródek Nad Dunajcem
+140605;Grójec
+140205;Grudusk
+040601;Grudzi¹dz
+046201;Grudzi¹dz
+281503;Grunwald
+040602;Gruta
+121001;Grybów
+121004;Grybów
+320502;Gryfice
+320604;Gryfino
+021201;Gryfów Œl¹ski
+300905;Grzegorzew
+321505;Grzmi¹ca
+080201;Gubin
+080205;Gubin
+142401;Gzy
+180204;Haczów
+200501;Hajnówka
+200506;Hajnówka
+141207;Halinów
+061902;Hanna
+061903;Hañsk
+181201;Harasiuki
+240308;Ha¿lach
+221101;Hel
+240704;Herby
+060403;Horod³o
+180903;Horyniec-Zdrój
+060401;Hrubieszów
+060404;Hrubieszów
+141001;Huszlew
+181607;Hy¿ne
+120602;Igo³omia-Wawrzeñczyce
+280701;I³awa
+280703;I³awa
+081004;I³owa
+280303;I³owo-Osada
+142803;I³ów
+142503;I³¿a
+241402;Imielin
+260201;Imielno
+101605;Inow³ódz
+040701;Inowroc³aw
+040704;Inowroc³aw
+321405;Iñsko
+241603;Irz¹dze
+240309;Istebna
+260602;Iwaniska
+120603;Iwanowice
+181501;Iwierzyce
+120206;Iwkowa
+180703;Iwonicz-Zdrój
+143202;Izabelin
+060604;Izbica
+041808;Izbica Kujawska
+161101;Izbicko
+121105;Jab³onka
+140802;Jab³onna
+060906;Jab³onna
+142904;Jab³onna Lacka
+040207;Jab³onowo Pomorskie
+061302;Jab³oñ
+143406;Jadów
+140505;Jaktorów
+141208;Jakubów
+040705;Janikowo
+020605;Janowice Wielkie
+061403;Janowiec
+281101;Janowiec Koœcielny
+041903;Janowiec Wielkopolski
+281102;Janowo
+201102;Janów
+240403;Janów
+060505;Janów Lubelski
+060105;Janów Podlaski
+300601;Jaraczewo
+061803;Jarczów
+181202;Jarocin
+300602;Jarocin
+180401;Jaros³aw
+180404;Jaros³aw
+240205;Jasienica
+180205;Jasienica Rosielna
+140606;Jasieniec
+081104;Jasieñ
+200802;Jasionówka
+180501;Jas³o
+180504;Jas³o
+221102;Jastarnia
+060907;Jastków
+303102;Jastrowie
+143002;Jastrz¹b
+142504;Jastrzêbia
+246701;Jastrzêbie-Zdrój
+200803;Jaœwi³y
+020501;Jawor
+181404;Jawornik Polski
+240206;Jaworze
+246801;Jaworzno
+021904;Jaworzyna Œl¹ska
+180704;Jedlicze
+022102;Jedlina-Zdrój
+142505;Jedliñsk
+142506;Jedlnia-Letnisko
+142204;Jednoro¿ec
+200701;Jedwabne
+281703;Jedwabno
+241203;Jejkowice
+021503;Jelcz-Laskowice
+026101;Jelenia Góra
+201203;Jeleniewo
+241704;Jeleœnia
+161102;Jemielnica
+020402;Jemielno
+020303;Jerzmanowa
+120604;Jerzmanowice-Przeginia
+040902;Jeziora Wielkie
+281406;Jeziorany
+060804;Jeziorzany
+041404;Je¿ewo
+181203;Je¿owe
+102104;Je¿ów
+020606;Je¿ów Sudecki
+260202;Jêdrzejów
+180305;Jod³owa
+120704;Jod³ownik
+142006;Joniec
+281407;Jonkowo
+121501;Jordanów
+121505;Jordanów
+022303;Jordanów Œl¹ski
+141701;Józefów
+060207;Józefów
+061202;Józefów
+200205;Juchnowiec Koœcielny
+302202;Jutrosin
+301903;Kaczory
+141505;Kadzid³o
+241301;Kalety
+280503;Kalinowo
+221305;Kaliska
+306101;Kalisz
+320303;Kalisz Pomorski
+121803;Kalwaria Zebrzydowska
+141209;Ka³uszyn
+120705;Kamienica
+240404;Kamienica Polska
+300503;Kamieniec
+022403;Kamieniec Z¹bkowicki
+020701;Kamienna Góra
+020702;Kamienna Góra
+160702;Kamiennik
+181608;Kamieñ
+060306;Kamieñ
+041301;Kamieñ Krajeñski
+320703;Kamieñ Pomorski
+101205;Kamieñsk
+060805;Kamionka
+121005;Kamionka Wielka
+143203;Kampinos
+181405;Kañczuga
+141704;Karczew
+061203;Karczmiska
+080904;Kargowa
+320103;Karlino
+320503;Karnice
+141103;Karniewo
+020601;Karpacz
+220603;Karsin
+220502;Kartuzy
+246901;Katowice
+302704;Kawêczyn
+143601;Kazanów
+301003;Kazimierz Biskupi
+061404;Kazimierz Dolny
+260303;Kazimierza Wielka
+302403;KaŸmierz
+061504;K¹kolewnica Wschodnia
+022304;K¹ty Wroc³awskie
+041001;Kcynia
+160301;Kêdzierzyn-KoŸle
+221205;Kêpice
+300803;Kêpno
+041603;Kêsowo
+280801;Kêtrzyn
+280803;Kêtrzyn
+121304;Kêty
+266101;Kielce
+100902;Kie³czyg³ów
+100505;Kiernozia
+160204;Kietrz
+260802;Kije
+040403;Kijewo Królewskie
+040805;Kikó³
+280704;Kisielice
+300304;Kiszkowo
+280902;Kiwity
+300305;Klecko
+301004;Kleczew
+143407;Klembów
+200507;Kleszczele
+302106;Kleszczewo
+100104;Kleszczów
+260903;Klimontów
+101407;Klonowa
+160402;Kluczbork
+121204;Klucze
+261301;Kluczewsko
+100105;Kluki
+201304;Klukowo
+142303;Klwów
+121903;K³aj
+240601;K³obuck
+061602;K³oczew
+300906;K³odawa
+080104;K³odawa
+020802;K³odzko
+020807;K³odzko
+240405;K³omnice
+240501;Knurów
+200804;Knyszyn
+101206;Kobiele Wielkie
+022305;Kobierzyce
+241002;Kobiór
+301804;Kobyla Góra
+321406;Kobylanka
+301202;Kobylin
+201305;Kobylin-Borzymy
+221206;Kobylnica
+143401;Koby³ka
+240705;Kochanowice
+100506;Kocierzew Po³udniowy
+060806;Kock
+120605;Kocmyrzów-Luborzyca
+220305;Kocza³a
+060106;Kodeñ
+101207;Kodr¹b
+220403;Kolbudy
+180602;Kolbuszowa
+200601;Kolno
+200603;Kolno
+281408;Kolno
+161103;Kolonowskie
+080403;Kolsko
+100607;Koluszki
+303001;Ko³aczkowo
+180505;Ko³aczyce
+201402;Ko³aki Koœcielne
+321102;Ko³baskowo
+141705;Ko³biel
+220104;Ko³czyg³owy
+300901;Ko³o
+300907;Ko³o
+320801;Ko³obrzeg
+320804;Ko³obrzeg
+181704;Komañcza
+061505;Komarówka Podlaska
+062003;Komarów-Osada
+302107;Komorniki
+160904;Komprachcice
+220205;Konarzyny
+021702;Kondratowice
+040106;Koneck
+240406;Koniecpol
+306201;Konin
+121401;Koniusza
+240407;Konopiska
+101703;Konopnica
+060908;Konopnica
+141802;Konstancin-Jeziorna
+060107;Konstantynów
+100801;Konstantynów £ódzki
+260503;Koñskie
+061405;Koñskowola
+260904;Koprzywnica
+142602;Korczew
+180705;Korczyna
+160703;Korfantów
+241102;Kornowac
+040304;Koronowo
+280804;Korsze
+201103;Korycin
+143303;Korytnica
+121006;Korzenna
+221105;Kosakowo
+142905;Kosów Lacki
+021801;Kostom³oty
+302108;Kostrzyn
+080101;Kostrzyn
+326101;Koszalin
+241705;Koszarawa
+240706;Koszêcin
+121402;Koszyce
+301101;Koœcian
+301103;Koœcian
+300908;Koœcielec
+121704;Koœcielisko
+220601;Koœcierzyna
+220604;Koœcierzyna
+020304;Kotla
+300603;Kotlin
+142603;Kotuñ
+041801;Kowal
+041809;Kowal
+142507;Kowala
+281303;Kowale Oleckie
+040504;Kowalewo Pomorskie
+020602;Kowary
+101504;Kowiesy
+240902;Kozieg³owy
+321202;Kozielice
+140705;Kozienice
+281103;Koz³owo
+120803;Koz³ów
+240207;Kozy
+301203;KoŸmin Wielkoposki
+300705;KoŸminek
+080404;Ko¿uchów
+302109;Kórnik
+303103;Krajenka
+126101;Kraków
+301005;Kramsk
+160502;Krapkowice
+181304;Krasiczyn
+142205;Krasne
+181609;Krasne
+062004;Krasnobród
+200903;Krasnopol
+141104;Krasnosielc
+060601;Krasnystaw
+060605;Krasnystaw
+261302;Krasocin
+301805;Kraszewice
+060606;Kraœniczyn
+060701;Kraœnik
+060705;Kraœnik
+180506;Krempna
+300403;Krobia
+241604;Kroczyce
+221106;Krokowa
+186101;Krosno
+080206;Krosno Odrzañskie
+121106;Kroœcienko Nad Dunajcem
+180706;Kroœcienko Wy¿ne
+021302;Kroœnice
+100204;Kroœniewice
+020903;Krotoszyce
+301204;Krotoszyn
+280605;Kruklanki
+241305;Krupski M³yn
+040706;Kruszwica
+240408;Kruszyna
+221001;Krynica Morska
+121007;Krynica-Zdrój
+061804;Krynice
+201104;Krynki
+200805;Krypno
+241103;Krzanowice
+060909;Krzczonów
+301301;Krzemieniewo
+240602;Krzepice
+120606;Krzeszowice
+181204;Krzeszów
+080701;Krzeszyce
+320204;Krzêcin
+302502;Krzykosy
+301006;Krzymów
+142206;Krzynow³oga Ma³a
+181305;Krzywcza
+061104;Krzywda
+301104;Krzywiñ
+300204;Krzy¿ Wielkopolski
+241104;Krzy¿anowice
+100205;Krzy¿anów
+100805;Ksawerów
+120804;Ksi¹¿ Wielki
+302603;Ksi¹¿ Wielkopolski
+041703;Ksi¹¿ki
+060208;Ksiê¿pol
+143702;Kuczbork-Osada
+020803;Kudowa-Zdrój
+201306;Kulesze Koœcielne
+020904;Kunice
+260705;Kunów
+061406;Kurów
+180803;Kury³ówka
+281204;Kurzêtnik
+301501;Kuœlin
+100201;Kutno
+100206;Kutno
+241105;KuŸnia Raciborska
+201105;KuŸnica
+220701;Kwidzyn
+220703;Kwidzyn
+301402;Kwilcz
+121804;Lanckorona
+120706;Laskowa
+160403;Lasowice Wielkie
+180405;Laszki
+141210;Latowicz
+302302;L¹dek
+020808;L¹dek-Zdrój
+140801;Legionowo
+026201;Legnica
+020905;Legnickie Pole
+141506;Lelis
+280204;Lelkowo
+240409;Lelów
+141403;Leoncin
+182103;Lesko
+143204;Leszno
+306301;Leszno
+141803;Lesznowola
+021003;Leœna
+060108;Leœna Podlaska
+161104;Leœnica
+060307;Leœniowice
+160104;Lewin Brzeski
+020809;Lewin K³odzki
+180801;Le¿ajsk
+180804;Le¿ajsk
+220801;Lêbork
+241403;Lêdziny
+101208;Lgota Wielka
+120304;Libi¹¿
+220903;Lichnowy
+280304;Lidzbark
+280901;Lidzbark Warmiñski
+280903;Lidzbark Warmiñski
+120701;Limanowa
+120707;Limanowa
+221506;Linia
+220605;Liniewo
+101505;Lipce Reymontowskie
+321203;Lipiany
+240603;Lipie
+120505;Lipinki
+081105;Lipinki £u¿yckie
+303104;Lipka
+220105;Lipnica
+120104;Lipnica Murowana
+121107;Lipnica Wielka
+260603;Lipnik
+301302;Lipno
+040801;Lipno
+040806;Lipno
+241706;Lipowa
+141303;Lipowiec Koœcielny
+200104;Lipsk
+140903;Lipsko
+220606;Lipusz
+040404;Lisewo
+121603;Lisia Góra
+300706;Lisków
+120607;Liszki
+143304;Liw
+041405;Lniano
+180901;Lubaczów
+180904;Lubaczów
+041810;Lubanie
+021001;Lubañ
+021004;Lubañ
+060801;Lubartów
+060807;Lubartów
+300205;Lubasz
+280702;Lubawa
+280705;Lubawa
+020703;Lubawka
+181610;Lubenia
+221306;Lubichowo
+041504;Lubicz
+120902;Lubieñ
+041811;Lubieñ Kujawski
+041604;Lubiewo
+021101;Lubin
+021102;Lubin
+080105;Lubiszyn
+066301;Lublin
+240701;Lubliniec
+080702;Lubniewice
+101606;Lubochnia
+241507;Lubomia
+021202;Lubomierz
+280904;Lubomino
+302101;Luboñ
+143703;Lubowidz
+041812;Lubraniec
+161003;Lubrza
+080801;Lubrza
+081106;Lubsko
+160105;Lubsza
+061805;Lubycza Królewska
+061002;Ludwin
+143704;Lutocin
+100806;Lutomiersk
+180105;Lutowiska
+101804;Lututów
+221507;Luzino
+301502;Lwówek
+021203;Lwówek Œl¹ski
+241204;Lyski
+041904;£abiszyn
+121008;£abowa
+062005;£abunie
+101209;£adzice
+020206;£agiewniki
+260407;£agów
+080802;£agów
+160704;£ambinowice
+100207;£aniêta
+181001;£añcut
+181004;£añcut
+120105;£apanów
+121108;£apsze Ni¿ne
+200206;£apy
+040603;£asin
+100302;£ask
+140302;£askarzew
+140306;£askarzew
+061806;£aszczów
+061204;£aziska
+240801;£aziska Górne
+241605;£azy
+141907;£¹ck
+121009;£¹cko
+261003;£¹czna
+220802;£eba
+061003;£êczna
+100401;£êczyca
+100405;£êczyca
+221508;£êczyce
+300804;£êka Opatowska
+241707;£êkawica
+101005;£êki Szlacheckie
+081101;£êknica
+321802;£obez
+301904;£ob¿enica
+143305;£ochów
+241708;£odygowice
+060109;£omazy
+143205;£omianki
+200702;£om¿a
+206201;£om¿a
+260905;£oniów
+060607;£opiennik Górny
+260408;£opuszno
+141002;£osice
+121010;£ososina Dolna
+100501;£owicz
+100507;£owicz
+106101;£ódŸ
+041505;£ubianka
+160905;£ubniany
+101805;£ubnice
+261202;£ubnice
+300306;£ubowo
+060209;£ukowa
+120708;£ukowica
+061101;£uków
+061105;£uków
+281504;£ukta
+120506;£u¿na
+141507;£yse
+041506;£ysomice
+100508;£yszkowice
+146501;M. St. Warszawa
+140307;Maciejowice
+140706;Magnuszew
+180603;Majdan Królewski
+101506;Maków
+141101;Maków Mazowiecki
+121506;Maków Podhalañski
+302705;Malanów
+220901;Malbork
+220904;Malbork
+021802;Malczyce
+321304;Malechowo
+141908;Ma³a Wieœ
+281505;Ma³dyty
+141605;Ma³kinia Górna
+260203;Ma³ogoszcz
+081005;Ma³omice
+200604;Ma³y P³ock
+320904;Manowo
+021905;Marcinowice
+020704;Marciszów
+300104;Margonin
+321408;Marianowo
+143402;Marki
+241508;Marklowice
+181005;Markowa
+280404;Markusy
+061407;Markuszów
+101210;Mas³owice
+260409;Mas³ów
+320403;Maszewo
+080207;Maszewo
+181306;Medyka
+061702;Me³giew
+020503;Mêcinka
+120404;Mêdrzechów
+301905;Miasteczko Krajeñskie
+241302;Miasteczko Œl¹skie
+220106;Miastko
+200703;Miastkowo
+140308;Miastków Koœcielny
+062006;Mi¹czyn
+120608;Micha³owice
+142104;Micha³owice
+200207;Micha³owo
+260803;Micha³ów
+060808;Michów
+120805;Miechów
+260410;Miedziana Góra
+301503;Miedzichowo
+143306;Miedzna
+021405;Miedzybórz
+241003;MiedŸna
+240604;MiedŸno
+180707;Miejsce Piastowe
+302203;Miejska Górka
+181101;Mielec
+181105;Mielec
+300307;Mieleszyn
+201005;Mielnik
+320905;Mielno
+022106;Mieroszów
+240105;Mierzêcice
+320605;Mieszkowice
+302804;Mieœcisko
+022306;Mietków
+301403;Miêdzychód
+020810;Miêdzylesie
+060101;Miêdzyrzec Podlaski
+060110;Miêdzyrzec Podlaski
+080302;Miêdzyrzecz
+320704;Miêdzyzdroje
+021803;Miêkinia
+281002;Miko³ajki
+221602;Miko³ajki Pomorskie
+240802;Miko³ów
+301806;Mikstat
+061303;Milanów
+140501;Milanówek
+201006;Milejczyce
+280405;Milejewo
+061004;Milejów
+021303;Milicz
+241709;Milówka
+281506;Mi³akowo
+280606;Mi³ki
+020906;Mi³kowice
+281507;Mi³om³yn
+220906;Mi³oradz
+303002;Mi³os³aw
+141201;Miñsk Mazowiecki
+141211;Miñsk Mazowiecki
+060405;Mircze
+321703;Miros³awiec
+143003;Mirów
+021204;Mirsk
+261103;Mirzec
+141301;M³awa
+142804;M³odzieszyn
+280406;M³ynary
+141105;M³ynarze
+260411;Mniów
+100703;Mniszków
+142703;Mochowo
+060506;Modliborzyce
+140607;Mogielnica
+120609;Mogilany
+040903;Mogilno
+142604;Mokobody
+101704;Mokrsko
+200806;Moñki
+260412;Morawica
+281508;Mor¹g
+142605;Mordy
+320606;Moryñ
+221403;Morzeszczyn
+302110;Mosina
+261303;Moskorzew
+101006;Moszczenica
+120507;Moszczenica
+281001;Mr¹gowo
+281003;Mr¹gowo
+041002;Mrocza
+141212;Mrozy
+240410;Mstów
+241509;Mszana
+120702;Mszana Dolna
+120709;Mszana Dolna
+143802;Mszczonów
+020504;Mœciwojów
+121805;Mucharz
+302111;Murowana Goœlina
+160906;Murów
+121011;Muszyna
+300707;Mycielin
+240411;Mykanów
+020607;Mys³akowice
+247001;Mys³owice
+240901;Myszków
+141508;Myszyniec
+120903;Myœlenice
+321004;Myœlibórz
+142105;Nadarzyn
+260204;Nag³owice
+041003;Nak³o Nad Noteci¹
+061408;Na³êczów
+160602;Namys³ów
+200508;Narew
+200509;Narewka
+180905;Narol
+142007;Naruszewo
+141404;Nasielsk
+121012;Nawojowa
+303003;Nekla
+241106;Nêdza
+281104;Nidzica
+100509;Nieborów
+181903;Niebylec
+300308;Niechanowo
+020403;Niechlów
+060910;Niedrzwica Du¿a
+060809;NiedŸwiada
+120710;NiedŸwiedŸ
+081006;Niegos³awice
+240903;Niegowa
+062007;Nielisz
+060911;Niemce
+020207;Niemcza
+160907;Niemodlin
+121904;Niepo³omice
+140803;Nieporêt
+040103;Nieszawa
+181205;Nisko
+180604;Niwiska
+100903;Nowa BrzeŸnica
+182004;Nowa Dêba
+220607;Nowa Karczma
+020804;Nowa Ruda
+020811;Nowa Ruda
+180805;Nowa Sarzyna
+260413;Nowa S³upia
+080401;Nowa Sól
+080405;Nowa Sól
+142805;Nowa Sucha
+220804;Nowa Wieœ Lêborska
+040305;Nowa Wieœ Wielka
+041406;Nowe
+121403;Nowe Brzesko
+080406;Nowe Miasteczko
+142008;Nowe Miasto
+281201;Nowe Miasto Lubawskie
+281205;Nowe Miasto Lubawskie
+140608;Nowe Miasto N/Pilic¹
+302503;Nowe Miasto Nad Wart¹
+100208;Nowe Ostrowy
+201307;Nowe Piekuty
+301702;Nowe Skalmierzyce
+321103;Nowe Warpno
+200105;Nowinka
+061603;Nowodwór
+320404;Nowogard
+020104;Nowogrodziec
+200704;Nowogród
+080905;Nowogród Bobrzañski
+321005;Nowogródek Pomorski
+100608;Nowosolna
+141909;Nowy Duninów
+201106;Nowy Dwór
+221002;Nowy Dwór Gdañski
+141401;Nowy Dwór Mazowiecki
+101507;Nowy Kawêczyn
+260103;Nowy Korczyn
+126201;Nowy S¹cz
+220907;Nowy Staw
+121101;Nowy Targ
+121109;Nowy Targ
+301504;Nowy Tomyœl
+120106;Nowy Wiœnicz
+180507;Nowy ¯migród
+180206;Nozdrzec
+141606;Nur
+201007;Nurzec-Stacja
+160705;Nysa
+301601;Oborniki
+022001;Oborniki Œl¹skie
+260906;Obrazów
+041507;Obrowo
+142402;Obryte
+302401;Obrzycko
+302404;Obrzycko
+060210;Obsza
+121110;Ochotnica Dolna
+301703;Odolanów
+142304;Odrzywó³
+241606;Ogrodzieniec
+140206;Ojrzeñ
+303105;Okonek
+260205;Oksa
+281304;Olecko
+120405;Olesno
+160803;Olesno
+180906;Oleszyce
+261203;Oleœnica
+021401;Oleœnica
+021406;Oleœnica
+121205;Olkusz
+182104;Olszanica
+141003;Olszanka
+160106;Olszanka
+141509;Olszewo-Borki
+300909;Olszówka
+240412;Olsztyn
+286201;Olsztyn
+281409;Olsztynek
+021005;Olszyna
+021501;O³awa
+021504;O³awa
+301505;Opalenica
+260304;Opatowiec
+240605;Opatów
+260604;Opatów
+300708;Opatówek
+140207;Opinogóra Górna
+100704;Opoczno
+166101;Opole
+061205;Opole Lubelskie
+100209;Oporów
+302303;Orchowo
+200306;Orla
+181307;Or³y
+280905;Orneta
+240804;Ornontowice
+143004;Oroñsko
+240803;Orzesze
+281602;Orzysz
+041407;Osie
+141706;Osieck
+221307;Osieczna
+301303;Osieczna
+020105;Osiecznica
+121305;Osiek
+221308;Osiek
+261204;Osiek
+040208;Osiek
+180508;Osiek Jasielski
+300910;Osiek Ma³y
+040306;Osielsko
+041104;Osiêciny
+320405;Osina
+101705;Osjaków
+221003;Ostaszewo
+146101;Ostro³êka
+302405;Ostroróg
+320304;Ostrowice
+260701;Ostrowiec Œwiêtokrzyski
+302304;Ostrowite
+281501;Ostróda
+281509;Ostróda
+181502;Ostrów
+060810;Ostrów Lubelski
+141601;Ostrów Mazowiecka
+141607;Ostrów Mazowiecka
+301701;Ostrów Wielkopolski
+301704;Ostrów Wielkopolski
+101706;Ostrówek
+060811;Ostrówek
+301807;Ostrzeszów
+080503;Oœno Lubuskie
+121301;Oœwiêcim
+121306;Oœwiêcim
+160706;Otmuchów
+141702;Otwock
+080407;Otyñ
+160908;Ozimek
+102002;Ozorków
+102006;Ozorków
+241306;O¿arowice
+260605;O¿arów
+143206;O¿arów Mazowiecki
+100802;Pabianice
+100807;Pabianice
+260104;Pacanów
+140403;Pacyna
+160707;Paczków
+181106;Padew Narodowa
+100904;Pajêczno
+302204;Pakos³aw
+160708;Pakos³awice
+040707;Pakoœæ
+121404;Pa³ecznica
+240606;Panki
+040405;Papowo Biskupie
+142606;Paprotnia
+100705;Parady¿
+220107;Parchowo
+061304;Parczew
+140309;Parysów
+102007;Parzêczew
+280407;Pas³êk
+281704;Pasym
+020505;Paszowice
+180406;Paw³osiów
+241004;Paw³owice
+160304;Paw³owiczki
+261104;Paw³ów
+240707;Pawonków
+101707;P¹tnów
+120904;Pcim
+221404;Pelplin
+320205;Pe³czyce
+201008;Perlejewo
+300805;Perzów
+020305;Pêc³aw
+101102;Pêczniew
+300404;Pêpowo
+141804;Piaseczno
+300405;Piaski
+061703;Piaski
+142101;Piastów
+100406;Pi¹tek
+200705;Pi¹tnica
+020603;Piechowice
+281004;Piecki
+247101;Piekary Œl¹skie
+260414;Piekoszów
+022603;Pielgrzymka
+280205;Pieniê¿no
+022504;Pieñsk
+260415;Pierzchnica
+020203;Pieszyce
+241107;Pietrowice Wielkie
+140310;Pilawa
+240504;Pilchowice
+241607;Pilica
+180306;Pilzno
+301901;Pi³a
+020204;Pi³awa Górna
+260804;Piñczów
+142501;Pionki
+142508;Pionki
+041105;Piotrków Kujawski
+106201;Piotrków Trybunalski
+281603;Pisz
+060111;Piszczac
+121013;Piwniczna-Zdrój
+141004;Platerów
+021006;Platerówka
+302006;Pleszew
+121604;Pleœna
+200106;P³aska
+146201;P³ock
+141106;P³oniawy-Bramura
+142001;P³oñsk
+142009;P³oñsk
+280206;P³oskinia
+280305;P³oœnica
+320504;P³oty
+041704;P³u¿nica
+140609;Pniewy
+302406;Pniewy
+302112;Pobiedziska
+240413;Poczesna
+101103;Poddêbice
+061305;Podedwórze
+121014;Podegrodzie
+020608;Podgórzyn
+140502;Podkowa Leœna
+300406;Pogorzela
+160603;Pokój
+142403;Pokrzywnica
+020805;Polanica-Zdrój
+121307;Polanka Wielka
+320906;Polanów
+321104;Police
+143602;Policzna
+021604;Polkowice
+160305;Polska Cerekiew
+300206;Po³ajewo
+261205;Po³aniec
+321603;Po³czyn-Zdrój
+141405;Pomiechówek
+061206;Poniatowa
+300407;Poniec
+160909;Popielów
+240607;Popów
+240904;Poraj
+240208;Por¹bka
+241601;Porêba
+121705;Poronin
+321305;Postomino
+100706;Poœwiêtne
+143408;Poœwiêtne
+200208;Poœwiêtne
+221207;Potêgowo
+060211;Potok Górny
+060507;Potok Wielki
+142305;Potworów
+302305;Powidz
+281902;Pozezdrze
+306401;Poznañ
+220704;Prabuty
+160804;Praszka
+141805;Pra¿mów
+020907;Prochowice
+140102;Promna
+280504;Prostki
+121405;Proszowice
+160910;Prószków
+180407;Pruchnik
+161004;Prudnik
+022002;Prusice
+041408;Pruszcz
+220401;Pruszcz Gdañski
+220404;Pruszcz Gdañski
+142102;Pruszków
+142201;Przasnysz
+142207;Przasnysz
+220306;Przechlewo
+121308;Przeciszów
+181107;Przec³aw
+101211;Przedbórz
+300911;Przedecz
+321204;Przelewice
+302901;Przemêt
+021605;Przemkow
+181308;Przemyœl
+186201;Przemyœl
+201204;Przeroœl
+142607;Przesmyki
+021703;Przeworno
+181401;Przeworsk
+181406;Przeworsk
+081107;Przewóz
+220503;Przodkowo
+320406;Przybiernów
+301705;Przygodzice
+302706;Przykona
+143603;Przy³êk
+240414;Przyrów
+240608;Przystajñ
+142306;Przysucha
+080303;Przytoczna
+200706;Przytu³y
+142509;Przytyk
+220405;Przywidz
+240106;Psary
+080304;Pszczew
+220406;Pszczó³ki
+241005;Pszczyna
+241501;Pszów
+061005;Puchaczów
+221103;Puck
+221107;Puck
+061401;Pu³awy
+061409;Pu³awy
+142404;Pu³tusk
+200904;Puñsk
+281410;Purda
+143803;Puszcza Mariañska
+302102;Puszczykowo
+321205;Pyrzyce
+240502;Pyskowice
+181803;Pysznica
+303004;Pyzdry
+121111;Raba Wy¿na
+121112;Rabka-Zdrój
+061807;Rachanie
+142002;Raci¹¿
+142010;Raci¹¿
+040107;Raci¹¿ek
+241101;Racibórz
+120905;Raciechowice
+120806;Rac³awice
+201205;Raczki
+062008;Radecznica
+120406;Radgoszcz
+261304;Radków
+020812;Radków
+241502;Radlin
+121605;Rad³ów
+160805;Rad³ów
+146301;Radom
+040505;Radomin
+101201;Radomsko
+101212;Radomsko
+181804;Radomyœl Nad Sanem
+181108;Radomyœl Wielki
+260504;Radoszyce
+321803;Radowo Ma³e
+021606;Radwanice
+180402;Radymno
+180408;Radymno
+141910;Radzanowo
+140103;Radzanów
+141304;Radzanów
+241710;Radziechowy-Wieprz
+143804;Radziejowice
+041101;Radziejów
+041106;Radziejów
+121406;Radziemice
+200403;Radzi³ów
+241303;Radzionków
+143409;Radzymin
+040604;Radzyñ Che³miñski
+061501;Radzyñ Podlaski
+061506;Radzyñ Podlaski
+241711;Rajcza
+200404;Rajgród
+300504;Rakoniewice
+260416;Raków
+181006;Rakszawa
+180605;Rani¿ów
+301706;Raszków
+142106;Raszyn
+101301;Rawa Mazowiecka
+101304;Rawa Mazowiecka
+302205;Rawicz
+321604;R¹bino
+320206;Recz
+221501;Reda
+140208;Regimin
+101305;Regnów
+060301;Rejowiec Fabryczny
+060308;Rejowiec Fabryczny
+060608;Rejowiec Osada
+160306;Reñska Wieœ
+142906;Repki
+321804;Resko
+280805;Reszel
+320507;Rewal
+101007;Rêczno
+240415;Rêdziny
+041203;Rogowo
+041905;Rogowo
+301602;RogoŸno
+102105;Rogów
+040605;RogóŸno
+040708;Rojewo
+101607;Rokiciny
+180409;Rokietnica
+302113;Rokietnica
+060112;Rokitno
+120508;Ropa
+181503;Ropczyce
+060113;Rossosz
+142704;Roœciszewo
+301205;Rozdra¿ew
+281705;Rozogi
+101008;Rozprza
+180410;RoŸwienica
+141107;Ró¿an
+281604;Ruciane-Nida
+260505;Ruda Maleniecka
+247201;Ruda Œl¹ska
+060309;Ruda-Huta
+200307;Rudka
+021103;Rudna
+241108;Rudnik
+060609;Rudnik
+181206;Rudnik Nad Sanem
+160806;Rudniki
+240505;Rudziniec
+020908;Ruja
+221502;Rumia
+100106;Rusiec
+142307;Rusinów
+201206;Rutka-Tartak
+201403;Rutki
+061704;Rybczewice
+247301;Rybnik
+142806;Rybno
+280306;Rybno
+280408;Rychliki
+300806;Rychtal
+301007;Rychwa³
+301603;Ryczywó³
+241503;Rydu³towy
+301304;Rydzyna
+121606;Ryglice
+220705;Ryjewo
+061604;Ryki
+180708;Rymanów
+320805;Rymañ
+280608;Ryn
+041201;Rypin
+041204;Rypin
+121015;Rytro
+261206;Rytwiany
+100905;Rz¹œnia
+143503;Rz¹œnik
+220307;Rzeczenica
+140904;Rzeczniów
+101608;Rzeczyca
+141510;Rzekuñ
+121607;Rzepiennik Strzy¿ewski
+080504;Rzepin
+186301;Rzeszów
+141108;Rzewnie
+120107;Rzezawa
+100610;Rzgów
+301008;Rzgów
+142907;Sabnie
+041004;Sadki
+101306;Sadkowice
+220706;Sadlinki
+260606;Sadowie
+143307;Sadowne
+260907;Samborzec
+260901;Sandomierz
+140404;Sanniki
+181701;Sanok
+181705;Sanok
+080106;Santok
+141005;Sarnaki
+060310;Sawin
+261305;Secemin
+200901;Sejny
+200905;Sejny
+060812;Serniki
+140804;Serock
+061106;Serokomla
+100303;Sêdziejowice
+260206;Sêdziszów
+181504;Sêdziszów Ma³opolski
+120509;Sêkowa
+280106;Sêpopol
+041302;Sêpólno Krajeñskie
+320907;Sianów
+040307;Sicienko
+201107;Sidra
+140707;Sieciechów
+142608;Siedlce
+146401;Siedlce
+302902;Siedlec
+080408;Siedlisko
+060311;Siedliszcze
+021007;Siekierczyn
+247401;Siemianowice Œl¹skie
+201001;Siemiatycze
+201009;Siemiatycze
+143705;Siemi¹tkowo Koziebrodzkie
+061306;Siemieñ
+100906;Siemkowice
+320806;Siemyœl
+181407;Sieniawa
+141213;Siennica
+060610;Siennica Ró¿ana
+140905;Sienno
+120906;Siepraw
+101401;Sieradz
+101408;Sieradz
+220504;Sierakowice
+301404;Sieraków
+301707;Sieroszewice
+142701;Sierpc
+142705;Sierpc
+240107;Siewierz
+260417;Sitkówka-Nowiny
+062009;Sitno
+260305;Skalbmierz
+120610;Ska³a
+160102;Skarbimierz
+221309;Skarszewy
+142510;Skaryszew
+261001;Skarzysko Kamienna
+261004;Skar¿ysko Koœcielne
+120611;Skawina
+080803;Sk¹pe
+040807;Skêpe
+062010;Skierbieszów
+101508;Skierniewice
+106301;Skierniewice
+240310;Skoczów
+302805;Skoki
+180509;Sko³yszyn
+101708;Skomlin
+160709;Skoroszyce
+221302;Skórcz
+221310;Skórcz
+142609;Skórzec
+041205;Skrwilno
+121608;Skrzyszów
+301009;Skulsk
+080305;Skwierzyna
+120807;S³aboszów
+081201;S³awa
+060114;S³awatycze
+240108;S³awków
+100707;S³awno
+321302;S³awno
+321306;S³awno
+321605;S³awoborze
+120612;S³omniki
+080703;S³oñsk
+120711;S³opnice
+141911;S³ubice
+080505;S³ubice
+302301;S³upca
+302306;S³upca
+101509;S³upia
+260207;S³upia Jêdrzejowska
+260506;S³upia Konecka
+141912;S³upno
+221208;S³upsk
+226301;S³upsk
+221311;Smêtowo Graniczne
+221209;Smo³dzino
+260507;Smyków
+141707;Sobienie-Jeziory
+260208;Sobków
+140311;Sobolew
+022307;Sobótka
+142801;Sochaczew
+142807;Sochaczew
+142011;Sochocin
+101806;Sokolniki
+181611;Soko³ów Ma³opolski
+142901;Soko³ów Podlaski
+142908;Soko³ów Podlaski
+201308;Soko³y
+201108;Sokó³ka
+040308;Solec Kujawski
+140906;Solec Nad Wis³¹
+260105;Solec-Zdrój
+182105;Solina
+143504;Somianka
+220505;Somonino
+301010;Sompolno
+140209;Soñsk
+226401;Sopot
+281005;Sorkwity
+061307;Sosnowica
+247501;Sosnowiec
+060115;Sosnówka
+240506;Soœnicowice
+301708;Soœnie
+041303;Soœno
+061006;Spiczyn
+121113;Spytkowice
+121806;Spytkowice
+280806;Srokowo
+181801;Stalowa Wola
+061107;Stanin
+141214;Stanis³awów
+141913;Stara Bia³a
+140104;Stara B³otnica
+321409;Stara D¹browa
+020609;Stara Kamienica
+220608;Stara Kiszewa
+141006;Stara Kornica
+261101;Starachowice
+240416;Starcza
+143207;Stare Babice
+022107;Stare Bogaczowice
+320607;Stare Czarnowo
+280505;Stare Juchy
+080603;Stare Kurowo
+301011;Stare Miasto
+220908;Stare Pole
+321401;Stargard Szczeciñski
+321410;Stargard Szczeciñski
+221303;Starogard Gdañski
+221312;Starogard Gdañski
+141914;StaroŸreby
+061904;Stary Brus
+221603;Stary Dzierzgoñ
+180907;Stary Dzików
+141608;Stary Lubotyñ
+121016;Stary S¹cz
+221604;Stary Targ
+062011;Stary Zamoœæ
+261207;Staszów
+281411;Stawiguda
+200605;Stawiski
+300709;Stawiszyn
+260508;St¹porków
+221004;Stegna
+142909;Sterdyñ
+320407;Stêpnica
+302114;Stêszew
+220506;Stê¿yca
+061605;Stê¿yca
+143308;Stoczek
+061102;Stoczek £ukowski
+061108;Stoczek £ukowski
+040406;Stolno
+260106;Stopnica
+022404;Stoszowice
+143410;Strachówka
+260418;Strawczyn
+140105;Stromiec
+020813;Stronie Œl¹skie
+240311;Strumieñ
+102008;Stryków
+121507;Stryszawa
+121807;Stryszów
+302307;Strza³kowo
+021906;Strzegom
+141305;Strzegowo
+100210;Strzelce
+080604;Strzelce Krajeñskie
+161105;Strzelce Opolskie
+100907;Strzelce Wielkie
+160503;Strzeleczki
+021704;Strzelin
+040904;Strzelno
+060912;Strzy¿ewice
+181904;Strzy¿ów
+181309;Stubno
+220108;Studzienice
+141306;Stupsk
+221405;Subkowy
+121502;Sucha Beskidzka
+321411;Suchañ
+261005;Suchedniów
+201109;Suchowola
+142610;Sucho¿ebry
+220407;Suchy D¹b
+302115;Suchy Las
+080906;Sulechów
+101009;Sulejów
+141215;Sulejówek
+080704;Sulêcin
+220507;Sulêczyno
+022505;Sulików
+100908;Sulmierzyce
+301201;Sulmierzyce
+120907;Su³kowice
+120613;Su³oszowa
+062012;Su³ów
+200209;Supraœl
+200210;Sura¿
+061808;Susiec
+280706;Susz
+241006;Suszec
+201207;Suwa³ki
+206301;Suwa³ki
+302116;Swarzêdz
+021407;Syców
+141109;Sypniewo
+101902;Szadek
+121114;Szaflary
+300105;Szamocin
+302407;Szamotu³y
+060706;Szastarka
+080804;Szczaniec
+140405;Szczawin Koœcielny
+121102;Szczawnica
+022103;Szczawno-Zdrój
+062013;Szczebrzeszyn
+326201;Szczecin
+321501;Szczecinek
+321506;Szczecinek
+241608;Szczekociny
+100107;Szczerców
+120407;Szczucin
+200405;Szczuczyn
+120207;Szczurowa
+142706;Szczutowo
+240201;Szczyrk
+020814;Szczytna
+300710;Szczytniki
+281701;Szczytno
+281706;Szczytno
+141110;Szelków
+221509;Szemud
+201309;Szepietowo
+121616;Szerzyny
+020604;Szklarska Porêba
+081202;Szlichtyngowa
+081007;Szprotawa
+141307;Szreñsk
+200107;Sztabin
+221605;Sztum
+221005;Sztutowo
+041005;Szubin
+201110;Szudzia³owo
+141609;Szulborze Wielkie
+201404;Szumowo
+143005;Szyd³owiec
+141308;Szyd³owo
+301906;Szyd³owo
+261208;Szyd³ów
+201208;Szypliszki
+021104;Œcinawa
+241712;Œlemieñ
+301012;Œlesin
+041605;Œliwice
+301105;Œmigiel
+200707;Œniadowo
+302604;Œrem
+021804;Œroda Œl¹ska
+302504;Œroda Wielkopolska
+022308;Œw. Katarzyna
+281412;Œwi¹tki
+120614;Œwi¹tniki Górne
+021901;Œwidnica
+021907;Œwidnica
+080907;Œwidnica
+061701;Œwidnik
+321601;Œwidwin
+321606;Œwidwin
+021902;Œwiebodzice
+080805;Œwiebodzin
+041409;Œwiecie
+040606;Œwiecie Nad Os¹
+040209;Œwiedziebnia
+041410;Œwiekatowo
+021002;Œwieradów-Zdrój
+142405;Œwiercze-Koty
+160604;Œwierczów
+241307;Œwierklaniec
+241205;Œwierklany
+022604;Œwierzawa
+320705;Œwierzno
+320908;Œwieszyno
+301305;Œwiêciechowa
+281305;Œwiêtajno
+281707;Œwiêtajno
+247601;Œwiêtoch³owice
+181612;Œwilcza
+100407;Œwinice Warckie
+241713;Œwinna
+326301;Œwinoujœcie
+141806;Tarczyn
+260607;Tar³ów
+061809;Tarnawatka
+186401;Tarnobrzeg
+060212;Tarnogród
+180511;Tarnowiec
+302117;Tarnowo Podgórne
+241304;Tarnowskie Góry
+121609;Tarnów
+126301;Tarnów
+160911;Tarnów Opolski
+303106;Tarnówka
+221401;Tczew
+221406;Tczew
+143604;Tczów
+061810;Telatyn
+142808;Teresin
+060102;Terespol
+060116;Terespol
+060213;Tereszpol
+040808;T³uchowo
+143411;T³uszcz
+120908;Tokarnia
+280409;Tolkmicko
+061801;Tomaszów Lubelski
+061811;Tomaszów Lubelski
+101601;Tomaszów Mazowiecki
+101609;Tomaszów Mazowiecki
+121808;Tomice
+041107;Topólka
+046301;Toruñ
+080705;Torzym
+240507;Toszek
+061705;Trawniki
+220408;Tr¹bki Wielkie
+140312;Trojanów
+141511;Troszyn
+181408;Tryñcza
+120108;Trzciana
+300207;Trzcianka
+200807;Trzcianne
+080306;Trzciel
+300807;Trzcinica
+320608;Trzciñsko-Zdrój
+320508;Trzebiatów
+080908;Trzebiechów
+081108;Trzebiel
+220109;Trzebielino
+061109;Trzebieszów
+120305;Trzebinia
+022003;Trzebnica
+181613;Trzebownisko
+300309;Trzemeszno
+060406;Trzeszczany
+121206;Trzyci¹¿
+060707;Trzydnik Du¿y
+041606;Tuchola
+220110;Tuchomie
+121610;Tuchów
+260107;Tuczêpy
+060117;Tuczna
+321704;Tuczno
+302707;Tuliszków
+160912;Tu³owice
+081109;Tuplice
+160913;Turawa
+302701;Turek
+302708;Turek
+060214;Turobin
+200606;Turoœl
+200211;Turoœñ Koœcielna
+181109;Tuszów Narodowy
+100611;Tuszyn
+021408;Twardogóra
+241308;Tworóg
+320104;Tychowo
+247701;Tychy
+181614;Tyczyn
+200212;Tykocin
+120712;Tymbark
+181706;Tyrawa Wo³oska
+061812;Tyszowce
+060407;Uchanie
+021805;Udanin
+101610;Ujazd
+161106;Ujazd
+241714;Ujso³y
+301907;Ujœcie
+061507;Ulan-Majorat
+181207;Ulanów
+061813;Ulhówek
+061606;U³ê¿
+101104;Uniejów
+040407;Unis³aw
+061905;Urszulin
+060708;Urzêdów
+221201;Ustka
+221210;Ustka
+320807;Ustronie Morskie
+240302;Ustroñ
+180108;Ustrzyki Dolne
+120510;Uœcie Gorlickie
+060813;Uœcimów
+121809;Wadowice
+181110;Wadowice Górne
+040108;Waganiec
+160504;Walce
+022108;Walim
+022109;Wa³brzych
+321701;Wa³cz
+321705;Wa³cz
+302806;Wapno
+140611;Warka
+041411;Warlubie
+321206;Warnice
+101409;Warta
+020106;Warta Boles³awiecka
+101105;Wartkowice
+200213;Wasilków
+260706;Waœniów
+041701;W¹brzeŸno
+041705;W¹brzeŸno
+261105;W¹chock
+020506;W¹dro¿e Wielkie
+302801;W¹growiec
+302807;W¹growiec
+041206;W¹pielsk
+141610;W¹sewo
+200406;W¹sosz
+020404;W¹sosz
+061410;W¹wolnica
+221503;Wejherowo
+221510;Wejherowo
+060408;Werbkowice
+241715;Wêgierska Górka
+022506;Wêgliniec
+281903;Wêgorzewo
+321805;Wêgorzyno
+143301;Wêgrów
+141708;Wi¹zowna
+180411;Wi¹zownica
+021705;Wi¹zów
+220805;Wicko
+100304;Widawa
+320609;Widuchowa
+141309;Wieczfnia Koœcielna
+281708;Wielbark
+300208;Wieleñ
+040809;Wielgie
+101213;Wielgom³yny
+300505;Wielichowo
+121905;Wieliczka
+281306;Wieliczki
+140805;Wieliszew
+041508;Wielka Nieszawka
+120615;Wielka Wieœ
+180908;Wielkie Oczy
+181505;Wielopole Skrzyñskie
+240508;Wielowieœ
+101709;Wieluñ
+142308;Wieniawa
+121810;Wieprz
+101807;Wieruszów
+142511;Wierzbica
+060312;Wierzbica
+301013;Wierzbinek
+143309;Wierzbno
+101710;Wierzchlas
+121611;Wierzchos³awice
+320305;Wierzchowo
+121612;Wietrzychowice
+041304;Wiêcbork
+301306;Wijewo
+240209;Wilamowice
+280207;Wilczêta
+260908;Wilczyce
+301014;Wilczyn
+140313;Wilga
+060709;Wilko³az
+240210;Wilkowice
+160605;Wilków
+061207;Wilków
+142406;Winnica
+022202;Wiñsko
+143805;Wiskitki
+240303;Wis³a
+022004;Wisznia Ma³a
+060118;Wisznice
+260108;Wiœlica
+142611;Wiœniew
+141310;Wiœniewo
+120909;Wiœniowa
+181905;Wiœniowa
+300310;Witkowo
+080107;Witnica
+100408;Witonia
+200708;Wizna
+201209;Wi¿ajny
+021205;Wleñ
+221104;W³adys³awowo
+302709;W³adys³awów
+041813;W³oc³awek
+046401;W³oc³awek
+061901;W³odawa
+061906;W³odawa
+241609;W³odowice
+301307;W³oszakowice
+261306;W³oszczowa
+142612;Wodynie
+100305;Wodzierady
+260209;Wodzis³aw
+241504;Wodzis³aw Œl¹ski
+061508;Wohyñ
+180709;Wojaszówka
+260608;Wojciechowice
+060913;Wojciechów
+061110;Wojcieszków
+022601;Wojcieszów
+240103;Wojkowice
+121613;Wojnicz
+060313;Wojs³awice
+101010;Wola Krzysztoporska
+061111;Wola Mys³owska
+061907;Wola Uhruska
+142512;Wolanów
+101011;Wolbórz
+121207;Wolbrom
+320706;Wolin
+302903;Wolsztyn
+160404;Wo³czyn
+143412;Wo³omin
+022203;Wo³ów
+240708;WoŸniki
+060914;Wólka
+240609;Wrêczyca Wielka
+026401;Wroc³aw
+302408;Wronki
+101410;Wróblew
+303005;Wrzeœnia
+081203;Wschowa
+280610;Wydminy
+081008;Wymiarki
+240805;Wyry
+061908;Wyryki
+301908;Wyrzysk
+301909;Wysoka
+060915;Wysokie
+201301;Wysokie Mazowieckie
+201310;Wysokie Mazowieckie
+200308;Wyszki
+143505;Wyszków
+141915;Wyszogród
+140106;Wyœmierzyce
+120616;Zabierzów
+200214;Zab³udów
+080909;Zabór
+143506;Zabrodzie
+247801;Zabrze
+101106;Zadzim
+260419;Zagnañsk
+302308;Zagórów
+181707;Zagórz
+022605;Zagrodno
+121614;Zakliczyn
+181805;Zaklików
+121701;Zakopane
+141406;Zakroczym
+142513;Zakrzew
+060916;Zakrzew
+303107;Zakrzewo
+040109;Zakrzewo
+060710;Zakrzówek
+060119;Zalesie
+181806;Zaleszany
+280707;Zalewo
+142012;Za³uski
+201401;Zambrów
+201405;Zambrów
+062014;Zamoœæ
+066401;Zamoœæ
+302505;Zaniemyœl
+101903;Zapolice
+141611;Zarêby Koœcielne
+181708;Zarszyn
+181409;Zarzecze
+121309;Zator
+142407;Zatory
+200215;Zawady
+161107;Zawadzkie
+260909;Zawichost
+022501;Zawidów
+142707;Zawidz
+241602;Zawiercie
+121508;Zawoja
+022005;Zawonia
+143403;Z¹bki
+022405;Z¹bkowice Œl¹skie
+080806;Zb¹szynek
+301506;Zb¹szyñ
+040210;Zbiczno
+221313;Zblewo
+200709;Zbójna
+040506;Zbójno
+241309;Zbros³awice
+142613;Zbuczyn Poduchowny
+100510;Zduny
+301206;Zduny
+101901;Zduñska Wola
+101904;Zduñska Wola
+160505;Zdzieszowice
+240312;Zebrzydowice
+100108;Zelów
+121509;Zembrzyce
+160807;Zêbowice
+102003;Zgierz
+102009;Zgierz
+022502;Zgorzelec
+022507;Zgorzelec
+080910;Zielona Góra
+086201;Zielona Góra
+143404;Zielonka
+120617;Zielonki
+022406;Ziêbice
+041509;Z³awieœ Wielka
+320306;Z³ocieniec
+101411;Z³oczew
+260805;Z³ota
+040709;Z³otniki Kujawskie
+022602;Z³otoryja
+022606;Z³otoryja
+303101;Z³otów
+303108;Z³otów
+022407;Z³oty Stok
+080605;Zwierzyn
+062015;Zwierzyniec
+143605;Zwoleñ
+140506;¯abia Wola
+121615;¯abno
+081002;¯agañ
+081009;¯agañ
+240905;¯arki
+241610;¯arnowiec
+100708;¯arnów
+021908;¯arów
+081102;¯ary
+081110;¯ary
+120109;¯egocina
+300711;¯elazków
+101611;¯elechlinek
+140314;¯elechów
+300604;¯erków
+022006;¯migród
+060314;¯mudŸ
+041906;¯nin
+181007;¯o³ynia
+247901;¯ory
+060611;¯ó³kiewka
+022309;¯órawina
+020306;¯ukowice
+220508;¯ukowo
+181310;¯urawica
+143706;¯uromin
+100211;¯ychlin
+180307;¯yraków
+143801;¯yrardów
+061411;¯yrzyn
+101214;¯ytno
+241701;¯ywiec

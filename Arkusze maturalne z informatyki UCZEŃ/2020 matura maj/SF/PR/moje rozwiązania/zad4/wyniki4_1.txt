@@ -1,0 +1,3 @@
+ile pierwszych: 501
+najwieksza pierwsza: 99767
+0x486a08najmniejsza pierwsza: 311

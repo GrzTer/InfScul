@@ -1,0 +1,54 @@
+a) 
+imie	nazwisko	dni
+Michal	Peszkowski	6
+
+b)
+imie	nazwisko	miejscowosc
+Andrzej	Goerlich	Krakow
+Anna	Chechelska	Krakow
+Filip	Zelazko		Krakow
+Grzegorz	Merynda	Krakow
+Jacek	Stypula		Krakow
+Jan	Nadachowski	Krakow
+Konrad	Czajczyk	Krakow
+Lukasz	Taczuk		Krakow
+Marcin	Molikiewicz	Krakow
+Michal	Ichniowski	Krakow
+Olga	Osinska		Krakow
+Rafal	Florek		Krakow
+Tomasz	Oleksy		Krakow
+
+c)
+miejscowosc
+Bytom
+Gliwice
+Kalisz
+Katowice
+Kielce
+Krakow
+Lublin
+Opole
+Szczecin
+Wroclaw
+
+d)
+za_pokoje	za_uslugi
+328820		55560
+
+e)
+nr_pokoju
+218
+220
+301
+303
+317
+319
+501
+502
+503
+504
+505
+506
+507
+508
+509

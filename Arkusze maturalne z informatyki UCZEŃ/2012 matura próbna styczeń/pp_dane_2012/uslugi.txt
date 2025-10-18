@@ -1,0 +1,6 @@
+identyfikator;us³uga
+1;naprawa komputerów
+2;usuwanie wirusów
+3;monta¿ sieci
+4;strony internetowe
+5;instalacja oprogramowania

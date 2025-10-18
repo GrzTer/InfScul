@@ -1,0 +1,933 @@
+Nr_medyczny;Nazwisko;Imiê;Data_przyjêcia;Lekarz;Pomoc;Ubezpieczenie;Koszt leczenia
+86;Nowak;Bart³omiej;2011-02-12;Kalinowska;Pomoc laryngologiczna;NFZ;230
+1;Kowalski;Bogdan;2011-01-01;Maliñski;Intensywna terapia;Polisa zdrowotna;790
+636;Wiœniewska;Magdalena;2011-08-28;Micha³owski;Pomoc kardiologiczna;Polisa zdrowotna;420
+212;D¹browski;Bartosz;2011-03-22;Pielecka;Pomoc kardiologiczna;NFZ;420
+772;Lewandowska;Eliza;2011-10-17;Micha³owski;Pomoc kardiologiczna;NFZ;420
+482;Wójcik;Weronika;2011-06-25;Piotrecki;Pomoc laryngologiczna;NFZ;230
+671;Kamiñski;Dawid;2011-09-08;Gronowski;Pomoc kardiologiczna;NFZ;420
+102;Kowalczyk;Weronika;2011-02-18;Pielecka;Intensywna terapia;NFZ;790
+529;Zieliñski;Maciej;2011-07-12;Piotrecki;Pomoc laryngologiczna;Abonament medyczny;230
+757;Szymañska;Ewelina;2011-10-12;Gronowski;Pomoc okulistyczna;NFZ;310
+19;WoŸniak;Magdalena;2011-01-09;Pielecka;Pomoc laryngologiczna;NFZ;230
+903;Koz³owska;Diana;2011-12-18;Micha³owski;Pomoc okulistyczna;NFZ;310
+147;Jankowska;Wanda;2011-03-01;Kosiñska;Pomoc kardiologiczna;NFZ;420
+20;Wojciechowski;Stefan;2011-01-09;Kalinowska;Pomoc laryngologiczna;NFZ;230
+673;Kwiatkowska;Maja;2011-09-09;Pielecka;Pomoc kardiologiczna;NFZ;420
+370;Kaczmarek;Piotr;2011-05-12;Bobrzyñski;Pomoc okulistyczna;NFZ;310
+838;Mazur;Patryk;2011-11-12;Pielecka;Pomoc kardiologiczna;NFZ;420
+466;Krawczyk;Filip;2011-06-16;Piotrecki;Intensywna terapia;NFZ;790
+43;Piotrowska;Emilia;2011-01-22;Kalinowska;Pomoc kardiologiczna;NFZ;420
+56;Grabowski;Ryszarda;2011-01-28;Kosiñska;Pomoc kardiologiczna;NFZ;420
+832;Nowakowska;Paula;2011-11-11;Maliñski;Intensywna terapia;NFZ;790
+525;Paw³owski;Dominik;2011-07-11;Pielecka;Pomoc kardiologiczna;NFZ;420
+791;Michalska;Natalia;2011-11-02;Kosiñska;Pomoc kardiologiczna;NFZ;420
+134;Nowicki;Bartosz;2011-02-26;Piotrecki;Pomoc laryngologiczna;NFZ;230
+701;Adamczyk;Micha³;2011-09-16;Kalinowska;Pomoc kardiologiczna;NFZ;420
+926;Dudek;Martyna;2011-12-28;Bobrzyñski;Pomoc kardiologiczna;NFZ;420
+563;Zaj¹c;Emilia;2011-07-27;Kalinowska;Pomoc kardiologiczna;NFZ;420
+721;Wieczorek;Oliwia;2011-09-24;Bobrzyñski;Pomoc laryngologiczna;NFZ;230
+295;Jab³oñska;Edyta;2011-04-16;Pielecka;Pomoc kardiologiczna;NFZ;420
+236;Król;Amelia;2011-03-28;Kalinowska;Pomoc kardiologiczna;NFZ;420
+501;Majewski;Adam;2011-07-01;Pielecka;Pomoc kardiologiczna;NFZ;420
+751;Olszewska;Zuzanna;2011-10-07;Maliñski;Pomoc kardiologiczna;NFZ;420
+237;Jaworska;Bogna;2011-03-28;Pielecka;Pomoc kardiologiczna;Abonament medyczny;420
+612;Wróbel;Rozalia;2011-08-18;Maliñski;Szycie ran;NFZ;170
+872;Malinowski;Czes³aw;2011-11-27;Bobrzyñski;Intensywna terapia;Pol-Plan Ubezpieczenia;790
+171;Pawlak;Matylda;2011-03-09;Pielecka;Pomoc okulistyczna;NFZ;310
+616;Witkowska;Maria;2011-08-20;Bobrzyñski;Pomoc ambulatoryjna;Abonament medyczny;190
+400;Walczak;Igor;2011-05-21;Maliñski;Pomoc kardiologiczna;Polisa zdrowotna;420
+452;Stêpieñ;Bernard;2011-06-12;Piotrecki;Pomoc okulistyczna;NFZ;310
+667;Górski;Borys;2011-09-07;Bobrzyñski;Pomoc kardiologiczna;Abonament medyczny;420
+76;Rutkowski;Micha³;2011-02-08;Gronowski;Pomoc kardiologiczna;NFZ;420
+893;Michalak;Juliusz;2011-12-09;Maliñski;Intensywna terapia;NFZ;790
+861;Sikora;Magdalena;2011-11-21;Piotrecki;Intensywna terapia;NFZ;790
+384;Ostrowski;Jakub;2011-05-17;Gronowski;Pomoc laryngologiczna;Abonament medyczny;230
+519;Baran;Adam;2011-07-08;Bobrzyñski;Pomoc kardiologiczna;Abonament medyczny;420
+226;Duda;W³adys³aw;2011-03-24;Pielecka;Pomoc kardiologiczna;NFZ;420
+274;Szewczyk;Marta;2011-04-07;Kosiñska;Pomoc okulistyczna;Abonament medyczny;310
+167;Tomaszewski;Witold;2011-03-08;Pielecka;Intensywna terapia;NFZ;790
+353;Pietrzak;Marianna;2011-05-05;Pielecka;Pomoc okulistyczna;NFZ;310
+182;Marciniak;Jan;2011-03-13;Kalinowska;Pomoc kardiologiczna;NFZ;420
+689;Wróblewska;Anna;2011-09-13;Kosiñska;Pomoc okulistyczna;Polisa zdrowotna;310
+707;Zalewska;Emilia;2011-09-18;Gronowski;Pomoc okulistyczna;NFZ;310
+142;Jakubowska;Natalia;2011-02-28;Gronowski;Pomoc kardiologiczna;NFZ;420
+116;Jasiñska;Lena;2011-02-24;Kalinowska;Nastawianie z³amanej koœci;NFZ;370
+584;Zawadzki;Maksym;2011-08-04;Bobrzyñski;Pomoc kardiologiczna;NFZ;420
+238;Sadowski;Miko³aj;2011-03-28;Gronowski;Pomoc laryngologiczna;Polisa zdrowotna;230
+227;B¹k;Cyprian;2011-03-24;Maliñski;Pomoc kardiologiczna;NFZ;420
+763;Chmielewski;Bartosz;2011-10-13;Maliñski;Pomoc kardiologiczna;NFZ;420
+821;W³odarczyk;El¿bieta;2011-11-08;Kalinowska;Pomoc laryngologiczna;Polisa zdrowotna;230
+683;Borkowska;Julia;2011-09-12;Kosiñska;Pomoc kardiologiczna;Polisa zdrowotna;420
+928;Czarnecka;Hanna;2011-12-30;Gronowski;Intensywna terapia;NFZ;790
+496;Sawicka;Sabina;2011-06-30;Maliñski;Pomoc kardiologiczna;Polisa zdrowotna;420
+17;Soko³owski;B³a¿ej;2011-01-08;Gronowski;Pomoc laryngologiczna;Abonament medyczny;230
+49;Urbañski;Albert;2011-01-26;Kosiñska;Pomoc kardiologiczna;NFZ;420
+912;Kubiak;Monika;2011-12-23;Piotrecki;Pomoc kardiologiczna;NFZ;420
+690;Maciejewski;Juliusz;2011-09-13;Kosiñska;Pomoc kardiologiczna;NFZ;420
+876;Szczepañska;Aleksandra;2011-11-29;Bobrzyñski;Pomoc ambulatoryjna;Abonament medyczny;190
+417;Kucharski;Sebastian;2011-05-27;Kosiñska;Pomoc laryngologiczna;Polisa zdrowotna;230
+637;Wilk;Szymon;2011-08-28;Gronowski;Pomoc kardiologiczna;NFZ;420
+382;Kalinowska;Emilia;2011-05-15;Kosiñska;Pomoc okulistyczna;NFZ;310
+31;Lis;Blanka;2011-01-13;Maliñski;Pomoc kardiologiczna;NFZ;420
+520;Mazurek;Martyna;2011-07-08;Bobrzyñski;Pomoc ambulatoryjna;Polisa zdrowotna;190
+307;Wysocki;Patryk;2011-04-18;Maliñski;Intensywna terapia;NFZ;790
+206;Adamski;Antoni;2011-03-19;Micha³owski;Pomoc kardiologiczna;NFZ;420
+805;KaŸmierczak;Wojciech;2011-11-05;Pielecka;Pomoc kardiologiczna;NFZ;420
+543;Wasilewski;Mateusz;2011-07-20;Gronowski;Pomoc kardiologiczna;NFZ;420
+758;Sobczak;B³a¿ej;2011-10-12;Gronowski;Pomoc okulistyczna;Abonament medyczny;310
+610;Czerwiñski;Boles³w;2011-08-16;Piotrecki;Pomoc kardiologiczna;Polisa zdrowotna;420
+895;Andrzejewski;Micha³;2011-12-12;Maliñski;Pomoc kardiologiczna;NFZ;420
+505;Cieœlak;Aleksy;2011-07-03;Maliñski;Nastawianie z³amanej koœci;NFZ;370
+450;G³owacka;Alicja;2011-06-11;Gronowski;Pomoc kardiologiczna;NFZ;420
+476;Zakrzewski;Szymon;2011-06-19;Bobrzyñski;Pomoc kardiologiczna;Pol-Plan Ubezpieczenia;420
+78;Ko³odziej;Marek;2011-02-09;Pielecka;Pomoc kardiologiczna;Polisa zdrowotna;420
+663;Sikorski;Miko³aj;2011-09-04;Micha³owski;Intensywna terapia;Abonament medyczny;790
+284;Krajewski;Marek;2011-04-11;Piotrecki;Pomoc ambulatoryjna;NFZ;190
+564;Gajewski;Józef;2011-07-27;Kalinowska;Pomoc okulistyczna;NFZ;310
+341;Szymczak;Sonia;2011-04-30;Maliñski;Pomoc kardiologiczna;NFZ;420
+684;Szulc;Zuzanna;2011-09-12;Micha³owski;Pomoc okulistyczna;NFZ;310
+571;Baranowski;Szymon;2011-07-29;Kosiñska;Pomoc laryngologiczna;Polisa zdrowotna;230
+715;Laskowska;Amelia;2011-09-23;Kosiñska;Pomoc kardiologiczna;Polisa zdrowotna;420
+815;Brzeziñski;Dariusz;2011-11-07;Gronowski;Pomoc kardiologiczna;NFZ;420
+136;Makowska;Józefina;2011-02-27;Kosiñska;Pomoc kardiologiczna;NFZ;420
+385;Zió³kowski;Kacper;2011-05-17;Pielecka;Pomoc laryngologiczna;NFZ;230
+301;Przybylski;Maksym;2011-04-17;Piotrecki;Pomoc kardiologiczna;Polisa zdrowotna;420
+907;Domañska;Marcelina;2011-12-19;Piotrecki;Intensywna terapia;NFZ;790
+3;Nowacka;Alicja;2011-01-04;Bobrzyñski;Pomoc kardiologiczna;NFZ;420
+63;Borowska;Eleonora;2011-02-05;Micha³owski;Pomoc kardiologiczna;NFZ;420
+402;B³aszczyk;Wanda;2011-05-22;Kosiñska;Pomoc kardiologiczna;Pol-Plan Ubezpieczenia;420
+360;Chojnacka;Danuta;2011-05-08;Kalinowska;Pomoc kardiologiczna;NFZ;420
+264;Ciesielski;Adam;2011-04-03;Maliñski;Pomoc kardiologiczna;NFZ;420
+492;Mróz;Miko³aj;2011-06-29;Piotrecki;Pomoc kardiologiczna;Abonament medyczny;420
+865;Szczepaniak;Dominik;2011-11-22;Piotrecki;Intensywna terapia;NFZ;790
+192;Weso³owska;Marcelina;2011-03-15;Bobrzyñski;Pomoc kardiologiczna;NFZ;420
+23;Górecka;Danuta;2011-01-10;Micha³owski;Pomoc kardiologiczna;NFZ;420
+702;Krupa;Juliusz;2011-09-16;Gronowski;Pomoc laryngologiczna;Abonament medyczny;230
+752;Kaczmarczyk;Kacper;2011-10-07;Micha³owski;Pomoc laryngologiczna;NFZ;230
+604;Leszczyñska;Wanda;2011-08-15;Micha³owski;Pomoc kardiologiczna;NFZ;420
+617;Lipiñska;Alicja;2011-08-20;Kalinowska;Pomoc kardiologiczna;NFZ;420
+795;Kowalewska;Józefina;2011-11-04;Piotrecki;Pomoc kardiologiczna;Abonament medyczny;420
+806;Urbaniak;Bart³omiej;2011-11-05;Maliñski;Pomoc kardiologiczna;NFZ;420
+620;Kozak;Tomasz;2011-08-21;Kosiñska;Pomoc kardiologiczna;Abonament medyczny;420
+327;Kania;Wis³awa;2011-04-27;Bobrzyñski;Pomoc ambulatoryjna;Pol-Plan Ubezpieczenia;190
+723;Miko³ajczyk;Sonia;2011-09-25;Bobrzyñski;Pomoc kardiologiczna;NFZ;420
+282;Czajkowski;Witold;2011-04-09;Piotrecki;Pomoc okulistyczna;Abonament medyczny;310
+390;Mucha;Bo¿ena;2011-05-18;Maliñski;Intensywna terapia;NFZ;790
+922;Tomczak;Dominik;2011-12-26;Kosiñska;Pomoc kardiologiczna;Polisa zdrowotna;420
+783;Kozio³;Patryk;2011-10-25;Piotrecki;Pomoc okulistyczna;Abonament medyczny;310
+653;Markowski;Joachim;2011-08-31;Kosiñska;Pomoc kardiologiczna;NFZ;420
+445;Kowalik;Emil;2011-06-09;Pielecka;Pomoc kardiologiczna;Polisa zdrowotna;420
+219;Nawrocka;Emilia;2011-03-23;Gronowski;Pomoc laryngologiczna;NFZ;230
+193;Brzozowska;Magdalena;2011-03-15;Piotrecki;Intensywna terapia;NFZ;790
+148;Janik;Bo¿ena;2011-03-01;Pielecka;Pomoc ambulatoryjna;Polisa zdrowotna;190
+764;Musia³;Emilia;2011-10-13;Bobrzyñski;Pomoc ambulatoryjna;Polisa zdrowotna;190
+210;Wawrzyniak;Martyna;2011-03-21;Bobrzyñski;Pomoc kardiologiczna;NFZ;420
+674;Markiewicz;Jakub;2011-09-09;Micha³owski;Pomoc okulistyczna;NFZ;310
+695;Or³owski;Bogus³aw;2011-09-15;Micha³owski;Intensywna terapia;NFZ;790
+256;Tomczyk;Aleksandra;2011-03-31;Maliñski;Pomoc kardiologiczna;NFZ;420
+467;Jarosz;Zdzis³aw;2011-06-16;Micha³owski;Pomoc kardiologiczna;NFZ;420
+565;Ko³odziejczyk;Eugeniusz;2011-07-27;Kosiñska;Pomoc kardiologiczna;NFZ;420
+555;Kurek;Agata;2011-07-26;Maliñski;Pomoc kardiologiczna;NFZ;420
+739;Kopeæ;S³awomir;2011-09-29;Micha³owski;Pomoc ambulatoryjna;Abonament medyczny;190
+112;¯ak;Sylwia;2011-02-23;Gronowski;Pomoc okulistyczna;NFZ;310
+44;Wolski;Miko³aj;2011-01-22;Kalinowska;Intensywna terapia;NFZ;790
+477;£uczak;Bernard;2011-06-19;Pielecka;Pomoc kardiologiczna;NFZ;420
+547;Dziedzic;Marianna;2011-07-22;Kalinowska;Pomoc kardiologiczna;Pol-Plan Ubezpieczenia;420
+630;Kot;Maria;2011-08-25;Piotrecki;Pomoc laryngologiczna;NFZ;230
+293;Stasiak;Bartosz;2011-04-15;Piotrecki;Pomoc ambulatoryjna;Pol-Plan Ubezpieczenia;190
+825;Stankiewicz;Magdalena;2011-11-09;Bobrzyñski;Intensywna terapia;NFZ;790
+679;Pi¹tek;Aleksander;2011-09-10;Maliñski;Pomoc okulistyczna;Polisa zdrowotna;310
+311;JóŸwiak;Blanka;2011-04-19;Pielecka;Pomoc kardiologiczna;NFZ;420
+117;Urban;Aleksandra;2011-02-24;Piotrecki;Pomoc ambulatoryjna;Abonament medyczny;190
+354;Dobrowolski;Maksymilian;2011-05-05;Kalinowska;Pomoc okulistyczna;Abonament medyczny;310
+208;Pawlik;Eugenia;2011-03-20;Gronowski;Pomoc kardiologiczna;NFZ;420
+531;Kruk;Weronika;2011-07-13;Kalinowska;Pomoc laryngologiczna;NFZ;230
+849;Domaga³a;Wojciech;2011-11-14;Gronowski;Szycie ran;NFZ;170
+576;Piasecki;Maksym;2011-07-31;Maliñski;Pomoc ambulatoryjna;Pol-Plan Ubezpieczenia;190
+92;Wierzbicki;Filip;2011-02-16;Maliñski;Intensywna terapia;Abonament medyczny;790
+709;Karpiñska;Magdalena;2011-09-20;Bobrzyñski;Pomoc kardiologiczna;NFZ;420
+759;Jastrzêbski;Waldemar;2011-10-12;Piotrecki;Pomoc okulistyczna;Abonament medyczny;310
+437;Polak;Eugeniusz;2011-06-06;Kosiñska;Pomoc laryngologiczna;NFZ;230
+213;Ziêba;Magdalena;2011-03-22;Gronowski;Intensywna terapia;Polisa zdrowotna;790
+246;Janicki;Jakub;2011-03-29;Bobrzyñski;Pomoc okulistyczna;NFZ;310
+394;Wójtowicz;Maja;2011-05-19;Piotrecki;Pomoc kardiologiczna;Pol-Plan Ubezpieczenia;420
+913;Stefañski;Zenon;2011-12-23;Gronowski;Pomoc okulistyczna;NFZ;310
+250;Sosnowski;Radomir;2011-03-30;Micha³owski;Pomoc laryngologiczna;Polisa zdrowotna;230
+258;Bednarek;Bruno;2011-04-01;Bobrzyñski;Pomoc ambulatoryjna;Pol-Plan Ubezpieczenia;190
+276;Majchrzak;Jan;2011-04-08;Pielecka;Intensywna terapia;Polisa zdrowotna;790
+391;Bielecka;Wiktoria;2011-05-18;Kosiñska;Pomoc kardiologiczna;NFZ;420
+816;Ma³ecka;Nikola;2011-11-07;Bobrzyñski;Intensywna terapia;NFZ;790
+839;Maj;Zuzanna;2011-11-12;Piotrecki;Pomoc kardiologiczna;NFZ;420
+654;Sowa;Maciej;2011-08-31;Micha³owski;Pomoc laryngologiczna;Pol-Plan Ubezpieczenia;230
+11;Milewski;Rados³aw;2011-01-05;Gronowski;Pomoc kardiologiczna;NFZ;420
+920;Gajda;Gabriela;2011-12-25;Kosiñska;Pomoc laryngologiczna;NFZ;230
+850;Klimek;Ma³gorzata;2011-11-14;Kalinowska;Pomoc laryngologiczna;NFZ;230
+404;Olejniczak;Marcelina;2011-05-23;Micha³owski;Pomoc okulistyczna;NFZ;310
+556;Ratajczak;Natalia;2011-07-26;Kosiñska;Pomoc kardiologiczna;NFZ;420
+118;Romanowska;Magdalena;2011-02-24;Kosiñska;Pomoc kardiologiczna;NFZ;420
+333;Matuszewska;Marcelina;2011-04-28;Maliñski;Pomoc laryngologiczna;NFZ;230
+200;Œliwiñska;Natalia;2011-03-16;Kalinowska;Nastawianie z³amanej koœci;Polisa zdrowotna;370
+119;Madej;Rados³awa;2011-02-24;Maliñski;Intensywna terapia;NFZ;790
+533;Kasprzak;Marta;2011-07-14;Pielecka;Pomoc kardiologiczna;NFZ;420
+833;Wilczyñska;Weronika;2011-11-11;Kosiñska;Pomoc kardiologiczna;NFZ;420
+230;Grzelak;Micha³;2011-03-25;Kalinowska;Pomoc kardiologiczna;NFZ;420
+899;Socha;Maja;2011-12-16;Gronowski;Pomoc laryngologiczna;Pol-Plan Ubezpieczenia;230
+186;Czajka;Mateusz;2011-03-14;Gronowski;Pomoc kardiologiczna;NFZ;420
+548;Marek;Regina;2011-07-22;Kosiñska;Pomoc kardiologiczna;Polisa zdrowotna;420
+785;Kowal;W³adys³aw;2011-10-27;Micha³owski;Pomoc kardiologiczna;Pol-Plan Ubezpieczenia;420
+605;Bednarczyk;Micha³;2011-08-15;Maliñski;Pomoc kardiologiczna;NFZ;420
+770;Skiba;Jagoda;2011-10-16;Gronowski;Intensywna terapia;Abonament medyczny;790
+441;Wrona;Julia;2011-06-08;Maliñski;Szycie ran;NFZ;170
+163;Owczarek;Robert;2011-03-07;Gronowski;Pomoc kardiologiczna;NFZ;420
+862;Marcinkowska;Edyta;2011-11-21;Piotrecki;Pomoc laryngologiczna;NFZ;230
+592;Matusiak;Patryk;2011-08-10;Micha³owski;Szycie ran;Abonament medyczny;170
+796;Orzechowska;Sylwia;2011-11-04;Kosiñska;Pomoc laryngologiczna;NFZ;230
+337;Sobolewska;Ró¿a;2011-04-29;Kosiñska;Pomoc kardiologiczna;Polisa zdrowotna;420
+259;Kêdzierski;Dariusz;2011-04-01;Bobrzyñski;Pomoc laryngologiczna;NFZ;230
+845;Kurowski;Piotr;2011-11-13;Micha³owski;Pomoc kardiologiczna;Polisa zdrowotna;420
+696;Rogowski;Maciej;2011-09-15;Bobrzyñski;Pomoc ambulatoryjna;NFZ;190
+137;Olejnik;Aleksy;2011-02-27;Piotrecki;Pomoc kardiologiczna;NFZ;420
+606;Dêbska;Paulina;2011-08-15;Bobrzyñski;Pomoc kardiologiczna;Abonament medyczny;420
+343;Barañski;Joachim;2011-05-01;Kosiñska;Pomoc ambulatoryjna;Polisa zdrowotna;190
+159;Skowroñski;Boles³w;2011-03-05;Maliñski;Pomoc kardiologiczna;NFZ;420
+878;Mazurkiewicz;Jan;2011-12-01;Bobrzyñski;Pomoc kardiologiczna;Polisa zdrowotna;420
+510;Paj¹k;Mateusz;2011-07-04;Piotrecki;Pomoc okulistyczna;NFZ;310
+386;Czech;Aleksander;2011-05-17;Bobrzyñski;Pomoc okulistyczna;Pol-Plan Ubezpieczenia;310
+33;Janiszewski;Cezar;2011-01-15;Kalinowska;Pomoc laryngologiczna;Polisa zdrowotna;230
+433;Bednarski;Zenon;2011-06-03;Gronowski;Pomoc kardiologiczna;NFZ;420
+747;£ukasik;Kacper;2011-10-05;Piotrecki;Pomoc kardiologiczna;NFZ;420
+822;Chrzanowska;Zofia;2011-11-08;Micha³owski;Pomoc kardiologiczna;NFZ;420
+187;Bukowska;Nikola;2011-03-14;Pielecka;Intensywna terapia;NFZ;790
+634;Leœniak;Zbigniew;2011-08-26;Pielecka;Pomoc kardiologiczna;NFZ;420
+521;Cieœlik;Alina;2011-07-08;Bobrzyñski;Pomoc kardiologiczna;NFZ;420
+621;Kosiñski;Wiktoria;2011-08-21;Micha³owski;Pomoc laryngologiczna;NFZ;230
+880;Jêdrzejewski;Igor;2011-12-03;Piotrecki;Pomoc ambulatoryjna;NFZ;190
+705;Muszyñski;Jakub;2011-09-17;Piotrecki;Nastawianie z³amanej koœci;NFZ;370
+39;Œwi¹tek;Martyna;2011-01-21;Micha³owski;Pomoc kardiologiczna;Abonament medyczny;420
+749;Kozie³;Eleonora;2011-10-06;Kosiñska;Pomoc kardiologiczna;NFZ;420
+239;Osiñski;Przemys³aw;2011-03-28;Bobrzyñski;Pomoc laryngologiczna;Polisa zdrowotna;230
+590;Czaja;Aleksy;2011-08-09;Maliñski;Intensywna terapia;NFZ;790
+578;Lisowski;Pawe³;2011-08-02;Piotrecki;Pomoc kardiologiczna;NFZ;420
+4;Kuczyñski;Jonasz;2011-01-04;Gronowski;Pomoc kardiologiczna;NFZ;420
+15;¯ukowska;Martyna;2011-01-07;Maliñski;Pomoc okulistyczna;NFZ;310
+566;Grzybowska;Bogna;2011-07-27;Pielecka;Pomoc ambulatoryjna;NFZ;190
+108;Kwiecieñ;Jerzy;2011-02-21;Gronowski;Pomoc kardiologiczna;NFZ;420
+488;Pluta;Paulina;2011-06-27;Kalinowska;Pomoc kardiologiczna;Polisa zdrowotna;420
+286;Morawski;Dawid;2011-04-12;Piotrecki;Pomoc okulistyczna;Abonament medyczny;310
+296;Czy¿;Wies³aw;2011-04-16;Maliñski;Pomoc okulistyczna;Polisa zdrowotna;310
+624;Sobczyk;Borys;2011-08-22;Kosiñska;Intensywna terapia;NFZ;790
+35;Augustyniak;Gra¿yna;2011-01-19;Bobrzyñski;Pomoc kardiologiczna;NFZ;420
+755;Rybak;Waldemar;2011-10-11;Kalinowska;Pomoc kardiologiczna;NFZ;420
+490;Krzemiñski;Marek;2011-06-28;Micha³owski;Pomoc kardiologiczna;NFZ;420
+807;Marzec;S³awomir;2011-11-05;Pielecka;Pomoc kardiologiczna;NFZ;420
+409;Konieczny;Edward;2011-05-25;Micha³owski;Pomoc kardiologiczna;NFZ;420
+277;Marczak;Pelagia;2011-04-08;Kosiñska;Pomoc kardiologiczna;NFZ;420
+923;Zych;S³awomir;2011-12-26;Gronowski;Pomoc kardiologiczna;NFZ;420
+265;Michalik;Oliwia;2011-04-03;Maliñski;Pomoc kardiologiczna;NFZ;420
+716;Micha³owska;Agnieszka;2011-09-23;Gronowski;Pomoc kardiologiczna;NFZ;420
+468;Kaczor;Jonatan;2011-06-16;Kosiñska;Pomoc laryngologiczna;NFZ;230
+640;Œwiderska;Rozalia;2011-08-29;Micha³owski;Pomoc kardiologiczna;NFZ;420
+106;Kubicki;Igor;2011-02-20;Gronowski;Pomoc ambulatoryjna;NFZ;190
+685;Go³êbiowska;Ró¿a;2011-09-12;Bobrzyñski;Pomoc okulistyczna;NFZ;310
+857;Paluch;Paula;2011-11-20;Kosiñska;Szycie ran;Polisa zdrowotna;170
+29;Bia³ek;Bernardyna;2011-01-11;Kosiñska;Pomoc kardiologiczna;Pol-Plan Ubezpieczenia;420
+178;Niemiec;Dawid;2011-03-11;Gronowski;Pomoc kardiologiczna;NFZ;420
+61;Sroka;Regina;2011-02-02;Kosiñska;Intensywna terapia;NFZ;790
+202;Stefaniak;Agata;2011-03-17;Maliñski;Pomoc okulistyczna;NFZ;310
+456;Cybulski;Jeremiasz;2011-06-14;Maliñski;Pomoc kardiologiczna;NFZ;420
+503;Kacprzak;Szymon;2011-07-02;Maliñski;Pomoc ambulatoryjna;NFZ;190
+625;Marsza³ek;Matylda;2011-08-22;Gronowski;Pomoc laryngologiczna;NFZ;230
+72;Kasprzyk;Natalia;2011-02-07;Piotrecki;Pomoc kardiologiczna;NFZ;420
+557;Ma³ek;Agnieszka;2011-07-26;Bobrzyñski;Pomoc ambulatoryjna;NFZ;190
+103;Szyd³owska;Blanka;2011-02-18;Bobrzyñski;Intensywna terapia;NFZ;790
+364;Smoliñski;Mateusz;2011-05-10;Kalinowska;Pomoc ambulatoryjna;Polisa zdrowotna;190
+5;Kujawa;Dariusz;2011-01-04;Kosiñska;Pomoc kardiologiczna;Polisa zdrowotna;420
+155;Lewicki;Maksymilian;2011-03-04;Gronowski;Pomoc kardiologiczna;NFZ;420
+614;Przybysz;Rafa³;2011-08-19;Kalinowska;Pomoc okulistyczna;Pol-Plan Ubezpieczenia;310
+270;Stachowiak;W³adys³aw;2011-04-04;Maliñski;Pomoc kardiologiczna;NFZ;420
+287;Pop³awski;Juliusz;2011-04-12;Kalinowska;Pomoc kardiologiczna;Polisa zdrowotna;420
+641;Piekarski;Alfred;2011-08-29;Kosiñska;Pomoc laryngologiczna;NFZ;230
+338;Matysiak;Wiktoria;2011-04-29;Gronowski;Intensywna terapia;NFZ;790
+24;Janowska;Bo¿ena;2011-01-10;Pielecka;Pomoc okulistyczna;Pol-Plan Ubezpieczenia;310
+315;Murawska;Oliwia;2011-04-23;Bobrzyñski;Pomoc kardiologiczna;NFZ;420
+50;Cichocki;Piotr;2011-01-26;Kosiñska;Pomoc okulistyczna;NFZ;310
+302;Witek;Robert;2011-04-17;Piotrecki;Pomoc laryngologiczna;NFZ;230
+855;Niewiadomska;Oliwia;2011-11-19;Maliñski;Pomoc laryngologiczna;NFZ;230
+87;Staniszewski;Robert;2011-02-12;Pielecka;Pomoc kardiologiczna;Abonament medyczny;420
+2;Bednarz;Aleksander;2011-01-01;Pielecka;Pomoc ambulatoryjna;NFZ;190
+638;Lech;Bogdan;2011-08-28;Kalinowska;Pomoc laryngologiczna;NFZ;230
+214;Rudnicka;Magdalena;2011-03-22;Kosiñska;Pomoc kardiologiczna;NFZ;420
+773;Kulesza;Marta;2011-10-17;Micha³owski;Pomoc ambulatoryjna;NFZ;190
+483;Pi¹tkowski;Piotr;2011-06-25;Maliñski;Pomoc kardiologiczna;NFZ;420
+672;Turek;Eugenia;2011-09-08;Maliñski;Pomoc kardiologiczna;NFZ;420
+104;Chmiel;Ewelina;2011-02-18;Maliñski;Pomoc kardiologiczna;Abonament medyczny;420
+530;Biernacki;Szymon;2011-07-12;Bobrzyñski;Pomoc kardiologiczna;Pol-Plan Ubezpieczenia;420
+760;Sowiñski;Antoni;2011-10-12;Maliñski;Pomoc kardiologiczna;Pol-Plan Ubezpieczenia;420
+21;Skrzypczak;Makary;2011-01-09;Micha³owski;Pomoc kardiologiczna;NFZ;420
+904;Podgórski;Waldemar;2011-12-18;Maliñski;Pomoc ambulatoryjna;Polisa zdrowotna;190
+149;Cichoñ;Micha³;2011-03-01;Pielecka;Pomoc ambulatoryjna;NFZ;190
+22;Rosiñska;Weronika;2011-01-09;Piotrecki;Pomoc laryngologiczna;Polisa zdrowotna;230
+675;Karczewska;Ma³gorzata;2011-09-09;Piotrecki;Pomoc ambulatoryjna;NFZ;190
+371;¯urek;Marianna;2011-05-12;Kalinowska;Pomoc kardiologiczna;NFZ;420
+840;Drozd;Maciej;2011-11-12;Pielecka;Pomoc kardiologiczna;NFZ;420
+469;¯urawski;Wojciech;2011-06-16;Kalinowska;Intensywna terapia;NFZ;790
+45;Pietrzyk;Janusz;2011-01-22;Micha³owski;Nastawianie z³amanej koœci;Pol-Plan Ubezpieczenia;370
+57;Komorowski;Adam;2011-01-28;Pielecka;Pomoc kardiologiczna;Polisa zdrowotna;420
+834;Antczak;Wojciech;2011-11-11;Bobrzyñski;Pomoc ambulatoryjna;Polisa zdrowotna;190
+526;Go³êbiewski;Robert;2011-07-11;Kalinowska;Pomoc laryngologiczna;NFZ;230
+792;Góra;Anna;2011-11-02;Pielecka;Pomoc kardiologiczna;NFZ;420
+135;Banach;Alina;2011-02-26;Kosiñska;Intensywna terapia;NFZ;790
+703;Filipiak;Adam;2011-09-16;Gronowski;Pomoc kardiologiczna;NFZ;420
+927;Grochowski;Wies³aw;2011-12-28;Micha³owski;Pomoc kardiologiczna;NFZ;420
+567;Krzy¿anowska;Józefina;2011-07-27;Micha³owski;Pomoc kardiologiczna;NFZ;420
+722;Graczyk;Aleksander;2011-09-24;Maliñski;Pomoc laryngologiczna;NFZ;230
+297;Przyby³a;Roksana;2011-04-16;Kosiñska;Intensywna terapia;Abonament medyczny;790
+240;Gruszka;Gabriela;2011-03-28;Bobrzyñski;Pomoc ambulatoryjna;NFZ;190
+502;Banaœ;Bohdan;2011-07-01;Gronowski;Pomoc okulistyczna;NFZ;310
+753;Klimczak;S³awa;2011-10-07;Kosiñska;Pomoc kardiologiczna;Abonament medyczny;420
+241;Siwek;Bohdan;2011-03-28;Bobrzyñski;Pomoc okulistyczna;NFZ;310
+613;Konieczna;Julia;2011-08-18;Kalinowska;Pomoc kardiologiczna;Abonament medyczny;420
+873;Serafin;Ma³gorzata;2011-11-27;Kalinowska;Pomoc kardiologiczna;NFZ;420
+172;Bieniek;Stanis³aw;2011-03-09;Kalinowska;Pomoc kardiologiczna;NFZ;420
+618;Godlewski;Antoni;2011-08-20;Piotrecki;Intensywna terapia;NFZ;790
+401;Rak;Bartosz;2011-05-21;Piotrecki;Pomoc okulistyczna;NFZ;310
+453;Kulik;Nikola;2011-06-12;Gronowski;Szycie ran;Pol-Plan Ubezpieczenia;170
+668;Maækowiak;Joanna;2011-09-07;Pielecka;Pomoc kardiologiczna;Abonament medyczny;420
+77;Zawada;Miko³aj;2011-02-08;Micha³owski;Pomoc ambulatoryjna;NFZ;190
+894;Miko³ajczak;Janusz;2011-12-09;Kosiñska;Pomoc kardiologiczna;NFZ;420
+863;Ró¿añska;Wies³awa;2011-11-21;Piotrecki;Pomoc okulistyczna;Polisa zdrowotna;310
+387;Cieœla;Micha³;2011-05-17;Micha³owski;Pomoc okulistyczna;NFZ;310
+522;D³ugosz;Emilia;2011-07-08;Bobrzyñski;Pomoc kardiologiczna;NFZ;420
+228;Œliwa;Renata;2011-03-24;Micha³owski;Pomoc kardiologiczna;NFZ;420
+275;Ptak;Szymon;2011-04-07;Piotrecki;Pomoc ambulatoryjna;NFZ;190
+168;Strzelecki;Aleksander;2011-03-08;Kosiñska;Pomoc kardiologiczna;NFZ;420
+355;Zarzycki;Mateusz;2011-05-05;Micha³owski;Pomoc okulistyczna;NFZ;310
+183;Mielczarek;Zbigniew;2011-03-13;Micha³owski;Pomoc kardiologiczna;NFZ;420
+691;K³os;W³odzimierz;2011-09-13;Piotrecki;Pomoc kardiologiczna;Pol-Plan Ubezpieczenia;420
+708;Bartkowiak;Ma³gorzata;2011-09-18;Micha³owski;Pomoc okulistyczna;NFZ;310
+143;Leœniewski;Bogus³aw;2011-02-28;Kalinowska;Szycie ran;NFZ;170
+120;Krawiec;Szymon;2011-02-24;Gronowski;Pomoc laryngologiczna;Pol-Plan Ubezpieczenia;230
+585;Górka;Wiktor;2011-08-04;Micha³owski;Pomoc ambulatoryjna;Polisa zdrowotna;190
+242;Janiak;Stanis³aw;2011-03-28;Bobrzyñski;Nastawianie z³amanej koœci;NFZ;370
+229;Kaczyñska;Amanda;2011-03-24;Gronowski;Szycie ran;NFZ;170
+765;Bartczak;Maja;2011-10-13;Maliñski;Pomoc kardiologiczna;NFZ;420
+823;Winiarska;Aleksandra;2011-11-08;Kalinowska;Intensywna terapia;Polisa zdrowotna;790
+686;Tokarski;Maksym;2011-09-12;Piotrecki;Pomoc laryngologiczna;NFZ;230
+929;Gil;Jan;2011-12-30;Bobrzyñski;Pomoc ambulatoryjna;NFZ;190
+497;Panek;Dominik;2011-06-30;Gronowski;Pomoc kardiologiczna;NFZ;420
+18;Konopka;Zuzanna;2011-01-08;Piotrecki;Pomoc kardiologiczna;Pol-Plan Ubezpieczenia;420
+51;Frankowska;Wiktoria;2011-01-26;Pielecka;Pomoc kardiologiczna;Polisa zdrowotna;420
+914;Banasiak;Maksymilian;2011-12-23;Bobrzyñski;Pomoc laryngologiczna;Pol-Plan Ubezpieczenia;230
+692;Grzyb;Amanda;2011-09-13;Pielecka;Pomoc laryngologiczna;NFZ;230
+877;Rakowski;Wincenty;2011-11-29;Micha³owski;Pomoc kardiologiczna;NFZ;420
+418;Kuœ;Gra¿yna;2011-05-27;Piotrecki;Pomoc kardiologiczna;NFZ;420
+639;Dudziñski;W³odzimierz;2011-08-28;Maliñski;Nastawianie z³amanej koœci;Pol-Plan Ubezpieczenia;370
+383;Zaremba;Natalia;2011-05-15;Kosiñska;Pomoc kardiologiczna;Polisa zdrowotna;420
+32;Skowron;Ró¿a;2011-01-13;Kosiñska;Pomoc kardiologiczna;Abonament medyczny;420
+523;Fija³kowska;Celina;2011-07-08;Kosiñska;Pomoc okulistyczna;NFZ;310
+308;Dobosz;Maciej;2011-04-18;Gronowski;Pomoc kardiologiczna;NFZ;420
+207;Witczak;Adela;2011-03-19;Bobrzyñski;Pomoc okulistyczna;NFZ;310
+808;Nawrot;Aleksander;2011-11-05;Bobrzyñski;Pomoc kardiologiczna;NFZ;420
+544;Królikowska;Wiktoria;2011-07-20;Bobrzyñski;Pomoc kardiologiczna;NFZ;420
+761;M³ynarczyk;Sebastian;2011-10-12;Kalinowska;Pomoc laryngologiczna;Abonament medyczny;230
+611;Sienkiewicz;Jan;2011-08-16;Gronowski;Pomoc ambulatoryjna;NFZ;190
+896;Fr¹czek;Wojciech;2011-12-12;Gronowski;Pomoc okulistyczna;NFZ;310
+506;S³owik;Wiktor;2011-07-03;Kalinowska;Pomoc kardiologiczna;NFZ;420
+451;Fr¹ckowiak;Wiktor;2011-06-11;Gronowski;Pomoc kardiologiczna;NFZ;420
+478;Czy¿ewska;Aldona;2011-06-19;Kalinowska;Pomoc kardiologiczna;Polisa zdrowotna;420
+79;Kostrzewa;Wac³aw;2011-02-09;Piotrecki;Pomoc kardiologiczna;NFZ;420
+664;Kucharczyk;Zofia;2011-09-04;Micha³owski;Pomoc kardiologiczna;NFZ;420
+285;Gawroñski;Maciej;2011-04-11;Gronowski;Pomoc kardiologiczna;Polisa zdrowotna;420
+568;Rybicka;Maria;2011-07-27;Pielecka;Pomoc ambulatoryjna;Abonament medyczny;190
+342;Pa³ka;W³odzimierz;2011-04-30;Kosiñska;Pomoc okulistyczna;Abonament medyczny;310
+687;Biernat;Martyna;2011-09-12;Piotrecki;Pomoc laryngologiczna;NFZ;230
+572;Ró¿ycki;Gustaw;2011-07-29;Bobrzyñski;Intensywna terapia;NFZ;790
+717;Bogusz;Dominik;2011-09-23;Maliñski;Pomoc kardiologiczna;Polisa zdrowotna;420
+817;Rogalski;Wiktor;2011-11-07;Gronowski;Pomoc kardiologiczna;NFZ;420
+138;Szymczyk;Bo¿ydar;2011-02-27;Piotrecki;Pomoc kardiologiczna;NFZ;420
+388;Janus;Dagmara;2011-05-17;Micha³owski;Pomoc kardiologiczna;NFZ;420
+303;Szczepanik;Alicja;2011-04-17;Bobrzyñski;Pomoc kardiologiczna;Abonament medyczny;420
+908;Szczygie³;Alicja;2011-12-19;Bobrzyñski;Pomoc kardiologiczna;Pol-Plan Ubezpieczenia;420
+6;Buczek;Czes³awa;2011-01-04;Piotrecki;Pomoc kardiologiczna;Abonament medyczny;420
+64;Szostak;Brygida;2011-02-05;Piotrecki;Pomoc kardiologiczna;NFZ;420
+403;Kaleta;Jakub;2011-05-22;Gronowski;Pomoc kardiologiczna;NFZ;420
+361;Kaczorowska;Stella;2011-05-08;Kalinowska;Pomoc kardiologiczna;NFZ;420
+266;¯ebrowska;Wioletta;2011-04-03;Gronowski;Pomoc laryngologiczna;Abonament medyczny;230
+493;Tkaczyk;Bernardyna;2011-06-29;Piotrecki;Pomoc kardiologiczna;NFZ;420
+866;Grzegorczyk;Anna;2011-11-22;Kosiñska;Pomoc kardiologiczna;NFZ;420
+194;Drzewiecka;Zofia;2011-03-15;Kalinowska;Pomoc kardiologiczna;NFZ;420
+25;Trojanowski;Zdzis³aw;2011-01-10;Maliñski;Intensywna terapia;Abonament medyczny;790
+704;Bagiñski;Miko³aj;2011-09-16;Pielecka;Pomoc laryngologiczna;NFZ;230
+754;Ksi¹¿ek;S³awomira;2011-10-07;Micha³owski;Pomoc kardiologiczna;NFZ;420
+607;Jurek;Micha³;2011-08-15;Micha³owski;Pomoc kardiologiczna;Pol-Plan Ubezpieczenia;420
+619;Trzciñska;Jagoda;2011-08-20;Kalinowska;Pomoc okulistyczna;Polisa zdrowotna;310
+797;Gawron;Jaros³awa;2011-11-04;Gronowski;Pomoc kardiologiczna;Polisa zdrowotna;420
+809;Wojtczak;Gabriela;2011-11-05;Micha³owski;Pomoc kardiologiczna;NFZ;420
+622;Rogala;Edward;2011-08-21;Pielecka;Pomoc kardiologiczna;Polisa zdrowotna;420
+328;Kula;Justyna;2011-04-27;Maliñski;Pomoc kardiologiczna;NFZ;420
+724;Kubik;Bo¿ydar;2011-09-25;Maliñski;Pomoc laryngologiczna;NFZ;230
+283;Maliszewski;Szymon;2011-04-09;Piotrecki;Pomoc laryngologiczna;NFZ;230
+392;Radomska;Emilia;2011-05-18;Pielecka;Intensywna terapia;NFZ;790
+924;D¹bek;Micha³;2011-12-26;Pielecka;Pomoc kardiologiczna;Polisa zdrowotna;420
+784;Kisiel;Justyna;2011-10-25;Maliñski;Pomoc okulistyczna;Polisa zdrowotna;310
+655;Cebula;Jeremiasz;2011-08-31;Gronowski;Pomoc kardiologiczna;NFZ;420
+446;Rosiak;Sonia;2011-06-09;Kosiñska;Pomoc kardiologiczna;Pol-Plan Ubezpieczenia;420
+220;Zarêba;Zuzanna;2011-03-23;Maliñski;Pomoc kardiologiczna;Abonament medyczny;420
+195;G¹sior;Rozalia;2011-03-15;Piotrecki;Pomoc kardiologiczna;NFZ;420
+150;Grzesiak;Aleksander;2011-03-01;Kosiñska;Pomoc ambulatoryjna;Pol-Plan Ubezpieczenia;190
+766;Gawlik;Aleksandra;2011-10-13;Micha³owski;Pomoc okulistyczna;NFZ;310
+211;Cygan;Bartosz;2011-03-21;Kosiñska;Intensywna terapia;NFZ;790
+676;Rojek;Patryk;2011-09-09;Kalinowska;Pomoc kardiologiczna;NFZ;420
+697;Dêbowski;Maciej;2011-09-15;Gronowski;Pomoc kardiologiczna;NFZ;420
+257;Bogucka;Brygida;2011-03-31;Kalinowska;Pomoc kardiologiczna;Abonament medyczny;420
+470;Wiêckowska;Lena;2011-06-16;Piotrecki;Pomoc kardiologiczna;NFZ;420
+569;Mikulska;Hanna;2011-07-27;Maliñski;Pomoc kardiologiczna;NFZ;420
+558;Walkowiak;Magdalena;2011-07-26;Gronowski;Pomoc okulistyczna;NFZ;310
+740;Malec;Agnieszka;2011-09-29;Pielecka;Pomoc ambulatoryjna;NFZ;190
+113;Burzyñska;Diana;2011-02-23;Maliñski;Pomoc kardiologiczna;NFZ;420
+46;Flis;Czes³aw;2011-01-22;Kalinowska;Pomoc kardiologiczna;NFZ;420
+479;W¹sik;Ma³gorzata;2011-06-19;Maliñski;Pomoc kardiologiczna;Polisa zdrowotna;420
+549;Czapla;Ma³gorzata;2011-07-22;Micha³owski;Pomoc okulistyczna;NFZ;310
+631;Drozdowska;Justyna;2011-08-25;Micha³owski;Pomoc kardiologiczna;NFZ;420
+294;Kwaœniewski;Patryk;2011-04-15;Micha³owski;Pomoc kardiologiczna;NFZ;420
+826;Wójcicki;Marek;2011-11-09;Pielecka;Pomoc kardiologiczna;NFZ;420
+680;Rzepka;Marcelina;2011-09-10;Piotrecki;Pomoc kardiologiczna;Abonament medyczny;420
+312;Ga³¹zka;Szymon;2011-04-19;Gronowski;Pomoc ambulatoryjna;NFZ;190
+121;£ukasiewicz;Rados³awa;2011-02-24;Pielecka;Pomoc kardiologiczna;Abonament medyczny;420
+356;Pawelec;Adam;2011-05-05;Kalinowska;Pomoc kardiologiczna;NFZ;420
+209;Lipska;Daria;2011-03-20;Gronowski;Intensywna terapia;NFZ;790
+532;Wnuk;Hanna;2011-07-13;Kosiñska;Intensywna terapia;NFZ;790
+851;Ko³odziejski;Tymon;2011-11-14;Piotrecki;Intensywna terapia;NFZ;790
+577;Andrzejczak;Nikola;2011-07-31;Bobrzyñski;Pomoc kardiologiczna;NFZ;420
+93;Zaborowska;Alicja;2011-02-16;Bobrzyñski;Pomoc ambulatoryjna;Abonament medyczny;190
+710;Sokó³;Dominik;2011-09-20;Maliñski;Pomoc kardiologiczna;NFZ;420
+762;Urbañczyk;Jakub;2011-10-12;Maliñski;Pomoc kardiologiczna;NFZ;420
+438;Falkowski;Filip;2011-06-06;Maliñski;Pomoc kardiologiczna;NFZ;420
+215;Filipek;Sebastian;2011-03-22;Bobrzyñski;Pomoc kardiologiczna;Abonament medyczny;420
+247;Jêdrzejczak;Ryszard;2011-03-29;Maliñski;Pomoc okulistyczna;NFZ;310
+395;Ciszewski;Bernard;2011-05-19;Maliñski;Pomoc okulistyczna;NFZ;310
+915;Zaj¹czkowska;Edyta;2011-12-23;Maliñski;Pomoc kardiologiczna;NFZ;420
+251;Nowaczyk;Martyna;2011-03-30;Micha³owski;Pomoc okulistyczna;NFZ;310
+260;Bielawski;Filip;2011-04-01;Piotrecki;Pomoc kardiologiczna;NFZ;420
+278;Wêgrzyn;Makary;2011-04-08;Kalinowska;Pomoc ambulatoryjna;NFZ;190
+393;Krysiak;Julia;2011-05-18;Kosiñska;Pomoc kardiologiczna;Polisa zdrowotna;420
+818;Hajduk;Alicja;2011-11-07;Piotrecki;Pomoc kardiologiczna;NFZ;420
+841;Lisiecka;Janina;2011-11-12;Gronowski;Pomoc laryngologiczna;NFZ;230
+656;Mroczek;Marcin;2011-08-31;Kosiñska;Pomoc kardiologiczna;NFZ;420
+12;Jagodziñski;Filip;2011-01-05;Kosiñska;Pomoc laryngologiczna;Pol-Plan Ubezpieczenia;230
+921;Szafrañski;Dominik;2011-12-25;Gronowski;Pomoc kardiologiczna;NFZ;420
+852;Bia³as;Jadwiga;2011-11-14;Bobrzyñski;Pomoc okulistyczna;NFZ;310
+405;Pietras;B³a¿ej;2011-05-23;Gronowski;Pomoc okulistyczna;NFZ;310
+559;Karwowska;Diana;2011-07-26;Bobrzyñski;Pomoc kardiologiczna;Polisa zdrowotna;420
+122;¯muda;Maja;2011-02-24;Kosiñska;Pomoc kardiologiczna;Polisa zdrowotna;420
+334;Lach;Sandra;2011-04-28;Micha³owski;Pomoc laryngologiczna;NFZ;230
+201;Ka³u¿a;Dawid;2011-03-16;Piotrecki;Szycie ran;Abonament medyczny;170
+123;Dziuba;Mariusz;2011-02-24;Maliñski;Pomoc kardiologiczna;NFZ;420
+534;Wroñska;Joanna;2011-07-14;Piotrecki;Pomoc ambulatoryjna;NFZ;190
+835;Gruszczyñska;Czes³awa;2011-11-11;Maliñski;Pomoc kardiologiczna;NFZ;420
+231;Skibiñski;Zygmunt;2011-03-25;Kosiñska;Intensywna terapia;NFZ;790
+900;Borek;Renata;2011-12-16;Pielecka;Pomoc ambulatoryjna;NFZ;190
+188;Krakowiak;Patryk;2011-03-14;Gronowski;Intensywna terapia;Abonament medyczny;790
+550;Wasiak;Aleksander;2011-07-22;Kosiñska;Pomoc kardiologiczna;NFZ;420
+786;Jagie³³o;Agnieszka;2011-10-27;Gronowski;Pomoc kardiologiczna;NFZ;420
+608;Skrzypek;Tymon;2011-08-15;Micha³owski;Pomoc kardiologiczna;NFZ;420
+771;Lasota;Wincenty;2011-10-16;Pielecka;Pomoc kardiologiczna;NFZ;420
+442;Mika;Igor;2011-06-08;Kalinowska;Pomoc laryngologiczna;Abonament medyczny;230
+164;Mas³owska;Ewa;2011-03-07;Kalinowska;Intensywna terapia;NFZ;790
+864;Juszczak;Martyna;2011-11-21;Kalinowska;Pomoc kardiologiczna;NFZ;420
+593;Borowiec;Dominik;2011-08-10;Micha³owski;Pomoc kardiologiczna;Polisa zdrowotna;420
+798;Raczyñski;Kacper;2011-11-04;Gronowski;Pomoc ambulatoryjna;Abonament medyczny;190
+339;Sobieraj;Maria;2011-04-29;Bobrzyñski;Pomoc kardiologiczna;NFZ;420
+261;Œlusarczyk;Dorota;2011-04-01;Pielecka;Intensywna terapia;Abonament medyczny;790
+846;Karaœ;Emilia;2011-11-13;Gronowski;Pomoc laryngologiczna;NFZ;230
+698;Dubiel;Miko³aj;2011-09-15;Piotrecki;Pomoc okulistyczna;Abonament medyczny;310
+139;£ukaszewska;Julia;2011-02-27;Bobrzyñski;Pomoc laryngologiczna;Polisa zdrowotna;230
+609;Dominiak;Maksym;2011-08-15;Kosiñska;Pomoc laryngologiczna;Polisa zdrowotna;230
+344;Kmiecik;Miko³aj;2011-05-01;Gronowski;Pomoc kardiologiczna;Polisa zdrowotna;420
+160;Bujak;Rozalia;2011-03-05;Bobrzyñski;Pomoc kardiologiczna;NFZ;420
+879;Kubacki;Dariusz;2011-12-01;Piotrecki;Pomoc kardiologiczna;NFZ;420
+511;Pilarska;Dominika;2011-07-04;Piotrecki;Pomoc kardiologiczna;Polisa zdrowotna;420
+389;Gutowska;Amelia;2011-05-17;Bobrzyñski;Pomoc kardiologiczna;Polisa zdrowotna;420
+34;Misiak;Wiktoria;2011-01-15;Pielecka;Pomoc okulistyczna;NFZ;310
+434;Tarnowski;B³a¿ej;2011-06-03;Piotrecki;Intensywna terapia;NFZ;790
+748;Bartosik;Ryszard;2011-10-05;Maliñski;Intensywna terapia;NFZ;790
+824;Mierzejewski;Kacper;2011-11-08;Gronowski;Intensywna terapia;NFZ;790
+189;Kopczyñska;Weronika;2011-03-14;Piotrecki;Pomoc ambulatoryjna;Polisa zdrowotna;190
+635;Jakubiak;Zenona;2011-08-26;Kalinowska;Pomoc ambulatoryjna;NFZ;190
+524;Twardowski;Szymon;2011-07-08;Bobrzyñski;Pomoc kardiologiczna;NFZ;420
+623;Zielonka;Daniel;2011-08-21;Kosiñska;Pomoc kardiologiczna;Polisa zdrowotna;420
+881;Jezierski;Maciej;2011-12-03;Gronowski;Pomoc kardiologiczna;NFZ;420
+706;Jurkiewicz;Bogdan;2011-09-17;Maliñski;Nastawianie z³amanej koœci;NFZ;370
+40;£apiñski;Patryk;2011-01-21;Pielecka;Pomoc kardiologiczna;NFZ;420
+750;Florczak;Micha³;2011-10-06;Gronowski;Pomoc kardiologiczna;Polisa zdrowotna;420
+243;G¹siorowska;Weronika;2011-03-28;Piotrecki;Pomoc kardiologiczna;Abonament medyczny;420
+591;Paku³a;Grzegorz;2011-08-09;Maliñski;Pomoc okulistyczna;NFZ;310
+579;Piórkowski;Dominik;2011-08-02;Kalinowska;Intensywna terapia;NFZ;790
+7;Janas;Adrian;2011-01-04;Micha³owski;Pomoc kardiologiczna;NFZ;420
+16;Bilski;Mateusz;2011-01-07;Pielecka;Intensywna terapia;NFZ;790
+570;Stelmach;Jaœmina;2011-07-27;Maliñski;Pomoc kardiologiczna;NFZ;420
+109;Bochenek;Dariusz;2011-02-21;Maliñski;Pomoc kardiologiczna;Polisa zdrowotna;420
+489;Stec;Mariusz;2011-06-27;Kosiñska;Pomoc laryngologiczna;Pol-Plan Ubezpieczenia;230
+288;Staszewska;Maja;2011-04-12;Micha³owski;Pomoc ambulatoryjna;NFZ;190
+298;Dudziak;Bogna;2011-04-16;Maliñski;Pomoc kardiologiczna;Polisa zdrowotna;420
+626;Noga;Zuzanna;2011-08-22;Bobrzyñski;Pomoc ambulatoryjna;NFZ;190
+36;Skoczylas;Julia;2011-01-19;Bobrzyñski;Pomoc laryngologiczna;NFZ;230
+756;Pasternak;Lena;2011-10-11;Gronowski;Pomoc ambulatoryjna;NFZ;190
+491;Dobrzyñski;Witold;2011-06-28;Bobrzyñski;Pomoc kardiologiczna;Polisa zdrowotna;420
+810;Górniak;Natalia;2011-11-05;Bobrzyñski;Pomoc kardiologiczna;Polisa zdrowotna;420
+410;Matuszak;Alicja;2011-05-25;Micha³owski;Pomoc kardiologiczna;NFZ;420
+279;Piwowarczyk;Jadwiga;2011-04-08;Bobrzyñski;Pomoc okulistyczna;NFZ;310
+925;Filipowicz;Hanna;2011-12-26;Micha³owski;Pomoc laryngologiczna;Polisa zdrowotna;230
+267;Milczarek;Alicja;2011-04-03;Maliñski;Pomoc kardiologiczna;NFZ;420
+718;Kêdziora;Maciej;2011-09-23;Micha³owski;Pomoc laryngologiczna;NFZ;230
+471;Adamus;Wies³aw;2011-06-16;Kosiñska;Pomoc kardiologiczna;NFZ;420
+642;Cholewa;Ryszard;2011-08-29;Maliñski;Pomoc kardiologiczna;NFZ;420
+107;S³owiñska;Ró¿a;2011-02-20;Piotrecki;Pomoc kardiologiczna;NFZ;420
+688;Olczak;Mateusz;2011-09-12;Kosiñska;Pomoc ambulatoryjna;Polisa zdrowotna;190
+858;Koza;Piotr;2011-11-20;Maliñski;Pomoc kardiologiczna;NFZ;420
+30;Jêdrzejczyk;Gabriela;2011-01-11;Kosiñska;Pomoc kardiologiczna;Abonament medyczny;420
+179;Czechowska;Anna;2011-03-11;Gronowski;Pomoc ambulatoryjna;NFZ;190
+62;Gawe³;Justyna;2011-02-02;Kalinowska;Intensywna terapia;NFZ;790
+203;Jaœkiewicz;Bo¿ydar;2011-03-17;Micha³owski;Intensywna terapia;NFZ;790
+457;Wilczek;Julia;2011-06-14;Gronowski;Pomoc kardiologiczna;NFZ;420
+504;Kaczmarski;Cezar;2011-07-02;Micha³owski;Intensywna terapia;NFZ;790
+627;Jankowiak;Adam;2011-08-22;Gronowski;Pomoc ambulatoryjna;NFZ;190
+73;Krupiñski;Borys;2011-02-07;Pielecka;Pomoc kardiologiczna;Abonament medyczny;420
+560;Strzelczyk;Bernardyna;2011-07-26;Gronowski;Szycie ran;NFZ;170
+105;Kubica;Monika;2011-02-18;Kosiñska;Pomoc ambulatoryjna;NFZ;190
+365;Misztal;Mateusz;2011-05-10;Piotrecki;Pomoc kardiologiczna;NFZ;420
+8;Sieradzka;Weronika;2011-01-04;Maliñski;Pomoc kardiologiczna;Polisa zdrowotna;420
+156;Iwañska;Ryszarda;2011-03-04;Micha³owski;Pomoc kardiologiczna;NFZ;420
+615;S³awiñski;Antoni;2011-08-19;Maliñski;Intensywna terapia;NFZ;790
+271;Adamczak;Grzegorz;2011-04-04;Kalinowska;Pomoc laryngologiczna;Abonament medyczny;230
+289;Szwed;Józefina;2011-04-12;Gronowski;Pomoc kardiologiczna;NFZ;420
+643;Zwoliñski;Igor;2011-08-29;Pielecka;Pomoc okulistyczna;Abonament medyczny;310
+340;Zygmunt;Hanna;2011-04-29;Kosiñska;Pomoc laryngologiczna;NFZ;230
+26;Paczkowska;Marta;2011-01-10;Piotrecki;Pomoc kardiologiczna;Pol-Plan Ubezpieczenia;420
+316;Kapusta;Piotr;2011-04-23;Gronowski;Pomoc laryngologiczna;NFZ;230
+52;Adamek;Tymon;2011-01-26;Micha³owski;Pomoc okulistyczna;NFZ;310
+304;Stêpniak;Zenon;2011-04-17;Piotrecki;Pomoc kardiologiczna;NFZ;420
+856;Modzelewska;Zofia;2011-11-19;Kosiñska;Pomoc kardiologiczna;NFZ;420
+573;Majcher;Filip;2011-07-29;Kalinowska;Pomoc ambulatoryjna;Abonament medyczny;190
+406;Jackowska;Maria;2011-05-23;Bobrzyñski;Pomoc okulistyczna;NFZ;310
+507;Siedlecki;Dawid;2011-07-03;Micha³owski;Pomoc kardiologiczna;NFZ;420
+216;Niedzielska;Aleksandra;2011-03-22;Bobrzyñski;Pomoc kardiologiczna;Polisa zdrowotna;420
+767;Adamiak;Weronika;2011-10-13;Kalinowska;Pomoc kardiologiczna;NFZ;420
+67;Malicka;Maja;2011-02-06;Gronowski;Pomoc kardiologiczna;NFZ;420
+909;Szczeœniak;Amelia;2011-12-20;Bobrzyñski;Pomoc kardiologiczna;Polisa zdrowotna;420
+842;So³tys;Natalia;2011-11-12;Bobrzyñski;Pomoc kardiologiczna;NFZ;420
+447;Florek;Amanda;2011-06-09;Kalinowska;Pomoc ambulatoryjna;NFZ;190
+799;Ruciñska;Aleksandra;2011-11-04;Maliñski;Intensywna terapia;NFZ;790
+827;Kaszuba;Jolanta;2011-11-09;Kosiñska;Pomoc kardiologiczna;NFZ;420
+728;Bober;Jerzy;2011-09-26;Piotrecki;Pomoc okulistyczna;NFZ;310
+290;Kwieciñski;S³awa;2011-04-12;Kalinowska;Pomoc kardiologiczna;Abonament medyczny;420
+644;Adamowicz;Roman;2011-08-30;Kosiñska;Pomoc kardiologiczna;NFZ;420
+741;Sochacki;Sylwia;2011-09-29;Piotrecki;Pomoc laryngologiczna;NFZ;230
+221;Grzywacz;Igor;2011-03-23;Piotrecki;Pomoc kardiologiczna;NFZ;420
+776;Go³¹b;Cyprian;2011-10-20;Maliñski;Pomoc kardiologiczna;NFZ;420
+94;Dec;Albert;2011-02-17;Gronowski;Pomoc kardiologiczna;NFZ;420
+512;W³odarska;Amanda;2011-07-05;Bobrzyñski;Pomoc kardiologiczna;NFZ;420
+594;Stolarczyk;Weronika;2011-08-10;Maliñski;Pomoc kardiologiczna;NFZ;420
+725;Bieñkowski;Mateusz;2011-09-25;Gronowski;Pomoc laryngologiczna;NFZ;230
+498;Niemczyk;Bartosz;2011-06-30;Micha³owski;Pomoc kardiologiczna;NFZ;420
+58;Szyszka;Jakub;2011-01-31;Kosiñska;Pomoc ambulatoryjna;NFZ;190
+357;Mroczkowski;Piotr;2011-05-07;Gronowski;Intensywna terapia;NFZ;790
+601;Prokop;Alicja;2011-08-11;Bobrzyñski;Pomoc kardiologiczna;Polisa zdrowotna;420
+458;Góral;Anna;2011-06-14;Piotrecki;Pomoc okulistyczna;Pol-Plan Ubezpieczenia;310
+869;Stanis³awska;Regina;2011-11-23;Micha³owski;Pomoc laryngologiczna;Polisa zdrowotna;230
+372;Dudzik;Wiktor;2011-05-14;Micha³owski;Intensywna terapia;NFZ;790
+144;Stanek;Filip;2011-02-28;Kalinowska;Pomoc kardiologiczna;Abonament medyczny;420
+742;Kuc;Bogus³aw;2011-09-29;Kosiñska;Pomoc laryngologiczna;Pol-Plan Ubezpieczenia;230
+373;Molenda;Wojciech;2011-05-14;Pielecka;Pomoc laryngologiczna;Pol-Plan Ubezpieczenia;230
+461;Paszkowska;Wis³awa;2011-06-15;Bobrzyñski;Pomoc kardiologiczna;NFZ;420
+930;Sitek;Wac³aw;2011-12-31;Gronowski;Pomoc okulistyczna;NFZ;310
+173;Œwierczyñska;Julia;2011-03-10;Gronowski;Pomoc kardiologiczna;NFZ;420
+800;Suski;Dariusz;2011-11-04;Maliñski;Pomoc laryngologiczna;NFZ;230
+53;Drabik;Wies³aw;2011-01-27;Kalinowska;Pomoc kardiologiczna;NFZ;420
+882;Czekaj;Mariusz;2011-12-03;Kalinowska;Pomoc laryngologiczna;Pol-Plan Ubezpieczenia;230
+95;Rusin;Matylda;2011-02-17;Gronowski;Pomoc kardiologiczna;Polisa zdrowotna;420
+787;Ga³ka;Aldona;2011-10-27;Maliñski;Pomoc okulistyczna;NFZ;310
+396;Czerniak;Aldona;2011-05-20;Gronowski;Pomoc kardiologiczna;NFZ;420
+74;Kêpa;Juliusz;2011-02-07;Kosiñska;Pomoc okulistyczna;NFZ;310
+151;Fr¹tczak;El¿bieta;2011-03-03;Kalinowska;Pomoc kardiologiczna;Abonament medyczny;420
+733;Guzik;Celina;2011-09-27;Bobrzyñski;Pomoc kardiologiczna;Abonament medyczny;420
+252;Kuchta;Aleksander;2011-03-30;Kosiñska;Pomoc kardiologiczna;Pol-Plan Ubezpieczenia;420
+551;Budzyñska;Wioletta;2011-07-24;Micha³owski;Pomoc okulistyczna;Pol-Plan Ubezpieczenia;310
+345;Chojnowski;Dominik;2011-05-01;Kalinowska;Pomoc kardiologiczna;NFZ;420
+537;Szatkowski;Matylda;2011-07-16;Kalinowska;Pomoc kardiologiczna;NFZ;420
+80;Kruszewska;Maria;2011-02-09;Kalinowska;Pomoc okulistyczna;NFZ;310
+157;Kowalczuk;Oliwia;2011-03-04;Micha³owski;Pomoc laryngologiczna;Polisa zdrowotna;230
+645;Wiêcek;Eliza;2011-08-30;Maliñski;Pomoc kardiologiczna;Abonament medyczny;420
+737;Kaniewska;Magdalena;2011-09-28;Kosiñska;Pomoc kardiologiczna;NFZ;420
+659;Skóra;Bogdan;2011-09-02;Kalinowska;Pomoc kardiologiczna;NFZ;420
+693;Pytel;Adam;2011-09-13;Pielecka;Pomoc kardiologiczna;Polisa zdrowotna;420
+628;Puchalska;Aleksandra;2011-08-23;Piotrecki;Pomoc kardiologiczna;NFZ;420
+234;Kotowska;Amelia;2011-03-26;Kosiñska;Pomoc kardiologiczna;Pol-Plan Ubezpieczenia;420
+169;Augustyn;Bartosz;2011-03-08;Kosiñska;Pomoc ambulatoryjna;Pol-Plan Ubezpieczenia;190
+204;Micha³ek;W³odzimierz;2011-03-18;Kalinowska;Pomoc kardiologiczna;NFZ;420
+472;Szczêsny;Ryszarda;2011-06-16;Bobrzyñski;Pomoc kardiologiczna;Polisa zdrowotna;420
+788;¯uk;Julia;2011-10-27;Kosiñska;Pomoc kardiologiczna;NFZ;420
+190;Zdunek;Matylda;2011-03-14;Micha³owski;Pomoc kardiologiczna;Abonament medyczny;420
+423;Urbanowicz;Wiktoria;2011-05-30;Piotrecki;Pomoc kardiologiczna;NFZ;420
+517;Wolak;Julia;2011-07-07;Kosiñska;Pomoc kardiologiczna;Pol-Plan Ubezpieczenia;420
+321;Kolasa;Jacek;2011-04-24;Piotrecki;Pomoc laryngologiczna;Abonament medyczny;230
+248;Januszewski;Czes³aw;2011-03-29;Gronowski;Pomoc kardiologiczna;NFZ;420
+351;Kobus;Roman;2011-05-04;Maliñski;Pomoc okulistyczna;Pol-Plan Ubezpieczenia;310
+887;Piechota;Micha³;2011-12-05;Micha³owski;Pomoc ambulatoryjna;NFZ;190
+777;Pawlikowski;Micha³;2011-10-20;Kosiñska;Pomoc kardiologiczna;NFZ;420
+859;Skalska;Emilia;2011-11-20;Bobrzyñski;Pomoc laryngologiczna;NFZ;230
+867;Bo¿ek;Igor;2011-11-22;Micha³owski;Pomoc okulistyczna;NFZ;310
+329;Motyka;Mariusz;2011-04-27;Bobrzyñski;Pomoc kardiologiczna;NFZ;420
+494;Urbanek;Makary;2011-06-29;Piotrecki;Pomoc kardiologiczna;NFZ;420
+184;Bielak;Sylwia;2011-03-13;Kosiñska;Pomoc kardiologiczna;Polisa zdrowotna;420
+9;Zagórski;Pawe³;2011-01-04;Kosiñska;Pomoc kardiologiczna;Pol-Plan Ubezpieczenia;420
+335;Banasik;Renata;2011-04-28;Kosiñska;Pomoc kardiologiczna;NFZ;420
+774;Wypych;Jaœmina;2011-10-17;Pielecka;Intensywna terapia;NFZ;790
+484;Rosa;Cyprian;2011-06-25;Kalinowska;Pomoc kardiologiczna;Abonament medyczny;420
+262;Lipka;Eleonora;2011-04-01;Kosiñska;Pomoc okulistyczna;NFZ;310
+196;D¹bkowska;Weronika;2011-03-15;Kalinowska;Pomoc kardiologiczna;Abonament medyczny;420
+582;Trzeciak;Adam;2011-08-03;Kosiñska;Pomoc okulistyczna;NFZ;310
+535;P³onka;Adrian;2011-07-14;Pielecka;Pomoc kardiologiczna;Polisa zdrowotna;420
+419;B¹kowski;Szymon;2011-05-28;Piotrecki;Pomoc kardiologiczna;NFZ;420
+595;Tomala;Wiktoria;2011-08-10;Pielecka;Pomoc kardiologiczna;NFZ;420
+130;Partyka;Marcin;2011-02-25;Kalinowska;Pomoc laryngologiczna;Abonament medyczny;230
+646;Broda;Patrycja;2011-08-30;Micha³owski;Pomoc kardiologiczna;NFZ;420
+515;G³¹b;Paula;2011-07-06;Gronowski;Pomoc okulistyczna;NFZ;310
+222;Kita;Gabriela;2011-03-23;Piotrecki;Pomoc kardiologiczna;NFZ;420
+197;Jurkowska;Magdalena;2011-03-15;Micha³owski;Intensywna terapia;NFZ;790
+813;Kie³basa;Hanna;2011-11-06;Micha³owski;Pomoc kardiologiczna;NFZ;420
+853;G³ogowska;Amelia;2011-11-15;Kalinowska;Pomoc kardiologiczna;Pol-Plan Ubezpieczenia;420
+124;Pi³at;Marta;2011-02-24;Piotrecki;Pomoc okulistyczna;NFZ;310
+836;Knapik;Jaros³aw;2011-11-11;Maliñski;Pomoc kardiologiczna;NFZ;420
+313;Michalczyk;Nikola;2011-04-21;Kalinowska;Nastawianie z³amanej koœci;Polisa zdrowotna;370
+561;Ko³akowska;Brygida;2011-07-26;Maliñski;Intensywna terapia;NFZ;790
+68;Dró¿d¿;Cezar;2011-02-06;Micha³owski;Pomoc kardiologiczna;NFZ;420
+253;Bia³kowski;Wojciech;2011-03-30;Maliñski;Pomoc laryngologiczna;Pol-Plan Ubezpieczenia;230
+681;Przyby³;Marcin;2011-09-11;Gronowski;Pomoc kardiologiczna;NFZ;420
+27;Stolarski;Zygmunt;2011-01-10;Bobrzyñski;Pomoc kardiologiczna;NFZ;420
+905;Napiera³a;Edyta;2011-12-18;Bobrzyñski;Nastawianie z³amanej koœci;Polisa zdrowotna;370
+657;Balcerzak;Dagmara;2011-08-31;Bobrzyñski;Pomoc kardiologiczna;NFZ;420
+325;Ziêtek;Boles³w;2011-04-26;Gronowski;Pomoc kardiologiczna;Polisa zdrowotna;420
+435;Aleksandrowicz;Adela;2011-06-05;Micha³owski;Pomoc laryngologiczna;Pol-Plan Ubezpieczenia;230
+413;Buczkowski;Igor;2011-05-26;Maliñski;Pomoc kardiologiczna;Abonament medyczny;420
+431;So³tysiak;Pelagia;2011-06-01;Gronowski;Intensywna terapia;Polisa zdrowotna;790
+424;Marchewka;Damian;2011-05-30;Bobrzyñski;Pomoc kardiologiczna;NFZ;420
+586;Koper;Piotr;2011-08-04;Gronowski;Pomoc laryngologiczna;NFZ;230
+13;Robak;Wiktor;2011-01-06;Gronowski;Pomoc kardiologiczna;NFZ;420
+114;Cichy;Zuzanna;2011-02-23;Micha³owski;Intensywna terapia;NFZ;790
+699;Miœkiewicz;Nikola;2011-09-15;Pielecka;Pomoc kardiologiczna;NFZ;420
+596;Buczyñski;Ryszard;2011-08-10;Pielecka;Pomoc kardiologiczna;NFZ;420
+280;Rybarczyk;Bruno;2011-04-08;Micha³owski;Pomoc okulistyczna;NFZ;310
+713;Stachura;Szymon;2011-09-22;Piotrecki;Pomoc kardiologiczna;NFZ;420
+88;Mrozek;Amelia;2011-02-15;Kalinowska;Pomoc kardiologiczna;NFZ;420
+545;Woœ;Wiktor;2011-07-20;Micha³owski;Pomoc kardiologiczna;Abonament medyczny;420
+819;K³osowski;Antoni;2011-11-07;Micha³owski;Pomoc kardiologiczna;NFZ;420
+140;Jagielska;Ada;2011-02-27;Micha³owski;Pomoc okulistyczna;NFZ;310
+366;Janusz;Aleksandra;2011-05-11;Kosiñska;Pomoc kardiologiczna;Abonament medyczny;420
+439;Pawlicki;Kacper;2011-06-07;Micha³owski;Pomoc kardiologiczna;NFZ;420
+317;Górny;Patrycja;2011-04-23;Micha³owski;Pomoc okulistyczna;NFZ;310
+916;Skowronek;Jonasz;2011-12-24;Bobrzyñski;Pomoc laryngologiczna;NFZ;230
+883;Kasperek;Jan;2011-12-03;Kalinowska;Pomoc ambulatoryjna;Polisa zdrowotna;190
+462;Grzeœkowiak;Gabriela;2011-06-15;Maliñski;Pomoc kardiologiczna;NFZ;420
+272;Warcho³;Sandra;2011-04-04;Kosiñska;Pomoc kardiologiczna;Pol-Plan Ubezpieczenia;420
+811;Szymkowiak;Roksana;2011-11-05;Gronowski;Pomoc kardiologiczna;NFZ;420
+677;Grudzieñ;Piotr;2011-09-09;Maliñski;Pomoc ambulatoryjna;Abonament medyczny;190
+711;Wyszyñski;Wiktor;2011-09-21;Kosiñska;Pomoc kardiologiczna;NFZ;420
+425;¯y³a;Wojciech;2011-05-30;Bobrzyñski;Szycie ran;Abonament medyczny;170
+901;Woliñska;Emilia;2011-12-17;Bobrzyñski;Pomoc kardiologiczna;NFZ;420
+647;Maci¹g;Czes³awa;2011-08-30;Micha³owski;Pomoc kardiologiczna;NFZ;420
+362;Rudziñska;Maria;2011-05-09;Pielecka;Pomoc laryngologiczna;NFZ;230
+917;Furman;Bernard;2011-12-24;Bobrzyñski;Pomoc kardiologiczna;Polisa zdrowotna;420
+244;Flak;Wojciech;2011-03-28;Micha³owski;Pomoc okulistyczna;NFZ;310
+161;Stachurska;Magdalena;2011-03-06;Kalinowska;Intensywna terapia;Polisa zdrowotna;790
+669;Grzesik;Monika;2011-09-07;Bobrzyñski;Pomoc ambulatoryjna;NFZ;190
+96;Mackiewicz;Zuzanna;2011-02-17;Micha³owski;Pomoc kardiologiczna;NFZ;420
+480;Zab³ocka;Bo¿ena;2011-06-22;Kalinowska;Pomoc ambulatoryjna;NFZ;190
+778;Wojtas;Diana;2011-10-20;Kosiñska;Pomoc kardiologiczna;Abonament medyczny;420
+874;Korzeniowski;Filip;2011-11-28;Piotrecki;Pomoc kardiologiczna;NFZ;420
+580;Niedziela;Paulina;2011-08-02;Maliñski;Pomoc ambulatoryjna;NFZ;190
+47;GwóŸdŸ;Eliza;2011-01-23;Maliñski;Pomoc laryngologiczna;NFZ;230
+421;Gadomska;Zofia;2011-05-29;Kalinowska;Pomoc kardiologiczna;NFZ;420
+397;B³aszczak;Natalia;2011-05-20;Kalinowska;Pomoc kardiologiczna;NFZ;420
+661;Budziñski;Jakub;2011-09-03;Gronowski;Pomoc kardiologiczna;NFZ;420
+426;Ossowski;Marcin;2011-05-30;Kalinowska;Pomoc ambulatoryjna;NFZ;190
+847;Piotrowicz;Antoni;2011-11-13;Micha³owski;Intensywna terapia;NFZ;790
+131;Prus;Paulina;2011-02-25;Gronowski;Pomoc kardiologiczna;NFZ;420
+374;Pietruszka;Marianna;2011-05-14;Gronowski;Pomoc kardiologiczna;NFZ;420
+587;Kuciñska;Marianna;2011-08-04;Micha³owski;Pomoc kardiologiczna;NFZ;420
+41;Chmura;Sonia;2011-01-21;Gronowski;Pomoc kardiologiczna;NFZ;420
+665;Kostecki;Damian;2011-09-05;Piotrecki;Pomoc kardiologiczna;NFZ;420
+305;Jarz¹bek;Rados³aw;2011-04-17;Maliñski;Pomoc kardiologiczna;NFZ;420
+527;Golec;Patrycja;2011-07-11;Piotrecki;Intensywna terapia;Polisa zdrowotna;790
+65;Jaros;Janina;2011-02-05;Maliñski;Pomoc okulistyczna;NFZ;310
+734;Radecka;Lena;2011-09-27;Piotrecki;Pomoc okulistyczna;NFZ;310
+454;Chudzik;Hanna;2011-06-13;Micha³owski;Pomoc laryngologiczna;NFZ;230
+89;Duszyñska;Anna;2011-02-15;Pielecka;Pomoc kardiologiczna;NFZ;420
+375;NiedŸwiecki;Emil;2011-05-14;Kosiñska;Pomoc laryngologiczna;NFZ;230
+165;Surma;Stanis³aw;2011-03-07;Piotrecki;Szycie ran;NFZ;170
+110;Kawecka;Renata;2011-02-21;Micha³owski;Pomoc ambulatoryjna;NFZ;190
+125;Wojtkowiak;Lena;2011-02-24;Bobrzyñski;Pomoc kardiologiczna;NFZ;420
+897;Bartnik;Mateusz;2011-12-14;Maliñski;Szycie ran;NFZ;170
+486;Wolny;Maksymilian;2011-06-26;Kalinowska;Pomoc kardiologiczna;Pol-Plan Ubezpieczenia;420
+888;Szczerba;W³adys³awa;2011-12-05;Kalinowska;Pomoc kardiologiczna;NFZ;420
+793;Maœlanka;Jan;2011-11-03;Kosiñska;Pomoc kardiologiczna;NFZ;420
+81;Szczêsna;Mateusz;2011-02-09;Maliñski;Intensywna terapia;Pol-Plan Ubezpieczenia;790
+347;Wi¹cek;Makary;2011-05-02;Maliñski;Pomoc kardiologiczna;Pol-Plan Ubezpieczenia;420
+719;Majka;Aleksandra;2011-09-23;Gronowski;Pomoc kardiologiczna;NFZ;420
+309;Tracz;Damian;2011-04-18;Kalinowska;Nastawianie z³amanej koœci;NFZ;370
+443;Szel¹g;Bogus³aw;2011-06-08;Kosiñska;Intensywna terapia;NFZ;790
+268;Kogut;Szymon;2011-04-03;Bobrzyñski;Intensywna terapia;NFZ;790
+152;Stawicki;Radomir;2011-03-03;Pielecka;Pomoc kardiologiczna;NFZ;420
+414;Nowiñska;Zuzanna;2011-05-26;Kalinowska;Pomoc kardiologiczna;NFZ;420
+232;Rudzka;Monika;2011-03-25;Micha³owski;Pomoc laryngologiczna;Abonament medyczny;230
+84;Kuliñski;Miko³aj;2011-02-11;Bobrzyñski;Pomoc kardiologiczna;Pol-Plan Ubezpieczenia;420
+180;Wojtasik;Wiktor;2011-03-12;Kalinowska;Pomoc kardiologiczna;NFZ;420
+330;Izdebska;Martyna;2011-04-27;Micha³owski;Pomoc kardiologiczna;NFZ;420
+411;Stachowicz;Wiktor;2011-05-25;Kalinowska;Pomoc kardiologiczna;NFZ;420
+729;Kalisz;Julia;2011-09-26;Bobrzyñski;Pomoc laryngologiczna;NFZ;230
+318;Kulig;Roman;2011-04-23;Pielecka;Pomoc laryngologiczna;NFZ;230
+632;Adamiec;Damian;2011-08-25;Micha³owski;Pomoc kardiologiczna;Abonament medyczny;420
+323;Krukowski;Alfred;2011-04-25;Maliñski;Pomoc kardiologiczna;NFZ;420
+541;JóŸwik;Gabriela;2011-07-19;Kalinowska;Pomoc kardiologiczna;Abonament medyczny;420
+126;Kos;Borys;2011-02-24;Gronowski;Pomoc kardiologiczna;Polisa zdrowotna;420
+299;Miller;Miko³aj;2011-04-16;Maliñski;Pomoc kardiologiczna;NFZ;420
+348;Lenart;Patryk;2011-05-02;Piotrecki;Pomoc okulistyczna;NFZ;310
+830;Kosowski;Maciej;2011-11-10;Gronowski;Pomoc okulistyczna;NFZ;310
+37;Kmieæ;Rados³awa;2011-01-20;Bobrzyñski;Pomoc kardiologiczna;Polisa zdrowotna;420
+553;Pilch;Oliwia;2011-07-25;Kalinowska;Pomoc kardiologiczna;NFZ;420
+891;Lesiak;Sebastian;2011-12-07;Kalinowska;Pomoc kardiologiczna;NFZ;420
+174;Porêbska;Dagmara;2011-03-10;Piotrecki;Pomoc kardiologiczna;Polisa zdrowotna;420
+539;Szwarc;Stella;2011-07-17;Micha³owski;Pomoc ambulatoryjna;NFZ;190
+474;Herman;Jan;2011-06-17;Micha³owski;Intensywna terapia;NFZ;790
+367;Kujawski;Jakub;2011-05-11;Micha³owski;Pomoc laryngologiczna;NFZ;230
+574;Kawa;Mateusz;2011-07-29;Bobrzyñski;Pomoc okulistyczna;NFZ;310
+407;Bielski;Emil;2011-05-23;Pielecka;Pomoc kardiologiczna;NFZ;420
+508;Grudziñski;Bart³omiej;2011-07-03;Kosiñska;Pomoc okulistyczna;Pol-Plan Ubezpieczenia;310
+217;KuŸma;Maksym;2011-03-22;Micha³owski;Pomoc laryngologiczna;Polisa zdrowotna;230
+768;Roszak;Tomasz;2011-10-13;Maliñski;Pomoc kardiologiczna;NFZ;420
+69;Krasowska;Maria;2011-02-06;Gronowski;Pomoc laryngologiczna;Pol-Plan Ubezpieczenia;230
+910;Bieliñska;Sabina;2011-12-20;Kosiñska;Intensywna terapia;NFZ;790
+843;Skorupa;Bohdan;2011-11-12;Pielecka;Pomoc kardiologiczna;NFZ;420
+448;Malik;Edward;2011-06-09;Micha³owski;Pomoc kardiologiczna;NFZ;420
+801;Gorczyca;Tomasz;2011-11-04;Micha³owski;Pomoc kardiologiczna;NFZ;420
+828;Krakowski;Bart³omiej;2011-11-09;Kosiñska;Pomoc laryngologiczna;Abonament medyczny;230
+730;Banaszek;Cezar;2011-09-26;Piotrecki;Pomoc kardiologiczna;Polisa zdrowotna;420
+291;£ukaszewicz;Nikola;2011-04-12;Piotrecki;Pomoc kardiologiczna;NFZ;420
+648;Dymek;Aleksandra;2011-08-30;Micha³owski;Pomoc okulistyczna;Polisa zdrowotna;310
+743;Dziura;Marcin;2011-09-29;Gronowski;Pomoc kardiologiczna;NFZ;420
+223;Sobañska;Wiktoria;2011-03-23;Kalinowska;Pomoc ambulatoryjna;NFZ;190
+779;Dro¿d¿;Aleksander;2011-10-20;Kalinowska;Pomoc laryngologiczna;Abonament medyczny;230
+97;Sojka;Julia;2011-02-17;Bobrzyñski;Pomoc kardiologiczna;NFZ;420
+513;Ratajczyk;Dawid;2011-07-05;Kosiñska;Pomoc kardiologiczna;NFZ;420
+597;Salamon;Zenon;2011-08-10;Pielecka;Pomoc okulistyczna;NFZ;310
+726;Trela;Marcin;2011-09-25;Gronowski;Intensywna terapia;NFZ;790
+499;Rudnik;Filip;2011-06-30;Maliñski;Pomoc ambulatoryjna;Pol-Plan Ubezpieczenia;190
+59;Adamczewska;Wanda;2011-01-31;Kosiñska;Pomoc okulistyczna;Polisa zdrowotna;310
+358;Tomasik;Igor;2011-05-07;Piotrecki;Pomoc laryngologiczna;NFZ;230
+602;Œmigielska;Justyna;2011-08-11;Kosiñska;Pomoc kardiologiczna;NFZ;420
+459;Wojda;Juliusz;2011-06-14;Bobrzyñski;Pomoc kardiologiczna;Pol-Plan Ubezpieczenia;420
+870;Wrzesiñska;Wiktoria;2011-11-23;Bobrzyñski;Pomoc kardiologiczna;Pol-Plan Ubezpieczenia;420
+376;Dzikowska;Martyna;2011-05-14;Kosiñska;Pomoc okulistyczna;NFZ;310
+145;Wo³oszyn;Dawid;2011-02-28;Bobrzyñski;Pomoc kardiologiczna;Polisa zdrowotna;420
+744;Dutkiewicz;Nikola;2011-09-29;Kosiñska;Pomoc kardiologiczna;NFZ;420
+377;Kopacz;Brygida;2011-05-14;Maliñski;Pomoc kardiologiczna;NFZ;420
+463;Studziñska;Alina;2011-06-15;Kosiñska;Pomoc ambulatoryjna;NFZ;190
+931;Cio³ek;Jolanta;2011-12-31;Pielecka;Pomoc kardiologiczna;NFZ;420
+175;Sêk;Emilia;2011-03-10;Kalinowska;Intensywna terapia;Polisa zdrowotna;790
+802;Magiera;Dorota;2011-11-04;Piotrecki;Pomoc okulistyczna;NFZ;310
+54;Ambroziak;Wiktor;2011-01-27;Bobrzyñski;Pomoc kardiologiczna;Pol-Plan Ubezpieczenia;420
+884;Moskal;Adam;2011-12-03;Bobrzyñski;Pomoc kardiologiczna;NFZ;420
+98;Bobrowski;Wac³awa;2011-02-17;Pielecka;Pomoc kardiologiczna;Pol-Plan Ubezpieczenia;420
+789;Œlêzak;Józefina;2011-10-27;Maliñski;Pomoc laryngologiczna;NFZ;230
+398;Olczyk;Blanka;2011-05-20;Micha³owski;Pomoc okulistyczna;Polisa zdrowotna;310
+75;ŒledŸ;Eugenia;2011-02-07;Piotrecki;Pomoc kardiologiczna;Abonament medyczny;420
+153;Filip;Jan;2011-03-03;Gronowski;Intensywna terapia;NFZ;790
+735;Kawka;Antoni;2011-09-27;Micha³owski;Pomoc ambulatoryjna;Abonament medyczny;190
+254;Bury;Martyna;2011-03-30;Gronowski;Pomoc kardiologiczna;NFZ;420
+552;Dolata;Amelia;2011-07-24;Pielecka;Pomoc laryngologiczna;NFZ;230
+346;Ro¿ek;Micha³;2011-05-01;Gronowski;Pomoc kardiologiczna;NFZ;420
+538;Pe³ka;Ewa;2011-07-16;Maliñski;Pomoc kardiologiczna;NFZ;420
+82;Œwi¹tkowska;Maja;2011-02-09;Maliñski;Pomoc kardiologiczna;NFZ;420
+158;Korczak;Oliwia;2011-03-04;Pielecka;Pomoc okulistyczna;NFZ;310
+649;Jurczyk;El¿bieta;2011-08-30;Micha³owski;Pomoc kardiologiczna;NFZ;420
+738;Litwin;Alfred;2011-09-28;Bobrzyñski;Pomoc okulistyczna;NFZ;310
+660;WoŸnica;Bohdan;2011-09-02;Gronowski;Pomoc laryngologiczna;NFZ;230
+694;Sobota;Edward;2011-09-13;Micha³owski;Pomoc laryngologiczna;NFZ;230
+629;Paprocka;Zofia;2011-08-23;Micha³owski;Pomoc ambulatoryjna;NFZ;190
+235;Roman;Maria;2011-03-26;Pielecka;Pomoc ambulatoryjna;Abonament medyczny;190
+170;Warzecha;Stefan;2011-03-08;Maliñski;Pomoc kardiologiczna;NFZ;420
+205;Szuba;Piotr;2011-03-18;Gronowski;Pomoc ambulatoryjna;NFZ;190
+473;Mielcarek;Kacper;2011-06-16;Pielecka;Pomoc kardiologiczna;Polisa zdrowotna;420
+790;Rogoziñska;Marcelina;2011-10-27;Kosiñska;Pomoc laryngologiczna;NFZ;230
+191;Piêtka;El¿bieta;2011-03-14;Bobrzyñski;Pomoc kardiologiczna;NFZ;420
+427;Kraszewski;Jacek;2011-05-30;Kosiñska;Pomoc okulistyczna;NFZ;310
+518;Makuch;Zofia;2011-07-07;Gronowski;Pomoc okulistyczna;Polisa zdrowotna;310
+322;Kosmala;Roman;2011-04-24;Gronowski;Intensywna terapia;Abonament medyczny;790
+249;Kozik;Maciej;2011-03-29;Micha³owski;Pomoc kardiologiczna;NFZ;420
+352;Rusek;Weronika;2011-05-04;Kalinowska;Pomoc ambulatoryjna;NFZ;190
+889;¯uchowska;Anna;2011-12-05;Bobrzyñski;Pomoc kardiologiczna;NFZ;420
+780;Paszkiewicz;Dominik;2011-10-20;Bobrzyñski;Pomoc laryngologiczna;NFZ;230
+860;Juszczyk;Waldemar;2011-11-20;Piotrecki;Pomoc kardiologiczna;NFZ;420
+868;Jurczak;Magdalena;2011-11-22;Pielecka;Pomoc kardiologiczna;Abonament medyczny;420
+331;Lewiñska;Martyna;2011-04-27;Bobrzyñski;Szycie ran;NFZ;170
+495;Górna;Tomasz;2011-06-29;Pielecka;Pomoc kardiologiczna;Polisa zdrowotna;420
+185;Królak;Jakub;2011-03-13;Bobrzyñski;Nastawianie z³amanej koœci;NFZ;370
+10;Roszkowska;Anna;2011-01-04;Piotrecki;Pomoc ambulatoryjna;NFZ;190
+336;Piwowarski;Rados³awa;2011-04-28;Bobrzyñski;Pomoc kardiologiczna;NFZ;420
+775;Korzeniewska;Gabriela;2011-10-17;Micha³owski;Pomoc kardiologiczna;NFZ;420
+485;Rybka;Alicja;2011-06-25;Kosiñska;Pomoc ambulatoryjna;NFZ;190
+263;Jeziorski;Maksymilian;2011-04-01;Kosiñska;Pomoc ambulatoryjna;NFZ;190
+198;Pogorzelska;Gabriela;2011-03-15;Gronowski;Pomoc okulistyczna;Pol-Plan Ubezpieczenia;310
+583;Szkudlarek;Jaros³aw;2011-08-03;Kosiñska;Pomoc laryngologiczna;NFZ;230
+536;Lipiec;Piotr;2011-07-14;Kalinowska;Pomoc kardiologiczna;NFZ;420
+420;Sidor;Wojciech;2011-05-28;Kosiñska;Pomoc okulistyczna;Polisa zdrowotna;310
+598;Mierzwa;Maciej;2011-08-10;Gronowski;Intensywna terapia;NFZ;790
+132;Ryœ;Zbigniew;2011-02-25;Pielecka;Pomoc kardiologiczna;NFZ;420
+650;Ma³kowska;Bogna;2011-08-30;Kosiñska;Pomoc kardiologiczna;NFZ;420
+516;Czarnota;Mariusz;2011-07-06;Kalinowska;Pomoc kardiologiczna;NFZ;420
+224;Werner;Stanis³aw;2011-03-23;Pielecka;Pomoc laryngologiczna;Abonament medyczny;230
+199;Karcz;Dagmara;2011-03-15;Maliñski;Pomoc okulistyczna;NFZ;310
+814;Kruszyñska;Martyna;2011-11-06;Pielecka;Pomoc ambulatoryjna;Abonament medyczny;190
+854;Grabarczyk;Lena;2011-11-15;Gronowski;Pomoc ambulatoryjna;NFZ;190
+127;Turowski;Maciej;2011-02-24;Kalinowska;Nastawianie z³amanej koœci;Pol-Plan Ubezpieczenia;370
+837;Staszak;Jan;2011-11-11;Gronowski;Pomoc kardiologiczna;NFZ;420
+314;Gut;Stefan;2011-04-21;Gronowski;Pomoc laryngologiczna;NFZ;230
+562;Bogdañski;Rafa³;2011-07-26;Kosiñska;Pomoc kardiologiczna;NFZ;420
+70;Figura;Zofia;2011-02-06;Kosiñska;Pomoc kardiologiczna;NFZ;420
+255;Wyrzykowski;Adam;2011-03-30;Piotrecki;Pomoc laryngologiczna;NFZ;230
+682;Siwiec;Marek;2011-09-11;Kalinowska;Pomoc kardiologiczna;Polisa zdrowotna;420
+28;Rzepecka;Bernardyna;2011-01-10;Maliñski;Pomoc kardiologiczna;NFZ;420
+906;Gola;Damian;2011-12-18;Piotrecki;Pomoc okulistyczna;NFZ;310
+658;Figiel;Emilia;2011-08-31;Bobrzyñski;Pomoc kardiologiczna;NFZ;420
+326;Szot;Monika;2011-04-26;Maliñski;Pomoc kardiologiczna;NFZ;420
+436;Kurzawa;Filip;2011-06-05;Piotrecki;Pomoc kardiologiczna;NFZ;420
+415;Karolak;Jan;2011-05-26;Maliñski;Pomoc kardiologiczna;Polisa zdrowotna;420
+432;Ferenc;Micha³;2011-06-01;Pielecka;Pomoc kardiologiczna;Abonament medyczny;420
+428;Kozakiewicz;Aleksandra;2011-05-30;Bobrzyñski;Pomoc kardiologiczna;NFZ;420
+588;Kwiatek;S³awomir;2011-08-04;Kalinowska;Intensywna terapia;NFZ;790
+14;Biskup;Jaros³awa;2011-01-06;Kalinowska;Pomoc kardiologiczna;Abonament medyczny;420
+115;Piechocka;Patrycja;2011-02-23;Kosiñska;Szycie ran;NFZ;170
+700;Kokot;Oliwia;2011-09-15;Kosiñska;Pomoc laryngologiczna;Pol-Plan Ubezpieczenia;230
+599;Raczkowski;Mateusz;2011-08-10;Kosiñska;Pomoc ambulatoryjna;NFZ;190
+281;Kapuœciñski;Remigiusz;2011-04-08;Gronowski;Pomoc okulistyczna;Pol-Plan Ubezpieczenia;310
+714;Banaszak;Justyna;2011-09-22;Gronowski;Pomoc okulistyczna;NFZ;310
+90;Cichosz;Stefan;2011-02-15;Bobrzyñski;Pomoc kardiologiczna;Abonament medyczny;420
+546;Biliñski;Antoni;2011-07-20;Piotrecki;Pomoc kardiologiczna;NFZ;420
+820;Seku³a;Alina;2011-11-07;Kosiñska;Pomoc okulistyczna;NFZ;310
+141;Doliñska;Aldona;2011-02-27;Maliñski;Pomoc okulistyczna;NFZ;310
+368;Szopa;Regina;2011-05-11;Kosiñska;Pomoc okulistyczna;NFZ;310
+440;Krauze;Wojciech;2011-06-07;Kalinowska;Pomoc laryngologiczna;Pol-Plan Ubezpieczenia;230
+319;Szymanek;Dawid;2011-04-23;Kalinowska;Pomoc kardiologiczna;NFZ;420
+918;Bogacz;Zofia;2011-12-24;Kosiñska;Pomoc laryngologiczna;Polisa zdrowotna;230
+885;Bia³ecki;Antoni;2011-12-03;Micha³owski;Pomoc okulistyczna;Abonament medyczny;310
+464;Antoniak;Cyprian;2011-06-15;Micha³owski;Pomoc kardiologiczna;Polisa zdrowotna;420
+273;Suchecki;Dawid;2011-04-04;Pielecka;Pomoc okulistyczna;NFZ;310
+812;Czuba;Wojciech;2011-11-05;Bobrzyñski;Pomoc kardiologiczna;Abonament medyczny;420
+678;Goliñski;Wojciech;2011-09-09;Bobrzyñski;Pomoc okulistyczna;Abonament medyczny;310
+712;Szymanowska;Ada;2011-09-21;Piotrecki;Pomoc okulistyczna;NFZ;310
+429;Stêpniewski;Miko³aj;2011-05-30;Kalinowska;Pomoc kardiologiczna;NFZ;420
+902;Grodzki;W³adys³aw;2011-12-17;Micha³owski;Pomoc ambulatoryjna;NFZ;190
+651;Jakubczyk;Boles³w;2011-08-30;Bobrzyñski;Pomoc kardiologiczna;NFZ;420
+363;Wojtowicz;Wiktoria;2011-05-09;Pielecka;Pomoc kardiologiczna;NFZ;420
+919;Wach;Jonatan;2011-12-24;Piotrecki;Pomoc kardiologiczna;Polisa zdrowotna;420
+245;Tokarz;Wiktor;2011-03-28;Bobrzyñski;Pomoc kardiologiczna;Polisa zdrowotna;420
+162;Tkacz;Dawid;2011-03-06;Pielecka;Pomoc kardiologiczna;NFZ;420
+670;Lange;Julia;2011-09-07;Micha³owski;Pomoc kardiologiczna;Pol-Plan Ubezpieczenia;420
+99;Kolasiñska;Gabriela;2011-02-17;Maliñski;Pomoc kardiologiczna;NFZ;420
+481;Olszak;Wies³awa;2011-06-22;Kosiñska;Pomoc kardiologiczna;NFZ;420
+781;Filipczak;Dominik;2011-10-20;Micha³owski;Pomoc kardiologiczna;NFZ;420
+875;Bartoszek;Emil;2011-11-28;Bobrzyñski;Intensywna terapia;Polisa zdrowotna;790
+581;Kochañski;Jakub;2011-08-02;Maliñski;Pomoc kardiologiczna;NFZ;420
+48;Perkowska;Oliwia;2011-01-23;Pielecka;Pomoc kardiologiczna;Abonament medyczny;420
+422;Kaliñska;Stefania;2011-05-29;Bobrzyñski;Pomoc okulistyczna;NFZ;310
+399;Czapliñski;Miko³aj;2011-05-20;Micha³owski;Pomoc kardiologiczna;Abonament medyczny;420
+662;Rokicka;Hanna;2011-09-03;Piotrecki;Pomoc kardiologiczna;NFZ;420
+430;KaŸmierski;Dominik;2011-05-30;Pielecka;Pomoc okulistyczna;NFZ;310
+848;Grzybek;Daria;2011-11-13;Micha³owski;Pomoc kardiologiczna;NFZ;420
+133;Brodowski;Bruno;2011-02-25;Maliñski;Pomoc kardiologiczna;Polisa zdrowotna;420
+378;Paradowska;Roksana;2011-05-14;Bobrzyñski;Pomoc kardiologiczna;NFZ;420
+589;Lorenc;Aleksander;2011-08-04;Kalinowska;Pomoc ambulatoryjna;NFZ;190
+42;Reszka;Gabriela;2011-01-21;Pielecka;Intensywna terapia;Abonament medyczny;790
+666;Konarski;Daniel;2011-09-05;Micha³owski;Pomoc kardiologiczna;NFZ;420
+306;Kêpka;Kacper;2011-04-17;Gronowski;Pomoc kardiologiczna;NFZ;420
+528;Romañska;Eugenia;2011-07-11;Piotrecki;Pomoc laryngologiczna;NFZ;230
+66;Kusiak;Tymon;2011-02-05;Gronowski;Pomoc kardiologiczna;NFZ;420
+736;Hoffmann;Miko³aj;2011-09-27;Piotrecki;Pomoc laryngologiczna;NFZ;230
+455;Barszcz;Bartosz;2011-06-13;Bobrzyñski;Pomoc laryngologiczna;NFZ;230
+91;Nadolska;Maja;2011-02-15;Bobrzyñski;Pomoc kardiologiczna;NFZ;420
+379;Piech;Zuzanna;2011-05-14;Kalinowska;Pomoc okulistyczna;NFZ;310
+166;Pucha³a;Eliza;2011-03-07;Bobrzyñski;Nastawianie z³amanej koœci;NFZ;370
+111;Jaroszewska;Lena;2011-02-21;Piotrecki;Pomoc laryngologiczna;Pol-Plan Ubezpieczenia;230
+128;£awniczak;Bo¿ydar;2011-02-24;Pielecka;Pomoc okulistyczna;Abonament medyczny;310
+898;Waszkiewicz;Magdalena;2011-12-14;Piotrecki;Nastawianie z³amanej koœci;NFZ;370
+487;Niezgoda;Martyna;2011-06-26;Pielecka;Pomoc okulistyczna;NFZ;310
+890;Janczak;Zofia;2011-12-05;Micha³owski;Pomoc kardiologiczna;NFZ;420
+794;Iwanowska;Dominika;2011-11-03;Gronowski;Pomoc kardiologiczna;NFZ;420
+83;Polañska;Martyna;2011-02-09;Kalinowska;Pomoc kardiologiczna;Pol-Plan Ubezpieczenia;420
+349;Plichta;Lena;2011-05-02;Micha³owski;Pomoc kardiologiczna;Pol-Plan Ubezpieczenia;420
+720;Potocka;Monika;2011-09-23;Gronowski;Pomoc kardiologiczna;NFZ;420
+310;Bugaj;Piotr;2011-04-18;Bobrzyñski;Intensywna terapia;NFZ;790
+444;Szarek;Micha³;2011-06-08;Kosiñska;Pomoc kardiologiczna;NFZ;420
+269;Lachowicz;Maciej;2011-04-03;Piotrecki;Pomoc laryngologiczna;NFZ;230
+154;Franczak;Wac³awa;2011-03-03;Kalinowska;Intensywna terapia;NFZ;790
+416;Kupiec;Nikola;2011-05-26;Pielecka;Pomoc kardiologiczna;Abonament medyczny;420
+233;Jaskulski;Roksana;2011-03-25;Maliñski;Pomoc laryngologiczna;NFZ;230
+85;Borys;Ryszarda;2011-02-11;Pielecka;Pomoc kardiologiczna;NFZ;420
+181;Gliñski;Mateusz;2011-03-12;Micha³owski;Pomoc ambulatoryjna;NFZ;190
+332;Domagalski;Kacper;2011-04-27;Pielecka;Pomoc kardiologiczna;NFZ;420
+412;Knap;Szymon;2011-05-25;Kosiñska;Pomoc laryngologiczna;NFZ;230
+731;Kazimierczak;Paula;2011-09-26;Kosiñska;Intensywna terapia;Polisa zdrowotna;790
+320;Kruczek;Remigiusz;2011-04-23;Bobrzyñski;Pomoc kardiologiczna;NFZ;420
+633;Oleksy;Witold;2011-08-25;Maliñski;Pomoc kardiologiczna;Abonament medyczny;420
+324;Majkowski;Miko³aj;2011-04-25;Piotrecki;Nastawianie z³amanej koœci;NFZ;370
+542;Zarêbska;Julia;2011-07-19;Piotrecki;Pomoc kardiologiczna;NFZ;420
+129;Olech;Zuzanna;2011-02-24;Bobrzyñski;Pomoc ambulatoryjna;NFZ;190
+300;Solecki;Maksymilian;2011-04-16;Kosiñska;Pomoc ambulatoryjna;Polisa zdrowotna;190
+350;Bojarski;Patryk;2011-05-02;Pielecka;Pomoc okulistyczna;Pol-Plan Ubezpieczenia;310
+831;Szymaniak;Dominik;2011-11-10;Kalinowska;Intensywna terapia;Polisa zdrowotna;790
+38;Kukla;Zenona;2011-01-20;Maliñski;Pomoc laryngologiczna;Pol-Plan Ubezpieczenia;230
+554;Wrzosek;Piotr;2011-07-25;Micha³owski;Pomoc kardiologiczna;NFZ;420
+892;Go³¹bek;Zofia;2011-12-07;Gronowski;Pomoc kardiologiczna;NFZ;420
+176;Ko³odziejczak;Damian;2011-03-10;Pielecka;Pomoc kardiologiczna;NFZ;420
+540;Kempa;Weronika;2011-07-17;Micha³owski;Pomoc okulistyczna;NFZ;310
+475;Æwikliñska;Anna;2011-06-17;Maliñski;Pomoc okulistyczna;Polisa zdrowotna;310
+369;Nalepa;Makary;2011-05-11;Pielecka;Pomoc laryngologiczna;NFZ;230
+575;Frankiewicz;Alicja;2011-07-29;Micha³owski;Pomoc kardiologiczna;NFZ;420
+408;Stachowski;Dominik;2011-05-23;Micha³owski;Pomoc ambulatoryjna;NFZ;190
+509;Piskorz;Mateusz;2011-07-03;Piotrecki;Pomoc kardiologiczna;NFZ;420
+218;Kozera;Hanna;2011-03-22;Kosiñska;Pomoc laryngologiczna;NFZ;230
+769;Osuch;Maciej;2011-10-13;Piotrecki;Pomoc laryngologiczna;NFZ;230
+71;£oœ;W³adys³awa;2011-02-06;Pielecka;Pomoc kardiologiczna;NFZ;420
+911;Dobrzañska;Aleksandra;2011-12-20;Bobrzyñski;Pomoc laryngologiczna;NFZ;230
+844;Szadkowski;Józef;2011-11-12;Piotrecki;Pomoc laryngologiczna;Polisa zdrowotna;230
+449;Wachowiak;Amelia;2011-06-09;Gronowski;Pomoc kardiologiczna;NFZ;420
+803;Æwik;Lena;2011-11-04;Bobrzyñski;Pomoc kardiologiczna;NFZ;420
+829;Dusza;Mateusz;2011-11-09;Piotrecki;Pomoc okulistyczna;NFZ;310
+732;Radziszewski;Marek;2011-09-26;Piotrecki;Pomoc kardiologiczna;NFZ;420
+292;Wdowiak;Makary;2011-04-12;Bobrzyñski;Pomoc ambulatoryjna;Pol-Plan Ubezpieczenia;190
+652;Osowski;Przemys³aw;2011-08-30;Maliñski;Pomoc kardiologiczna;NFZ;420
+745;Jakubiec;Alicja;2011-09-29;Pielecka;Pomoc kardiologiczna;NFZ;420
+225;Brzeski;Czes³aw;2011-03-23;Bobrzyñski;Pomoc okulistyczna;NFZ;310
+782;Szczygielska;Marta;2011-10-20;Gronowski;Pomoc kardiologiczna;NFZ;420
+100;Pasek;Matylda;2011-02-17;Pielecka;Pomoc laryngologiczna;NFZ;230
+514;Œpiewak;Eleonora;2011-07-05;Pielecka;Pomoc okulistyczna;NFZ;310
+600;Dr¹g;Stefania;2011-08-10;Kalinowska;Pomoc okulistyczna;NFZ;310
+727;Bro¿ek;Kacper;2011-09-25;Gronowski;Pomoc okulistyczna;Polisa zdrowotna;310
+500;Wielgus;Miko³aj;2011-06-30;Pielecka;Pomoc kardiologiczna;NFZ;420
+60;Koprowski;Bruno;2011-01-31;Pielecka;Pomoc kardiologiczna;NFZ;420
+359;Bugajski;Patryk;2011-05-07;Micha³owski;Pomoc kardiologiczna;Polisa zdrowotna;420
+603;Okoñ;Aleksy;2011-08-11;Gronowski;Pomoc kardiologiczna;NFZ;420
+460;Królik;Czes³awa;2011-06-14;Gronowski;Pomoc kardiologiczna;NFZ;420
+871;Antkowiak;Mariusz;2011-11-23;Piotrecki;Pomoc laryngologiczna;Abonament medyczny;230
+380;Matczak;Dawid;2011-05-14;Kalinowska;Intensywna terapia;NFZ;790
+146;Balicka;S³awomira;2011-02-28;Pielecka;Pomoc laryngologiczna;Abonament medyczny;230
+746;Galiñski;Jakub;2011-09-29;Kalinowska;Pomoc ambulatoryjna;Polisa zdrowotna;190
+381;Pisarek;Julia;2011-05-14;Gronowski;Intensywna terapia;Polisa zdrowotna;790
+465;Wagner;Marianna;2011-06-15;Bobrzyñski;Pomoc laryngologiczna;NFZ;230
+932;Modrzejewski;Micha³;2011-12-31;Pielecka;Pomoc kardiologiczna;NFZ;420
+177;Kawalec;Józefina;2011-03-10;Kalinowska;Pomoc okulistyczna;NFZ;310
+804;Traczyk;Wiktor;2011-11-04;Bobrzyñski;Pomoc kardiologiczna;Polisa zdrowotna;420
+55;G³adysz;Alfred;2011-01-27;Micha³owski;Pomoc kardiologiczna;NFZ;420
+886;Jaskólski;Zbigniew;2011-12-03;Kosiñska;Szycie ran;Abonament medyczny;170
+101;Wiœniowski;Gustaw;2011-02-17;Pielecka;Pomoc kardiologiczna;NFZ;420

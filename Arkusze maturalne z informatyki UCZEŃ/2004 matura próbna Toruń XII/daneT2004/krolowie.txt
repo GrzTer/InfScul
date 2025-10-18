@@ -1,0 +1,23 @@
+WLADCA; URODZONY; ZMARLY; PANOWAL_OD; PANOWAL_DO; DYNASTIA
+Mieszko I; ; 992; 960; 992; Piastowie
+Boles³aw Chrobry; 966 lub 967; 1025; 992; 1025; Piastowie
+Mieszko II; 990; 1034; 1025; 1034; Piastowie
+Boles³aw II Œmia³y; ok. 1042; ok. 1082; 1058; 1079; Piastowie
+Boles³aw III Krzywousty; 1085; 1138; 1102; 1138; Piastowie
+Kazimierz II Sprawiedliwy; ok. 1138; 1194; 1177; 1194; Piastowie
+W³adys³aw £okietek; ok. 1260; 1333; 1314; 1333; Piastowie
+Kazimierz III Wielki; 1310; 1370; 1333; 1370; Piastowie
+Jadwiga; ok. 1374; 1399; 1384; 1399; Andegawenowie
+W³adys³aw II Jagie³³o; ok. 1351; 1434; 1386; 1434; Jagiellonowie
+W³adys³aw III Warneñczyk; 1424; 1444; 1434; 1444; Jagiellonowie
+Zygmunt I Stary; 1467; 1548; 1506; 1548; Jagiellonowie
+Zygmunt II August; 1520; 1572; 1548; 1572; Jagiellonowie
+Henryk Walezy; 1551; 1589; 1573; 1574; 
+Stefan Batory; 1533; 1586; 1576; 1586; 
+Zygmunt III Waza; 1566; 1632; 1587; 1632; Wazowie
+W³adys³aw IV; 1595; 1648; 1632; 1648; Wazowie
+Jan Kazimierz; 1609; 1672; 1648; 1668; Wazowie
+Micha³ Korybut Wiœniowiecki; 1641; 1673; 1669; 1673; 
+Jan III Sobieski; 1629; 1696; 1674; 1696; 
+August III Sas; 1696; 1763; 1733; 1763; Wettinowie
+Stanis³aw August Poniatowski; 1732; 1798; 1764; 1795; 

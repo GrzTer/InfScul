@@ -1,0 +1,96 @@
+Tytu³ filmu	Rok produkcji	Re¿yser	G³ówna rola	Liczba widzów od premiery	Ocena krytyków	Koszt filmu   (w USD)	ID_kraj	ID_dystrybutora
+Kolacja dla palantów	1998	Francis Veber	Jacques Villered	126300	4	13000000	2	1
+Prymas	1999	Teresa Kotlarczyk	Andrzej Seweryn	200100	3	1000000	4	1
+Czeœæ Tereska	2001	Robert Gliñski	Ola Gietner	156800	5	2000000	4	1
+E=mc2	2002	Olaf Lubaszenko	Cezary Pazura	9800	2	1000000	4	1
+Z mi³oœci do ..	1997	Richard Wenk	Andy Garcia	254100	3	22000000	5	1
+Magnolia	1999	Paul Anderson	Tom Cruise	209500	3	45000000	5	1
+Kawaler	1999	Gary Synyor	Chris O'Donnell	252300	3	33000000	5	1
+Podejrzany	2000	Stephen Hopkins	Gene Hackman	266200	4	12000000	5	1
+Za drzwiami sypialni	2001	Todd Field	Sissy Spacek	8600	3	5000000	5	1
+O czym marza faceci?	2001	Herald Zwert	Liv Tyler	168300	3	26000000	5	1
+3000 mil do Graceland	2001	Demian Lichtenstein	Kevin Costner	58600	3	26000000	5	1
+Skok	2001	David Mamet	Gene Hackman	156700	4	45000000	5	1
+Idioci	1999	Lars von Thiers	Bodil Jorgensen	98600	4	1000000	1	2
+Gusta i guœciki	1999	Agnes Jaoui	Anne Alvaro	189300	5	11000000	2	2
+Amelia	2001	Jean_Pierre Jeunet	Audrey Tautou	236100	5	15000000	2	2
+Osiem kobiet	2002	Francois Ozon	Catherine Denevue	187300	5	23000000	2	2
+Wszystko o mojej matce	1999	Pedro Almodovar	Cecylia Roth	130800	5	22000000	3	2
+Samotne	1999	Benito Zambrano	Maria Galiana	47800	4	9000000	3	2
+15 Minut	2001	John Herzfeld	Robert De Niro	110300	3	39000000	5	2
+Goœcie, goœcie w Ameryce	2001	Jean-Marie Gaubert	Jean Reno	89500	3	26000000	2	3
+Cisza	2001	Micha³ Rosa	Kinga Preis	54100	3	1500000	4	3
+Chopin - pragnienie mi³oœci	2002	Jerzy Antczak	Piotr Adamczyk	456000	3	3000000	4	3
+Bracie, gdzie jesteœ	2000	Joel Coen	George Clooney	387200	4	40000000	5	3
+Blow	2001	Ted Demme	Johnny Deep	68200	3	19000000	5	3
+Inni	2001	Alejandro Amenabar	Nicole Kidman	145100	4	48000000	2	4
+Haker	2001	Janusz Zaorski	Bartosz Obuchowicz	15300	2	600000	4	4
+Stacja	2001	Piotr Weresniak	Bogus³aw Linda	56900	3	1000000	4	4
+Uciekajaca panna m³oda	1999	Garry Marshal	Julia Roberts	246900	3	44000000	5	4
+Informator	1999	Daniel Myrrick	Al. Pacino	185200	4	36000000	5	4
+Po¿egnanie jesieni	2000	Joan Chen	Richard Gere	212300	3	18000000	5	4
+Pytanie do Boga	2001	Jonas McCord	Antonio Barderas	76500	3	19000000	5	4
+Przepowiednia	2002	Mark Pellington	Richard Gere	54300	2	44000000	5	4
+Dziewi¹te wrota	1999	Roman Polañski	Johnny Deep	298100	3	44000000	2	5
+Joanna D'Arc	1999	Luc Besson	Milla Jovovic	247100	4	36000000	2	5
+Belfegor - upiór Luwru	2000	Jean_Paul Salome	Sophie Marceau	36100	3	32000000	2	5
+Braterstwo wilków	2001	Christophe Gans	Monica Belucci	186300	3	22000000	2	5
+Ogniem i mieczem	1999	Jerzy Hoffman	Micha³ ¯ebrowski	4658500	4	9000000	4	5
+Przedwiosnie	2000	Filip Bajon	Mateusz Damiêcki	369600	3	3000000	4	5
+Quo Vadis	2001	Jezrzy Kawalerowicz	Bogus³aw Linda	1780200	3	7000000	4	5
+Titanic	1997	James Cameron	Kate Winslet	3565400	4	138000000	5	5
+Kto zabi³ ciotkê Cookie	1998	Robert Altman	Chris O'Donnell	156300	4	29000000	5	5
+Osaczeni	1999	Jon Ariel	Sean Connery	356200	4	38000000	5	5
+Mamuœka	1999	Cris Columbus	Julia Roberts	126200	3	28000000	5	5
+Szósty zmys³	1999	M. Night Shaymaton	Bruce Willis	365400	5	46000000	5	5
+Podziemny krag	1999	David Fincher	Brad Pitt	239400	3	37000000	5	5
+Erin Brockovich	2000	Steven Soderbergh	Julia Roberts	789600	5	47000000	5	5
+Patriota	2000	Roland Emmerich	Mel Gibson	201300	3	40000000	5	5
+OdnaleŸæ siebie	2000	Gus Van Sant	Sean Connery	168500	3	27000000	5	5
+Si³a i honor	2000	George Tillman	Cuba Gooding Jr.	359800	4	33000000	5	5
+Pearl Harbor	2001	John Schwarzman	Ben Affleck	546900	3	110000000	5	5
+Moulin Rouge	2001	Baz Luhrmann	Nicole Kidman	543200	4	33000000	5	5
+Planeta ma³p	2001	Tim Burton	Mark Wahlberg	165300	3	44000000	5	5
+Kroniki portowe	2001	Lasse Hollstrom	Kevin Spacey	69100	4	33000000	5	5
+Raport mniejszoœci	2002	Steven Spielberg	Tom Cruise	15600	3	18000000	5	5
+Niewierna	2002	Alvin Sargent	Richard Gere	23500	3	26000000	5	5
+Wojna Harta	2002	Gregory Hobit	Bruce Willis	129600	3	48000000	5	5
+Malena	2000	Giuseppe Tornatore	Monica Belucci	212800	4	9000000	7	5
+Killerów 2-óch	1999	Juliusz Machulski	Cezary Pazura	365800	3	2000000	4	6
+Joe Black	1998	Martin Brest	Brad Pitt	78600	4	30000000	5	6
+Ronin	1998	John Frankenheimer	Robert De Niro	298600	4	45000000	5	6
+Zakochany Szekspir	1998	John Madden	Gwyneth Paltrow	169300	4	18000000	5	6
+Notting Hill	1999	Roger Michell	Julia Roberts	546300	3	30000000	5	6
+American Beauty	1999	Sam Mendes	Kevin Spacey	984600	5	48000000	5	6
+JeŸdziec bez g³owy	1999	Tim Burton	Johnny Deep	165200	3	28000000	5	6
+Gra o mi³osæ	1999	Sam Raimi	Kevin Costner	178300	3	28000000	5	6
+Gladiator	2000	Ridley Scott	Russell Crowe	1654300	5	85000000	5	6
+Mission Impossible 2	2000	Jogn Woo	Tom Cruise	468300	3	45000000	5	6
+Lara Croft: Tomb Raider	2001	Simon West	Angelina Jolie	165400	3	55000000	5	6
+Piêkny umys³	2001	Ron Howard	Russell Crowe	1862100	5	45000000	5	6
+Vanilla Sky	2001	Cameron Crowe	Tom Cruise	156300	3	35000000	5	6
+Zawód: szpieg	2001	Tony Scott	Robert Redford	89900	4	44000000	5	6
+Dziennik Bridget Jones	2000	Sharon Maguire	Renee Zellweger	1680700	5	45000000	6	6
+By³ sobie ch³opiec	2002	Paul Weitz	Hugh Grant	22000	3	13000000	6	6
+Fuks	1999	Maciej Dudkiewicz	Maciej Stuhr	1650200	3	1000000	4	7
+Pan Tadeusz	1999	Andrzej Wajda	Micha³ ¯ebrowski	3120500	4	5000000	4	7
+Prawo ojca	1999	Marek Kondat	Marek Konrad	459600	3	2000000	4	7
+Kariera Nikosia Dyzmy	2001	Jacek Bromski	Cezary Pazura	124000	2	1000000	4	7
+Suplement	2002	Krzysztof Zanussi	Pawe³ Okraska	15200	2	2000000	4	7
+Dzieñ œwira	2002	Marek Koterski	Marek Konrad	159800	4	3000000	4	7
+Traffic	2000	Steven Soderbergh	Michael Douglas	690400	4	70000000	5	7
+Powiedz tak	2001	Adam Shankman	Jenifer Lopez	67100	2	18000000	5	7
+Drobne cwaniaczki	2001	Woody Alen	Woody Alen	89500	4	28000000	5	7
+¯ycie jest piêkne	1998	Roberto Benigni	Roberto Benigni	368400	5	12000000	7	7
+Purpurowe rzeki	2001	Mathieu Kassovitz	Jean Reno	89300	3	18000000	2	8
+Operacja Samun	1999	W³adys³aw Pasikowski	Marek Konrad	488200	3	3000000	4	8
+Negocjator	1998	F. Gary Gray	Kevin Spacey	98400	4	35000000	5	8
+List w butelce	1999	Luis Mandoki	Kevin Costner	205600	4	20000000	5	8
+Matrix	1999	Andy i Larry Wachowski	Keanu Reeves	1805200	4	85000000	5	8
+Depresja gangstera	1999	Harold Ramis	Robert De Niro	365100	4	36000000	5	8
+Oczy szeroko zamkniete	1999	Stanley Kubrock	Tom Cruise	389500	4	36000000	5	8
+Z³oto pustyni	2000	David Russel	George Clooney	165300	3	60000000	5	8
+Dowód zycia	2000	Taylor Kackroft	Russell Crowe	398600	4	19000000	5	8
+Podaj dalej	2000	Mimi Leden	Kevin Spacey	462300	4	35000000	5	8
+Miss Agent	2000	Donald Petrie	sandra Bullock	210400	2	33000000	5	8
+W³adca pierœcieni. Druzyna Pierœcienia	2001	Peter Jackson	Elijah Wood	2648900	5	112000000	5	8

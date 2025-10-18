@@ -1,0 +1,8 @@
+ID_kraj	Kraj produkcji
+1	Dania
+2	Francja
+3	Hiszpania
+4	Polska
+5	USA
+6	Wielka Brytania
+7	W³ochy

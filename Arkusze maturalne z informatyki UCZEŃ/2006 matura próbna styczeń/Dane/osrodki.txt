@@ -1,0 +1,23 @@
+kod_ow	nazwa_osrodka	miejscowosc
+O1	OW "Bryza"	Ustka
+O2	OW "CD Europa"	Gdynia
+O22	OW "CD Europa"	Sopot
+O3	OW "Delta"	Krynica Morska
+O4	OW "Fala"	Leba
+O5	OW "Harnas"	Zakopane
+O6	OW "Baltyk"	Kolobrzeg	
+O7	OW "Jabluszko"	Kolobrzeg	
+O8	OW "Klif"	Debki
+O88	OW "Klif"	Jastrzebia Gora
+O888	OW "Klif"	Swinoujscie
+O9	OW "Maja"	Stilo
+w1	OW "Muszelka"	Sopot
+w11	OW "Muszelka"	Wladyslawowo
+w2	OW "Rysy"	Zakopane
+w3	OW "Syrena"	Jastarnia
+w33	OW "Syrena"	Leba
+w4	OW "Sniezka"	Karpacz
+w5	OW "Wydma"	Darlowo
+w55	OW "Wydma"	Swinoujscie
+w555	OW "Wydma"	Sopot
+w6	OW "Mewa"	Kolobrzeg

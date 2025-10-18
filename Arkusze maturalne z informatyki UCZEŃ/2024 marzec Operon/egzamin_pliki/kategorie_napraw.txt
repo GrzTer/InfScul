@@ -1,0 +1,33 @@
+ID_serwisu	Opis_serwisu
+s1	naprawa awarii instalacji pneumatycznej
+s2	naprawa awarii podwozia
+s3	naprawa awarii silnika
+s4	naprawa awarii systemu hydraulicznego
+s5	naprawa awarii systemu klimatyzacji
+s6	naprawa awarii systemu komunikacji
+s7	naprawa awarii systemu napêdowego
+s8	naprawa awarii uk³adu sterowania
+s9	naprawa awarii w systemie nawigacyjnym
+s10	naprawa awaryjnego systemu l¹dowania
+s11	naprawa systemu antykolizyjnego
+s12	naprawa systemu antypoœlizgowego
+s13	naprawa systemu pneumatycznego
+s14	naprawa systemu sterowania lotem
+s15	naprawa uk³adu klimatyzacji
+s16	przegl¹d i wymiana filtrów w systemie wentylacji
+s17	przegl¹d i wymiana kó³ przedniego podwozia
+s18	przegl¹d stanu ogumienia
+s19	przegl¹d techniczny
+s20	wymiana akumulatorów
+s21	wymiana awaryjnej sekcji systemu oœwietlenia
+s22	wymiana czêœci uk³adu ch³odzenia
+s23	wymiana filtrów
+s24	wymiana klap
+s25	wymiana opon na nowe
+s26	wymiana systemu ch³odzenia
+s27	wymiana systemu wentylacyjnego
+s28	wymiana œmigie³
+s29	wymiana uk³adu napêdowego
+s30	wymiana uszkodzonej szyby w kokpicie
+s31	wymiana wadliwych czujników wysokoœciomierza
+s32	wymiana wyœwietlaczy

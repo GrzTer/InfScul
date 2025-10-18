@@ -1,0 +1,26 @@
+Zad 5.1
+KRZYSZTOF	LEWANDOWSKI	wypo¿yczy³ 4 ksi¹¿ki:
+
+tytu³y:
+TEORIA GRAFOW
+JEZYKI PROGRAMOWANIA II
+METODY NUMERYCZNE II
+FLASH I PHP
+
+Zad 5.2
+4,7101 (w excelu)
+
+Zad 5.3
+kobiety		138
+mê¿czyŸni	192
+
+Zad 5.4
+nazwisko	imie
+DYLAG		JACEK
+NAJDA		PIOTR
+PIETRASZEWSKI	STEFAN
+SIECZKOWSKI	MACIEJ
+ZALESKA		JULIA
+
+Zad 5.5
+311 podrêczników

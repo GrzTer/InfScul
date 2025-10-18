@@ -1,0 +1,40 @@
+N-01	Piekarski	Dominik	Niepodleglosci 16	74-100	Gryfino
+N-02	Stojecka	Beata	9 Maja 4	74-101	Gryfino
+N-03	Stolowska	Marlena	Poznanska 2	74-200	Pyrzyce
+N-04	Sztonyk	Piotr	Rejtana 6	74-200	Pyrzyce
+N-05	Tomkow	Wojciech	Slowackiego 1	74-200	Pyrzyce
+N-06	Tuszynski	Rafal	Lipowa 18	74-300	Mysliborz
+N-07	Wawrzynczyk	Aleksandra	Pilsudskiego 18	74-300	Mysliborz
+N-08	Zukowska	Elzbieta	Pionierow 13	74-300	Mysliborz
+N-09	Bialek	Marcin	Jeziorna 12	74-320	Barlinek
+N-10	Boniewski	Tomasz	Kombatantow 3	74-320	Barlinek
+N-11	Ciebiera	Olaf	Lesna 10	74-320	Barlinek
+N-12	Ciupina	Alicja	Jana Pawla II 1	74-400	Debno
+N-13	Gala	Malgorzata	Jozefa Pilsudskiego 10	74-400	Debno
+N-14	Ignaszewska	Anna	Juliusza Slowackiego 21	74-400	Debno
+N-15	Jachimowicz	Renata	Podmurze 4	74-500	Chojna
+N-16	Krzesinski	Damian	B. Krzywoustego 5	75-064	Koszalin
+N-17	Kula	Grzegorz	Komisji Edukacji Narodowej 1	75-070	Koszalin
+N-18	Kwolek	Daniel	Rzemieslnicza 9	75-243	Koszalin
+N-19	Lipinski	Daniel	Franciszkanska 102	75-255	Koszalin
+N-20	Loch	Paulina	Podgorna 45	75-321	Koszalin
+N-21	Lawrynowicz	Sylwia	Podgorna 55	75-335	Koszalin
+N-22	Muniak	Agnieszka	Jednosci 9	75-401	Koszalin
+N-23	Nisiewicz	Marcin	Galczynskiego 17	75-429	Koszalin
+N-24	Orlicki	Marek	Falata 32	75-434	Koszalin
+N-25	Ott	Magda	Jana Pawla II 17	75-452	Koszalin
+N-26	Pawluk	Edyta	St. Staszica	75-452	Koszalin
+N-27	Przysliwska	Malgorzata	Fryderyka Chopina 42	75-567	Koszalin
+N-28	Sikorska	Karolina	Lesna 1	75-582	Koszalin
+N-29	Szczublewska	Anna	Raclawicka 9	75-620	Koszalin
+N-30	Czubacka	Natalia	Chelmonskiego 7	75-631	Koszalin
+N-31	Banas	Lukasz	Jabloniowa 23	75-679	Koszalin
+N-32	Bator	Marek	4-go Marca 36	75-708	Koszalin
+N-33	Jader	Robert	Gnieznienska 15-17	75-728	Koszalin
+N-34	Jermakowicz	Agata	Gnieznienska 3	75-735	Koszalin
+N-35	Kawicka	Inez	Polczynska 71 A	75-816	Koszalin
+N-36	Kaziow	Alicja	8 Marca 16	77-400	Zlotow
+N-37	Kowalewicz	Karol	Bohaterow Westerplatte 9	77-400	Zlotow
+N-38	Kulasz	Radoslaw	Krolowej Jadwigi 54	77-400	Zlotow
+N-39	Luszczyk	Zofia	Moniuszki 18	77-400	Zlotow
+N-40	Lyszkowska	Anna	Wolnosci 1/2	77-400	Zlotow

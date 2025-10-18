@@ -1,0 +1,20 @@
+program program2;
+var
+r:real;
+tmp,wynik:real;
+i:integer;
+p:text;
+begin
+   write('podaj R '); readln(r);
+   tmp:=0;
+   for i:=1 to 10 do
+       begin
+            tmp:=tmp+1/i;
+       end;
+   wynik := 1/r*tmp;
+   wynik:=1/wynik;
+   assign(p,'wynik2.txt');
+   rewrite(p);
+   write(p,wynik:8:2);
+   close(p);
+end.

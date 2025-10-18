@@ -1,0 +1,17 @@
+Zad 4.1 
+wspó³rzêdne punktów na brzegu: 
+256	8
+200	400
+
+liczba punktów wewn¹trz: 7852
+
+Zad 4.2
+dla 1000:3,228
+dla 5000: 3,1656
+dla wszystkich: 3,1416
+
+Zad 4.3
+0,0864 - b³¹d dla e1000
+0,0184 -b³¹d dla e1700
+
+

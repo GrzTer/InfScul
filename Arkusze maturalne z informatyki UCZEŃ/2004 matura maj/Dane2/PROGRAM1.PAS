@@ -1,0 +1,15 @@
+program program1;
+var
+r1,r2,r3:real;
+wynik:real;
+p:text;
+begin
+   write('podaj R1 '); readln(r1);
+   write('podaj R2 '); readln(r2);
+   write('podaj R3 '); readln(r3);
+   wynik := 1/(1/r1+1/(r2+r3));
+   assign(p,'wynik1.txt');
+   rewrite(p);
+   write(p,wynik);
+   close(p);
+end.
