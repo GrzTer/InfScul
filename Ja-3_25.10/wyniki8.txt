@@ -1,0 +1,50 @@
+8.1
+
+15	Anna	Kalafior	Austria
+1	Antoni	Liść	Dolina Loary
+13	Apolonia	Cukinia	Lazurowe Wybrzeże
+4	Eustachy	Dynia	Niemcy Północne
+8	Franciszek	Śliwka	Londyn
+2	Genowefa	Kwiatek	Berlin, Poczdam
+3	Monika	Owoc	Rzym
+18	Sebastian	Łodyga	Katalonia
+
+
+8.2
+Dolina Loary
+1018	Tarsylia	Fubacka
+1777	Saturnina	Fbbacka
+
+Londyn
+1007	Gracja	Subacka
+1761	Antoni	Mmbacki
+
+8.3
+
+1002	Maksymilian	Htbacki
+
+8.4
+
+Austria	31
+Berlin, Poczdam	34
+Dolina Loary	38
+Katalonia	51
+Lazurowe Wybrzeże	34
+Londyn	36
+Niemcy Północne	33
+Rzym	35
+
+8.5
+
+54
+
+8.6
+
+38
+
+8.7
+
+SELECT DISTINCT Uczniowie.Ident, Stypendia.Data_przyznania
+FROM Uczniowie INNER JOIN Stypendia ON Uczniowie.ident = Stypendia.Id_ucznia
+WHERE (((Stypendia.Data_przyznania)>#9/1/2024#));
+
