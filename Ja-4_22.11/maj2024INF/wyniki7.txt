@@ -1,0 +1,13 @@
+Zadanie 7.1
+
+NIP	SumaOfKg
+164-61-25-530	12185
+159-34-45-151	12047
+091-99-74-175	11769
+
+Zadanie 7.2
+
+Odmiana z Największym Przychodem: Reneta
+2422669,40
+
+Calkowity Przychód 389921,00
