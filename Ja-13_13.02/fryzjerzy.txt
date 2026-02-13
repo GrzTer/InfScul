@@ -1,0 +1,205 @@
+7.1
+imie	nazwisko	SumaOfcena
+Marta	Jasczyk		4846
+
+7.2
+id_klienta	nazwisko	imie
+K052	Wiatr	Anna
+K151	Mason	Anna
+K358	Dymek	Anna
+K275	Wroblewska	Barbara
+K045	Sikora	Grzegorz
+K227	Mazur	Hanna
+K164	Szostak	Krzysztof
+K224	Orlik	Krzysztof
+K221	Ozga	Marcin
+K374	Sitko	Marek
+K277	Szymczyk	Mateusz
+K137	Chwiszczuk	Natalia
+K282	Kejza	Natalia
+
+7.3
+1848,6
+
+7.4
+id_fryzjera	imie
+F07	Kamila
+F08	Aneta
+F11	Roksana
+F08	Aneta
+F11	Roksana
+F04	Grzegorz
+F13	Barbara
+F15	Marcin
+F02	Natalia
+F13	Barbara
+F06	Maja
+F13	Barbara
+F13	Barbara
+F11	Roksana
+F10	Bartosz
+F17	Beata
+F11	Roksana
+F08	Aneta
+F15	Marcin
+F10	Bartosz
+F10	Bartosz
+F07	Kamila
+F13	Barbara
+F05	Patrycja
+F13	Barbara
+F11	Roksana
+F10	Bartosz
+F18	Kalina
+F07	Kamila
+F08	Aneta
+F07	Kamila
+F15	Marcin
+F08	Aneta
+F15	Marcin
+F07	Kamila
+F15	Marcin
+F17	Beata
+F16	Mateusz
+F16	Mateusz
+F11	Roksana
+F17	Beata
+F05	Patrycja
+F13	Barbara
+F11	Roksana
+F16	Mateusz
+F16	Mateusz
+F16	Mateusz
+F17	Beata
+F10	Bartosz
+F15	Marcin
+F13	Barbara
+F17	Beata
+F06	Maja
+F11	Roksana
+F13	Barbara
+F06	Maja
+F07	Kamila
+F15	Marcin
+F04	Grzegorz
+F10	Bartosz
+F15	Marcin
+F06	Maja
+F13	Barbara
+F16	Mateusz
+F16	Mateusz
+F11	Roksana
+F13	Barbara
+F17	Beata
+F16	Mateusz
+F16	Mateusz
+F13	Barbara
+F02	Natalia
+F03	Krzysztof
+F15	Marcin
+F04	Grzegorz
+F08	Aneta
+F17	Beata
+F05	Patrycja
+F13	Barbara
+F11	Roksana
+F02	Natalia
+F02	Natalia
+F06	Maja
+F05	Patrycja
+F05	Patrycja
+F06	Maja
+F13	Barbara
+F13	Barbara
+F13	Barbara
+F11	Roksana
+F10	Bartosz
+F05	Patrycja
+F13	Barbara
+F15	Marcin
+F17	Beata
+F03	Krzysztof
+F16	Mateusz
+F15	Marcin
+F04	Grzegorz
+F17	Beata
+F02	Natalia
+F05	Patrycja
+F05	Patrycja
+F04	Grzegorz
+F17	Beata
+F16	Mateusz
+F18	Kalina
+F06	Maja
+F15	Marcin
+F17	Beata
+F15	Marcin
+F13	Barbara
+F16	Mateusz
+F18	Kalina
+F02	Natalia
+F08	Aneta
+F15	Marcin
+F16	Mateusz
+F18	Kalina
+F16	Mateusz
+F11	Roksana
+F16	Mateusz
+F10	Bartosz
+F08	Aneta
+F16	Mateusz
+F11	Roksana
+F13	Barbara
+F06	Maja
+F11	Roksana
+F13	Barbara
+F11	Roksana
+F15	Marcin
+F18	Kalina
+F04	Grzegorz
+F11	Roksana
+F15	Marcin
+F18	Kalina
+F03	Krzysztof
+F11	Roksana
+F07	Kamila
+F15	Marcin
+F03	Krzysztof
+F15	Marcin
+F13	Barbara
+F13	Barbara
+F08	Aneta
+F13	Barbara
+F16	Mateusz
+F11	Roksana
+F11	Roksana
+F17	Beata
+F02	Natalia
+F13	Barbara
+F15	Marcin
+F11	Roksana
+F04	Grzegorz
+F17	Beata
+F02	Natalia
+F06	Maja
+F15	Marcin
+F10	Bartosz
+F05	Patrycja
+F07	Kamila
+F10	Bartosz
+F05	Patrycja
+F16	Mateusz
+F02	Natalia
+F17	Beata
+F13	Barbara
+F05	Patrycja
+F16	Mateusz
+F02	Natalia
+F05	Patrycja
+
+7.5
+SELECT Klienci.id_klienta
+FROM Uslugi INNER JOIN (Klienci INNER JOIN ((Salony INNER JOIN Fryzjerzy ON Salony.id_salonu = Fryzjerzy.id_salonu) INNER JOIN Wizyty ON Fryzjerzy.id_fryzjera = Wizyty.id_fryzjera) ON Klienci.id_klienta = Wizyty.id_klienta) ON Uslugi.id_uslugi = Wizyty.id_uslugi
+GROUP BY Klienci.id_klienta, Salony.nazwa_salonu
+HAVING (((Salony.nazwa_salonu)="Magnolia"));
+
