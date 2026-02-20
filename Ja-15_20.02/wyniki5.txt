@@ -1,0 +1,27 @@
+5.1
+Berlin	13
+Londyn	11
+Paryż	15
+Tokyo	9
+Warszawa	4
+
+5.2
+
+przeglšd techniczny	28022
+wymiana układu napędowego	8063
+przeglšd i wymiana filtrów w systemie wentylacji	7579
+wymiana klap	7367
+
+5.3
+ID_samolotu	Nazwa_samolotu
+3	Airbus Paryż A5
+6	Boeing Londyn B1
+11	Embraer Warszawa E1
+13	Bombardier Londyn B2
+33	Airbus Berlin A3
+34	Bombardier Berlin B2
+43	Embraer Paryż E1
+45	Cessna Tokyo C2
+49	Bombardier Berlin B3
+50	Embraer Paryż E3
+

@@ -1,0 +1,9 @@
+SELECT Samoloty.Nazwa_samolotu, Sum(przeloty.odleglosc) AS SumaOfodleglosc
+FROM przeloty INNER JOIN Samoloty ON przeloty.ID_samolot = Samoloty.ID_samolotu
+GROUP BY Samoloty.Nazwa_samolotu
+ORDER BY Sum(przeloty.odleglosc) DESC;
+
+SELECT Sum(przeloty.liczba_pasazerow) AS SumaOfliczba_pasazerow
+FROM przeloty INNER JOIN Samoloty ON przeloty.ID_samolot = Samoloty.ID_samolotu
+GROUP BY Samoloty.Nazwa_samolotu, Year([data_lotu])
+HAVING (((Samoloty.Nazwa_samolotu) Like "*Paryż*") AND ((Year([data_lotu]))=2023));
