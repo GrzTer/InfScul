@@ -21,7 +21,7 @@
     B = [4, 4, 2, 6, 4, 2]
     if len(A) == len(B):
         print(*znajdz_k_podobna(A, B))"""
-def zadanie1_2() -> None:
+"""def zadanie1_2() -> None:
     def czy_k_podobna(n: int, A: list[int], B: list[int], k: int) -> bool:
         for i in range(k):
             if A[i] != B[n - k + i]:
@@ -45,7 +45,11 @@ def zadanie1_2() -> None:
     B = [5, 7, 9]
     k = 0
     print(f"A={A}\nB={B}\nk={k} -> {czy_k_podobna(len(A), A, B, k)}")
+"""
+def zadanie_2() -> None:
+    ...
 
 if __name__ == "__main__":
     # zadanie1_1()
-    zadanie1_2()
+    # zadanie1_2()
+    zadanie_2()
