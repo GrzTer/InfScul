@@ -1,0 +1,40 @@
+6.1
+pierwsza:
+Nazwisko	Imie	Nr_rej	Dni	Należność
+Aabacka		Nela	WI1150	2	160
+
+ostatnia:
+Nazwisko	Imie	Nr_rej	Dni	Należność
+Zgbacka		Aaricia	WI1126	11	880
+
+6.2
+Klasa	PoliczOfIdentyfikator
+B	100
+C	48
+D	53
+
+6.3
+Imie	Nazwisko	PoliczOfIdentyfikator
+Ramzes	Hcbacki	5
+
+6.4
+PoliczOfNr_ew	Klasa	Miejscowosc
+12	B	Aniolkowo
+31	B	Manipulatowo
+17	B	Nieszczerzyn
+16	B	Piarowa
+25	B	Wielka Wola
+8	C	Aniolkowo
+14	C	Manipulatowo
+9	C	Nieszczerzyn
+18	C	Piarowa
+11	C	Wielka Wola
+7	D	Aniolkowo
+11	D	Manipulatowo
+4	D	Nieszczerzyn
+8	D	Piarowa
+7	D	Wielka Wola
+
+6.5
+PoliczOfNr_klienta
+72
