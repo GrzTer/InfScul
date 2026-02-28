@@ -1,0 +1,3922 @@
+id_gracza	imie	nazwisko	wiek	kategorie wiekowe		id_gry	id_gracza	stan	ocena			0	junior		grupa
+1	Jozef	Gorecki	29	senior		66	1	posiada	8			20	senior		junior
+2	Przemyslaw	Mazurek	68	weteran		72	1	chce kupic	3			50	weteran		
+3	Cezary	Kaczmarczyk	41	senior		79	1	sprzedal	8						
+4	Kornel	Wysocki	72	weteran		43	2	posiada	9						
+5	Eustachy	Gorecki	74	weteran		45	2	chce kupic	7						
+6	Gniewomir	Krupa	56	weteran		59	2	sprzedal	9						
+7	Bartlomiej	Mroz	54	weteran		77	2	posiada	6						
+8	Joachim	Kowalczyk	67	weteran		78	2	posiada	3						
+9	Jakub	Glowacki	20	senior		109	2	posiada	8						
+10	Arkadiusz	Nowak	61	weteran		107	4	posiada	7						
+11	Klaudiusz	Mroz	38	senior		131	4	posiada	6						
+12	Mariusz	Lis	67	weteran		35	5	posiada	5						
+13	Amadeusz	Czerwinski	26	senior		48	5	posiada	7						
+14	Dobromil	Wlodarczyk	43	senior		54	5	posiada	8						
+15	Leonardo	Piotrowski	25	senior		56	5	posiada	7						
+16	Milan	Maciejewski	20	senior		65	5	posiada	7						
+17	Przemyslaw	Krupa	26	senior		73	5	posiada	5						
+18	Pawel	Pietrzak	45	senior		106	5	posiada	7						
+19	Natan	Lewandowski	49	senior		126	5	sprzedal	8						
+20	Kuba	Jaworski	58	weteran		3	6	sprzedal	7						
+21	Natan	Sadowski	22	senior		13	6	sprzedal	7						
+22	Alex	Jakubowski	79	weteran		17	6	sprzedal	5						
+23	Leonardo	Jasinski	22	senior		28	6	sprzedal	7						
+24	Hubert	Michalak	76	weteran		43	6	sprzedal	7						
+25	Denis	Lis	61	weteran		53	6	sprzedal	9						
+26	Radoslaw	Zalewski	59	weteran		84	6	sprzedal	9						
+27	Ksawery	Urbanski	22	senior		100	6	chce kupic	2						
+28	Norbert	Krawczyk	44	senior		102	6	chce kupic	6						
+29	Dawid	Mroz	71	weteran		54	7	chce kupic	10						
+30	Krzysztof	Pawlak	25	senior		68	7	chce kupic	10						
+31	Korneliusz	Szczepanski	82	weteran		75	7	posiada	7						
+32	Eugeniusz	Adamski	83	weteran		84	7	chce kupic	9						
+33	Milan	Piotrowski	88	weteran		102	7	sprzedal	5						
+34	Kryspin	Dabrowski	85	weteran		45	8	posiada	4						
+35	Miron	Ziolkowski	58	weteran		84	8	chce kupic	2						
+36	Grzegorz	Mazur	78	weteran		108	8	sprzedal	9						
+37	Maciej	Pawlak	68	weteran		1	9	posiada	3						
+38	Mikolaj	Czerwinski	91	weteran		39	9	sprzedal	5						
+39	Arkadiusz	Kowalski	90	weteran		55	9	sprzedal	9						
+40	Lucjan	Kazmierczak	81	weteran		75	9	chce kupic	8						
+41	Norbert	Walczak	33	senior		76	9	chce kupic	4						
+42	Eugeniusz	Sokolowski	88	weteran		78	9	chce kupic	3						
+43	Alexander	Gorski	75	weteran		12	10	chce kupic	10						
+44	Konrad	Wroblewski	21	senior		23	10	posiada	10						
+45	Maurycy	Sikorski	34	senior		94	10	chce kupic	3						
+46	Dobromil	Sadowski	18	Junior		1	11	sprzedal	9						
+47	Konrad	Borkowski	50	weteran		32	11	posiada	5						
+48	Kacper	Wisniewski	58	weteran		67	11	chce kupic	6						
+49	Marian	Kolodziej	61	weteran		73	11	sprzedal	6						
+50	Adam	Chmielewski	56	weteran		76	11	posiada	6						
+51	Oktawian	Kaminski	85	weteran		7	12	posiada	1						
+52	Michal	Sawicki	54	weteran		82	12	posiada	5						
+53	Arkadiusz	Mroz	49	senior		47	13	posiada	4						
+54	Maksymilian	Maciejewski	40	senior		49	13	chce kupic	6						
+55	Oskar	Michalak	86	weteran		85	13	sprzedal	7						
+56	Albert	Wysocki	81	weteran		38	14	posiada	9						
+57	Olaf	Kubiak	51	weteran		62	14	chce kupic	5						
+58	Amadeusz	Nowak	14	Junior		70	14	sprzedal	6						
+59	Allan	Szymczak	78	weteran		72	14	posiada	10						
+60	Kryspin	Kowalczyk	42	senior		74	14	posiada	10						
+61	Julian	Kaczmarczyk	68	weteran		85	14	posiada	10						
+62	Pawel	Zalewski	74	weteran		93	14	posiada	7						
+63	Robert	Lewandowski	88	weteran		123	14	posiada	7						
+64	Janusz	Makowski	15	Junior		45	15	posiada	10						
+65	Bartlomiej	Wisniewski	57	weteran		92	15	posiada	7						
+66	Fryderyk	Brzezinski	91	weteran		96	15	posiada	9						
+67	Marian	Glowacki	46	senior		104	15	posiada	8						
+68	Oktawian	Krupa	90	weteran		120	15	posiada	10						
+69	Milan	Kowalczyk	49	senior		50	16	posiada	9						
+70	Juliusz	Cieslak	31	senior		85	16	posiada	6						
+71	Heronim	Mazur	31	senior		130	16	posiada	7						
+72	Korneliusz	Mazur	68	weteran		36	17	sprzedal	6						
+73	Bronislaw	Dabrowski	88	weteran		53	17	sprzedal	7						
+74	Gracjan	Adamski	22	senior		117	17	sprzedal	8						
+75	Rafal	Mazurek	77	weteran		120	17	sprzedal	10						
+76	Eustachy	Tomaszewski	62	weteran		2	18	sprzedal	6						
+77	Gracjan	Blaszczyk	50	weteran		22	18	sprzedal	9						
+78	Krystian	Przybylski	48	senior		2	19	sprzedal	10						
+79	Alan	Baran	61	weteran		19	19	sprzedal	6						
+80	Gustaw	Kaminski	79	weteran		70	19	chce kupic	10						
+81	Mikolaj	Makowski	62	weteran		80	19	chce kupic	8						
+82	Mateusz	Jasinski	62	weteran		130	19	chce kupic	8						
+83	Arkadiusz	Ostrowski	30	senior		10	20	chce kupic	9						
+84	Oktawian	Sobczak	62	weteran		49	20	posiada	7						
+85	Aleks	Michalak	85	weteran		74	20	chce kupic	8						
+86	Juliusz	Wozniak	39	senior		95	20	sprzedal	10						
+87	Kordian	Sokolowski	51	weteran		96	20	posiada	10						
+88	Roman	Szewczyk	78	weteran		92	21	chce kupic	10						
+89	Piotr	Kozlowski	90	weteran		105	21	sprzedal	6						
+90	Kewin	Michalak	83	weteran		18	22	posiada	7						
+91	Marian	Tomaszewski	39	senior		31	22	sprzedal	6						
+92	Aleks	Kozlowski	44	senior		35	22	sprzedal	6						
+93	Cyprian	Ostrowski	79	weteran		99	22	chce kupic	7						
+94	Kacper	Kaczmarczyk	90	weteran		118	22	chce kupic	6						
+95	Amadeusz	Wojcik	20	senior		34	23	chce kupic	9						
+96	Przemyslaw	Czerwinski	38	senior		35	23	chce kupic	10						
+97	Kamil	Baranowski	42	senior		62	23	posiada	7						
+98	Mieszko	Gajewski	24	senior		69	23	chce kupic	6						
+99	Jedrzej	Szymczak	19	Junior		99	23	sprzedal	8						
+100	Igor	Kolodziej	78	weteran		2	24	posiada	7						
+101	Norbert	Zielinski	88	weteran		93	24	chce kupic	10						
+102	Hubert	Ostrowski	58	weteran		97	24	sprzedal	6						
+103	Maksymilian	Stepien	32	senior		29	25	posiada	9						
+104	Mieszko	Nowak	89	weteran		32	25	posiada	10						
+105	Florian	Jasinski	47	senior		78	25	posiada	6						
+106	Borys	Lewandowski	22	senior		102	25	posiada	6						
+107	Alfred	Malinowski	14	Junior		107	25	chce kupic	6						
+108	Gracjan	Sikorski	49	senior		26	26	sprzedal	9						
+109	Ignacy	Kucharski	47	senior		84	26	posiada	10						
+110	Kamil	Zalewski	36	senior		96	26	chce kupic	6						
+111	Ksawery	Walczak	93	weteran		97	26	posiada	10						
+112	Amir	Jaworski	45	senior		30	27	posiada	9						
+113	Aleksander	Urbanski	93	weteran		35	27	posiada	10						
+114	Eugeniusz	Jaworski	29	senior		42	27	posiada	6						
+115	Denis	Nowak	76	weteran		95	27	posiada	10						
+116	Jedrzej	Nowak	29	senior		108	27	posiada	9						
+117	Piotr	Sobczak	63	weteran		128	27	posiada	6						
+118	Gustaw	Adamski	80	weteran		58	28	posiada	8						
+119	Dorian	Glowacki	85	weteran		83	28	posiada	9						
+120	Alex	Zielinski	44	senior		116	28	posiada	7						
+121	Mikolaj	Szymczak	61	weteran		2	29	posiada	9						
+122	Janusz	Marciniak	21	senior		7	29	posiada	8						
+123	Emanuel	Kalinowski	51	weteran		20	29	posiada	9						
+124	Bogumil	Kubiak	42	senior		61	29	sprzedal	8						
+125	Kazimierz	Kozlowski	19	Junior		103	29	sprzedal	9						
+126	Konstanty	Glowacki	29	senior		121	29	sprzedal	10						
+127	Emil	Sadowski	27	senior		22	30	posiada	10						
+128	Emil	Zielinski	22	senior		88	30	posiada	8						
+129	Ignacy	Szczepanski	26	senior		96	30	posiada	9						
+130	Jaroslaw	Jankowski	79	weteran		102	30	posiada	8						
+131	Konstanty	Sawicki	74	weteran		114	30	sprzedal	8						
+132	Bartlomiej	Wojciechowski	36	senior		53	31	chce kupic	7						
+133	Oktawian	Marciniak	82	weteran		58	31	chce kupic	8						
+134	Franciszek	Zielinski	68	weteran		68	31	chce kupic	9						
+135	Ernest	Zakrzewski	53	weteran		70	31	chce kupic	7						
+136	Hubert	Wlodarczyk	51	weteran		45	32	posiada	9						
+137	Damian	Michalak	71	weteran		128	32	chce kupic	6						
+138	Anatol	Blaszczyk	40	senior		13	33	sprzedal	7						
+139	Karol	Szymczak	22	senior		25	33	posiada	9						
+140	Alan	Andrzejewski	81	weteran		32	33	chce kupic	10						
+141	Klaudiusz	Sokolowski	36	senior		33	33	sprzedal	6						
+142	Dorian	Wozniak	81	weteran		38	33	posiada	6						
+143	Gniewomir	Kowalski	35	senior		76	33	sprzedal	6						
+144	Amir	Lis	80	weteran		90	33	sprzedal	7						
+145	Boleslaw	Sikorski	40	senior		2	34	chce kupic	9						
+146	Kryspin	Tomaszewski	51	weteran		20	34	chce kupic	6						
+147	Diego	Michalak	47	senior		60	35	chce kupic	10						
+148	Dawid	Wysocki	14	Junior		45	36	chce kupic	8						
+149	Marek	Kalinowski	18	Junior		84	36	posiada	7						
+150	Damian	Sikorski	59	weteran		92	37	chce kupic	7						
+151	Emanuel	Lewandowski	76	weteran		24	38	sprzedal	9						
+152	Joachim	Marciniak	92	weteran		40	38	posiada	8						
+153	Anatol	Szymanski	68	weteran		4	39	chce kupic	6						
+154	Aleks	Kaminski	15	Junior		26	39	sprzedal	9						
+155	Eugeniusz	Sikora	36	senior		40	39	posiada	10						
+156	Miron	Kaminski	16	Junior		42	39	posiada	9						
+157	Lukasz	Szymanski	63	weteran		66	39	posiada	8						
+158	Olgierd	Kaminski	24	senior		79	39	posiada	7						
+159	Jozef	Dabrowski	90	weteran		49	40	chce kupic	6						
+160	Igor	Mroz	60	weteran		84	40	sprzedal	8						
+161	Martin	Zawadzki	48	senior		28	41	posiada	7						
+162	Alek	Duda	59	weteran		49	41	chce kupic	7						
+163	Daniel	Makowski	33	senior		55	41	sprzedal	9						
+164	Dominik	Kazmierczak	52	weteran		77	41	posiada	10						
+165	Ernest	Blaszczyk	49	senior		94	41	posiada	9						
+166	Fabian	Kaminski	51	weteran		33	42	posiada	7						
+167	Ksawery	Jankowski	87	weteran		74	42	posiada	9						
+168	Karol	Wojciechowski	74	weteran		43	43	posiada	7						
+169	Gracjan	Wroblewski	92	weteran		46	43	posiada	7						
+170	Bronislaw	Cieslak	68	weteran		48	43	posiada	9						
+171	Natan	Kwiatkowski	14	Junior		22	44	posiada	9						
+172	Julian	Wojciechowski	74	weteran		53	45	posiada	10						
+173	Roman	Andrzejewski	23	senior		42	46	posiada	7						
+174	Emanuel	Sadowski	59	weteran		100	46	posiada	9						
+175	Edward	Ziolkowski	48	senior		26	47	posiada	6						
+176	Oskar	Krajewski	82	weteran		34	47	posiada	7						
+177	Ernest	Andrzejewski	42	senior		71	47	sprzedal	8						
+178	Dobromil	Cieslak	87	weteran		74	47	sprzedal	9						
+179	Klaudiusz	Wisniewski	66	weteran		12	48	sprzedal	7						
+180	Marek	Zakrzewski	42	senior		29	48	sprzedal	9						
+181	Karol	Blaszczyk	69	weteran		60	48	sprzedal	10						
+182	Arkadiusz	Brzezinski	25	senior		83	48	sprzedal	7						
+183	Allan	Wasilewski	51	weteran		107	48	sprzedal	10						
+184	Juliusz	Sadowski	37	senior		119	48	sprzedal	7						
+185	Ksawery	Baranowski	69	weteran		126	48	chce kupic	8						
+186	Fabian	Wozniak	87	weteran		73	49	chce kupic	8						
+187	Alex	Szulc	39	senior		88	49	chce kupic	9						
+188	Maciej	Kwiatkowski	55	weteran		121	49	chce kupic	6						
+189	Alex	Maciejewski	53	weteran		26	50	posiada	10						
+190	Gabriel	Sadowski	85	weteran		30	50	chce kupic	7						
+191	Alex	Laskowski	42	senior		60	50	sprzedal	10						
+192	Bruno	Krajewski	84	weteran		91	50	posiada	8						
+193	Fryderyk	Michalak	22	senior		18	51	chce kupic	9						
+194	Bogumil	Pawlak	49	senior		63	51	sprzedal	6						
+195	Dariusz	Mroz	56	weteran		93	51	posiada	6						
+196	Jozef	Kaminski	38	senior		100	51	sprzedal	8						
+197	Antoni	Krawczyk	19	Junior		97	52	sprzedal	10						
+198	Bruno	Czarnecki	70	weteran		53	53	chce kupic	8						
+199	Ireneusz	Borkowski	52	weteran		69	53	chce kupic	6						
+200	Mateusz	Lewandowski	56	weteran		74	53	chce kupic	9						
+201	Andrzej	Jankowski	71	weteran		100	53	chce kupic	10						
+202	Ernest	Czarnecki	87	weteran		112	53	posiada	9						
+203	Kamil	Ostrowski	76	weteran		32	54	chce kupic	8						
+204	Jozef	Cieslak	50	weteran		44	54	sprzedal	8						
+205	Edward	Zakrzewski	57	weteran		97	54	posiada	7						
+206	Konrad	Wisniewski	32	senior		36	55	chce kupic	7						
+207	Bruno	Urbanski	59	weteran		55	55	sprzedal	9						
+208	Emil	Mazur	62	weteran		60	55	posiada	6						
+209	Amadeusz	Walczak	48	senior		71	55	posiada	10						
+210	Bartlomiej	Kozlowski	77	weteran		104	55	posiada	10						
+211	Damian	Makowski	59	weteran		21	56	posiada	6						
+212	Jerzy	Kaminski	37	senior		114	56	chce kupic	10						
+213	Bronislaw	Wlodarczyk	48	senior		130	56	sprzedal	10						
+214	Allan	Sikorski	86	weteran		98	57	posiada	6						
+215	Kazimierz	Mazurek	66	weteran		100	57	chce kupic	9						
+216	Maksymilian	Ostrowski	72	weteran		113	57	sprzedal	8						
+217	Michal	Malinowski	28	senior		10	58	posiada	6						
+218	Andrzej	Witkowski	77	weteran		24	58	posiada	10						
+219	Cezary	Kalinowski	67	weteran		32	58	posiada	10						
+220	Jakub	Glowacki	23	senior		35	58	posiada	6						
+221	Denis	Cieslak	67	weteran		40	58	posiada	8						
+222	Eugeniusz	Kwiatkowski	58	weteran		48	58	posiada	8						
+223	Radoslaw	Wozniak	21	senior		101	58	posiada	10						
+224	Patryk	Stepien	91	weteran		24	59	posiada	8						
+225	Fabian	Cieslak	47	senior		44	59	posiada	9						
+226	Amir	Chmielewski	70	weteran		103	59	posiada	7						
+227	Eryk	Witkowski	40	senior		22	60	posiada	8						
+228	Aureliusz	Kubiak	60	weteran		81	60	posiada	9						
+229	Juliusz	Glowacki	15	Junior		56	61	posiada	7						
+230	Leszek	Wasilewski	67	weteran		66	61	sprzedal	8						
+231	Kacper	Sokolowski	55	weteran		38	62	sprzedal	8						
+232	Norbert	Zawadzki	39	senior		76	62	sprzedal	7						
+233	Jaroslaw	Stepien	44	senior		84	62	sprzedal	10						
+234	Hubert	Dabrowski	72	weteran		71	63	sprzedal	10						
+235	Anatol	Chmielewski	16	Junior		117	63	sprzedal	6						
+236	Natan	Mroz	21	senior		1	64	sprzedal	9						
+237	Alojzy	Wisniewski	81	weteran		22	64	sprzedal	7						
+238	Emanuel	Jasinski	90	weteran		70	64	chce kupic	9						
+239	Daniel	Stepien	70	weteran		107	64	chce kupic	10						
+240	Filip	Zawadzki	65	weteran		42	65	chce kupic	9						
+241	Dorian	Mazurek	82	weteran		30	66	chce kupic	8						
+242	Dorian	Kowalczyk	24	senior		109	66	posiada	6						
+243	Allan	Mroz	30	senior		79	67	chce kupic	7						
+244	Hubert	Duda	34	senior		97	67	sprzedal	9						
+245	Kamil	Zawadzki	73	weteran		113	67	posiada	7						
+246	Eugeniusz	Sikorski	19	Junior		115	67	chce kupic	6						
+247	Rafal	Tomaszewski	46	senior		29	68	sprzedal	9						
+248	Franciszek	Cieslak	82	weteran		61	68	posiada	7						
+249	Dariusz	Blaszczyk	35	senior		65	68	sprzedal	8						
+250	Eugeniusz	Kalinowski	91	weteran		82	68	sprzedal	7						
+251	Kuba	Sawicki	29	senior		85	68	chce kupic	7						
+252	Amadeusz	Ziolkowski	30	senior		125	68	chce kupic	10						
+253	Patryk	Brzezinski	18	Junior		98	69	chce kupic	6						
+254	Julian	Jasinski	18	Junior		126	69	chce kupic	8						
+255	Boleslaw	Baranowski	90	weteran		38	70	posiada	10						
+256	Eustachy	Szewczyk	65	weteran		18	71	chce kupic	7						
+257	Adrian	Kwiatkowski	57	weteran		69	71	sprzedal	9						
+258	Ernest	Kwiatkowski	44	senior		97	71	posiada	7						
+259	Dorian	Zalewski	50	weteran		117	71	chce kupic	9						
+260	Edward	Tomaszewski	48	senior		119	71	sprzedal	7						
+261	Gniewomir	Jankowski	90	weteran		120	71	posiada	7						
+262	Dobromil	Glowacki	90	weteran		6	72	posiada	9						
+263	Milosz	Kazmierczak	90	weteran		57	72	posiada	6						
+264	Radoslaw	Jaworski	32	senior		68	72	posiada	9						
+265	Maurycy	Gorecki	50	weteran		82	72	chce kupic	9						
+266	Aleks	Nowak	67	weteran		121	73	sprzedal	10						
+267	Ludwik	Wisniewski	69	weteran		3	75	posiada	7						
+268	Alek	Maciejewski	26	senior		4	75	chce kupic	10						
+269	Maksymilian	Chmielewski	45	senior		7	75	sprzedal	10						
+270	Julian	Pietrzak	79	weteran		55	75	posiada	9						
+271	Borys	Ziolkowski	86	weteran		70	75	posiada	9						
+272	Maurycy	Szymczak	38	senior		116	75	posiada	9						
+273	Mieszko	Makowski	28	senior		59	76	posiada	6						
+274	Przemyslaw	Przybylski	49	senior		81	76	posiada	10						
+275	Patryk	Urbanski	58	weteran		94	76	posiada	8						
+276	Emanuel	Kozlowski	58	weteran		98	76	posiada	8						
+277	Gabriel	Kwiatkowski	90	weteran		4	77	posiada	8						
+278	Patryk	Wisniewski	47	senior		39	77	posiada	7						
+279	Kordian	Borkowski	21	senior		76	77	posiada	6						
+280	Remigiusz	Maciejewski	24	senior		121	77	posiada	7						
+281	Michal	Witkowski	82	weteran		124	77	posiada	10						
+282	Korneliusz	Urbanski	20	senior		15	78	posiada	7						
+283	Ignacy	Zawadzki	62	weteran		49	78	sprzedal	7						
+284	Cyprian	Krajewski	27	senior		23	79	sprzedal	9						
+285	Maksymilian	Szulc	22	senior		51	79	sprzedal	7						
+286	Krystian	Zielinski	21	senior		97	79	sprzedal	9						
+287	Diego	Szewczyk	21	senior		24	80	sprzedal	10						
+288	Denis	Mroz	69	weteran		48	80	sprzedal	7						
+289	Milan	Kozlowski	59	weteran		92	80	sprzedal	6						
+290	Mateusz	Jankowski	83	weteran		43	81	sprzedal	10						
+291	Ryszard	Zakrzewski	27	senior		44	81	chce kupic	8						
+292	Maciej	Kazmierczak	39	senior		65	81	chce kupic	10						
+293	Andrzej	Szewczyk	87	weteran		80	81	chce kupic	6						
+294	Dobromil	Czerwinski	58	weteran		131	81	chce kupic	6						
+295	Hubert	Zielinski	32	senior		16	82	posiada	9						
+296	Mateusz	Kucharski	85	weteran		31	82	chce kupic	8						
+297	Lucjan	Baranowski	78	weteran		43	82	sprzedal	7						
+298	Kornel	Sikora	88	weteran		76	82	posiada	10						
+299	Oskar	Jankowski	38	senior		14	83	chce kupic	8						
+300	Hubert	Blaszczyk	69	weteran		17	83	sprzedal	10						
+301	Lucjan	Szymczak	19	Junior		31	83	posiada	7						
+302	Ryszard	Malinowski	45	senior		45	83	sprzedal	6						
+303	Maurycy	Krawczyk	22	senior		46	83	sprzedal	9						
+304	Klaudiusz	Wlodarczyk	30	senior		57	83	chce kupic	7						
+305	Patryk	Piotrowski	51	weteran		84	83	chce kupic	9						
+306	Maciej	Wojciechowski	69	weteran		99	83	chce kupic	8						
+307	Adrian	Wasilewski	43	senior		83	84	chce kupic	8						
+308	Korneliusz	Sadowski	83	weteran		8	85	posiada	6						
+309	Anatol	Szulc	24	senior		26	85	chce kupic	8						
+310	Maurycy	Nowak	81	weteran		40	85	sprzedal	9						
+311	Jedrzej	Baranowski	34	senior		41	85	posiada	10						
+312	Maurycy	Wasilewski	71	weteran		62	85	chce kupic	6						
+313	Emil	Szymczak	23	senior		63	85	sprzedal	8						
+314	Marian	Szulc	30	senior		84	85	posiada	9						
+315	Marcin	Zawadzki	83	weteran		106	85	posiada	10						
+316	Edward	Stepien	23	senior		129	85	posiada	8						
+317	Denis	Rutkowski	81	weteran		17	86	posiada	7						
+318	Alan	Kalinowski	65	weteran		51	86	chce kupic	8						
+319	Maciej	Kaminski	85	weteran		59	86	sprzedal	6						
+320	Alojzy	Szewczyk	40	senior		93	86	posiada	7						
+321	Jan	Kowalczyk	78	weteran		125	86	chce kupic	8						
+322	Przemyslaw	Witkowski	71	weteran		28	88	sprzedal	9						
+323	Aleksander	Sawicki	24	senior		93	88	posiada	8						
+324	Kacper	Makowski	31	senior		1	89	posiada	10						
+325	Marek	Glowacki	48	senior		15	89	posiada	7						
+326	Amir	Laskowski	92	weteran		63	89	posiada	6						
+327	Aureliusz	Kubiak	23	senior		82	89	posiada	10						
+328	Dobromil	Zielinski	51	weteran		12	90	posiada	10						
+329	Alfred	Krawczyk	88	weteran		18	90	posiada	8						
+330	Blazej	Lis	47	senior		27	90	posiada	7						
+331	Alex	Kazmierczak	79	weteran		108	90	posiada	7						
+332	Kordian	Andrzejewski	56	weteran		22	91	posiada	9						
+333	Norbert	Kucharski	76	weteran		56	91	posiada	7						
+334	Allan	Wojcik	14	Junior		3	92	posiada	9						
+335	Maurycy	Kalinowski	17	Junior		49	92	posiada	7						
+336	Bruno	Tomaszewski	66	weteran		90	92	sprzedal	7						
+337	Aleks	Urbanski	73	weteran		3	93	sprzedal	7						
+338	Bartlomiej	Kucharski	52	weteran		18	93	sprzedal	7						
+339	Bartosz	Baran	86	weteran		95	93	sprzedal	6						
+340	Natan	Przybylski	32	senior		111	93	sprzedal	7						
+341	Bruno	Rutkowski	54	weteran		12	94	sprzedal	6						
+342	Artur	Kowalski	85	weteran		25	94	sprzedal	7						
+343	Anatol	Cieslak	80	weteran		32	94	sprzedal	8						
+344	Marcin	Cieslak	71	weteran		90	94	chce kupic	6						
+345	Amadeusz	Sikora	36	senior		26	95	chce kupic	7						
+346	Antoni	Jankowski	77	weteran		32	95	chce kupic	10						
+347	Norbert	Pietrzak	75	weteran		41	95	chce kupic	9						
+348	Jozef	Mroz	34	senior		61	95	posiada	7						
+349	Jerzy	Kazmierczak	16	Junior		75	95	chce kupic	8						
+350	Klaudiusz	Marciniak	67	weteran		116	95	sprzedal	8						
+351	Jakub	Krawczyk	68	weteran		124	95	posiada	10						
+352	Dawid	Mazur	52	weteran		44	96	chce kupic	9						
+353	Natan	Czerwinski	27	senior		98	96	sprzedal	9						
+354	Bruno	Bak	62	weteran		75	97	posiada	6						
+355	Kornel	Szewczyk	44	senior		76	97	sprzedal	10						
+356	Jozef	Sikorski	71	weteran		4	98	sprzedal	8						
+357	Eryk	Sikora	22	senior		17	98	chce kupic	7						
+358	Grzegorz	Szewczyk	86	weteran		68	98	chce kupic	6						
+359	Marian	Andrzejewski	18	Junior		87	98	chce kupic	10						
+360	Borys	Maciejewski	36	senior		110	98	chce kupic	8						
+361	Arkadiusz	Krajewski	48	senior		8	99	posiada	7						
+362	Cyprian	Wozniak	14	Junior		53	99	chce kupic	10						
+363	Cyprian	Brzezinski	51	weteran		54	99	sprzedal	6						
+364	Franciszek	Glowacki	76	weteran		13	100	posiada	10						
+365	Anastazy	Kaminski	47	senior		27	100	chce kupic	10						
+366	Miroslaw	Kazmierczak	46	senior		36	100	sprzedal	10						
+367	Bartosz	Kowalczyk	40	senior		68	100	posiada	8						
+368	Boleslaw	Andrzejewski	67	weteran		70	100	posiada	8						
+369	Patryk	Zielinski	82	weteran		80	100	posiada	7						
+370	Lucjan	Kowalczyk	65	weteran		88	100	posiada	7						
+371	Ireneusz	Szczepanski	87	weteran		99	100	chce kupic	7						
+372	Fryderyk	Chmielewski	50	weteran		121	100	sprzedal	7						
+373	Amir	Jasinski	47	senior		13	101	posiada	10						
+374	Kamil	Szymczak	73	weteran		86	101	chce kupic	9						
+375	Adrian	Ostrowski	90	weteran		118	101	sprzedal	8						
+376	Boleslaw	Czarnecki	79	weteran		54	102	posiada	10						
+377	Adam	Jankowski	87	weteran		100	102	posiada	7						
+378	Heronim	Kwiatkowski	18	Junior		118	102	posiada	6						
+379	Lucjan	Czarnecki	67	weteran		130	102	posiada	10						
+380	Jan	Kazmierczak	48	senior		21	103	posiada	9						
+381	Cyprian	Wisniewski	52	weteran		52	103	posiada	9						
+382	Artur	Pawlak	81	weteran		55	103	posiada	7						
+383	Leonardo	Wojcik	71	weteran		62	103	posiada	6						
+384	Alex	Borkowski	35	senior		84	103	posiada	6						
+385	Bronislaw	Piotrowski	38	senior		61	104	posiada	9						
+386	Dorian	Tomaszewski	41	senior		116	104	posiada	10						
+387	Gabriel	Michalak	44	senior		14	105	posiada	10						
+388	Rafal	Wisniewski	82	weteran		87	105	posiada	8						
+389	Remigiusz	Ostrowski	31	senior		98	105	sprzedal	10						
+390	Anastazy	Gorski	15	Junior		112	105	sprzedal	9						
+391	Patryk	Sikorski	49	senior		116	105	sprzedal	8						
+392	Artur	Zawadzki	50	weteran		118	105	sprzedal	7						
+393	Joachim	Kowalczyk	14	Junior		32	106	sprzedal	9						
+394	Joachim	Kucharski	15	Junior		43	106	sprzedal	6						
+395	Dominik	Makowski	41	senior		61	106	sprzedal	9						
+396	Hubert	Witkowski	47	senior		98	106	sprzedal	10						
+397	Radoslaw	Cieslak	76	weteran		5	107	chce kupic	7						
+398	Roman	Kubiak	58	weteran		23	107	chce kupic	6						
+399	Milan	Kucharski	70	weteran		48	107	chce kupic	9						
+400	Cezary	Kazmierczak	24	senior		63	107	chce kupic	9						
+401	Aleksander	Wasilewski	67	weteran		78	107	posiada	7						
+402	Alexander	Maciejewski	52	weteran		92	107	chce kupic	7						
+403	Cezary	Jakubowski	76	weteran		93	107	sprzedal	7						
+404	Aleks	Sikorski	58	weteran		35	108	posiada	6						
+405	Eugeniusz	Mroz	58	weteran		51	108	chce kupic	9						
+406	Igor	Kalinowski	41	senior		63	108	sprzedal	7						
+407	Cezary	Marciniak	88	weteran		114	108	posiada	10						
+408	Norbert	Szulc	73	weteran		12	109	sprzedal	7						
+409	Ireneusz	Sikorski	64	weteran		49	109	sprzedal	10						
+410	Ignacy	Dabrowski	62	weteran		82	109	chce kupic	7						
+411	Dorian	Wozniak	82	weteran		79	110	chce kupic	10						
+412	Remigiusz	Zakrzewski	63	weteran		117	110	chce kupic	6						
+413	Denis	Sadowski	72	weteran		11	111	chce kupic	10						
+414	Olgierd	Wozniak	34	senior		55	111	posiada	9						
+415	Marian	Bak	59	weteran		130	111	chce kupic	6						
+416	Klaudiusz	Gajewski	15	Junior		4	112	sprzedal	6						
+417	Jacek	Piotrowski	83	weteran		17	112	posiada	8						
+418	Lucjan	Gajewski	56	weteran		27	112	chce kupic	8						
+419	Florian	Kalinowski	71	weteran		73	112	sprzedal	6						
+420	Emanuel	Dabrowski	43	senior		95	112	posiada	10						
+421	Ludwik	Jasinski	24	senior		6	113	posiada	7						
+422	Patryk	Ostrowski	22	senior		64	113	posiada	6						
+423	Janusz	Glowacki	41	senior		73	113	posiada	9						
+424	Robert	Kucharski	90	weteran		104	113	chce kupic	6						
+425	Kuba	Czarnecki	16	Junior		108	113	sprzedal	10						
+426	Adam	Ziolkowski	64	weteran		101	114	posiada	8						
+427	Kuba	Kolodziej	18	Junior		55	115	chce kupic	6						
+428	Ksawery	Ostrowski	77	weteran		1	116	sprzedal	6						
+429	Dobromil	Duda	78	weteran		70	116	posiada	9						
+430	Anatol	Lis	36	senior		85	116	posiada	7						
+431	Milan	Jaworski	68	weteran		100	116	posiada	9						
+432	Eryk	Kalinowski	71	weteran		116	116	posiada	9						
+433	Remigiusz	Sokolowski	14	Junior		121	116	posiada	7						
+434	Alek	Duda	89	weteran		57	117	posiada	10						
+435	Boleslaw	Wysocki	54	weteran		71	117	posiada	7						
+436	Kornel	Wojcik	51	weteran		105	117	posiada	6						
+437	Natan	Kaczmarczyk	47	senior		116	117	posiada	10						
+438	Julian	Gorecki	31	senior		130	117	posiada	10						
+439	Eugeniusz	Sikorski	67	weteran		50	118	posiada	10						
+440	Korneliusz	Jankowski	27	senior		82	118	posiada	7						
+441	Daniel	Kazmierczak	20	senior		104	118	posiada	7						
+442	Dorian	Maciejewski	55	weteran		103	119	sprzedal	6						
+443	Czeslaw	Mazur	44	senior		104	119	sprzedal	10						
+444	Oskar	Jasinski	93	weteran		57	120	sprzedal	8						
+445	Marcin	Wlodarczyk	86	weteran		71	120	sprzedal	9						
+446	Anastazy	Kazmierczak	61	weteran		117	120	sprzedal	7						
+447	Marcin	Makowski	61	weteran		26	121	sprzedal	10						
+448	Alexander	Wlodarczyk	62	weteran		36	121	sprzedal	7						
+449	Fryderyk	Baran	54	weteran		42	121	sprzedal	6						
+450	Maciej	Wozniak	30	senior		101	121	chce kupic	8						
+451	Mieszko	Przybylski	84	weteran		2	122	chce kupic	9						
+452	Juliusz	Chmielewski	73	weteran		31	122	chce kupic	8						
+453	Jan	Maciejewski	58	weteran		52	122	chce kupic	9						
+454	Bartlomiej	Szewczyk	30	senior		89	122	posiada	7						
+455	Aleksander	Rutkowski	69	weteran		15	123	chce kupic	7						
+456	Fryderyk	Urbanski	29	senior		21	123	sprzedal	9						
+457	Jedrzej	Dabrowski	54	weteran		1	124	posiada	9						
+458	Remigiusz	Kucharski	69	weteran		13	124	chce kupic	9						
+459	Hubert	Kozlowski	85	weteran		28	124	sprzedal	8						
+460	Kajetan	Chmielewski	15	Junior		33	124	posiada	10						
+461	Antoni	Lewandowski	45	senior		105	124	sprzedal	9						
+462	Aleks	Przybylski	15	Junior		126	124	sprzedal	8						
+463	Jerzy	Stepien	26	senior		22	125	chce kupic	8						
+464	Norbert	Rutkowski	29	senior		23	125	chce kupic	10						
+465	Hubert	Michalak	51	weteran		30	125	chce kupic	10						
+466	Amadeusz	Wlodarczyk	56	weteran		75	125	chce kupic	10						
+467	Damian	Maciejewski	70	weteran		89	125	posiada	7						
+468	Artur	Piotrowski	76	weteran		96	125	chce kupic	7						
+469	Franciszek	Stepien	91	weteran		17	126	sprzedal	9						
+470	Anastazy	Blaszczyk	40	senior		29	126	posiada	10						
+471	Krzysztof	Wisniewski	19	Junior		63	126	chce kupic	10						
+472	Marcel	Nowak	84	weteran		11	127	sprzedal	6						
+473	Alojzy	Kozlowski	44	senior		56	127	posiada	8						
+474	Ernest	Walczak	33	senior		100	127	posiada	8						
+475	Oktawian	Gajewski	74	weteran		129	127	posiada	10						
+476	Remigiusz	Kozlowski	60	weteran		19	128	posiada	10						
+477	Alojzy	Ziolkowski	35	senior		18	129	chce kupic	7						
+478	Olgierd	Kwiatkowski	22	senior		94	129	sprzedal	8						
+479	Ksawery	Pawlak	68	weteran		95	129	posiada	8						
+480	Grzegorz	Czerwinski	20	senior		43	130	chce kupic	10						
+481	Ryszard	Tomaszewski	35	senior		75	130	sprzedal	9						
+482	Bartlomiej	Czarnecki	39	senior		112	130	posiada	9						
+483	Denis	Witkowski	58	weteran		114	130	posiada	9						
+484	Dariusz	Piotrowski	15	Junior		7	131	posiada	10						
+485	Ludwik	Sikora	29	senior		15	131	posiada	10						
+486	Anatol	Laskowski	63	weteran		112	131	posiada	10						
+487	Ignacy	Baran	49	senior		115	131	posiada	6						
+488	Natan	Pietrzak	71	weteran		11	132	posiada	10						
+489	Czeslaw	Sokolowski	71	weteran		66	132	posiada	10						
+490	Jerzy	Kaminski	84	weteran		84	132	posiada	8						
+491	Gracjan	Kaminski	17	Junior		118	132	posiada	6						
+492	Amir	Szymanski	93	weteran		52	133	posiada	9						
+493	Natan	Kucharski	91	weteran		54	133	posiada	10						
+494	Alexander	Kolodziej	43	senior		71	133	posiada	10						
+495	Emanuel	Mazur	44	senior		92	133	sprzedal	7						
+496	Klaudiusz	Kaczmarczyk	26	senior		46	134	sprzedal	8						
+497	Alojzy	Wojciechowski	33	senior		102	134	sprzedal	6						
+498	Marek	Kowalski	73	weteran		57	135	sprzedal	6						
+499	Aleksander	Chmielewski	59	weteran		76	135	sprzedal	6						
+500	Maciej	Ostrowski	63	weteran		88	135	sprzedal	6						
+501	Fabian	Mazurek	17	Junior		55	136	sprzedal	8						
+502	Bartlomiej	Ziolkowski	52	weteran		14	137	sprzedal	10						
+503	Eustachy	Gajewski	91	weteran		22	137	chce kupic	7						
+504	Filip	Brzezinski	74	weteran		67	137	chce kupic	8						
+505	Antoni	Kubiak	64	weteran		14	138	chce kupic	8						
+506	Heronim	Krajewski	28	senior		23	138	chce kupic	8						
+507	Kordian	Sobczak	69	weteran		29	138	posiada	8						
+508	Gniewomir	Makowski	64	weteran		131	138	chce kupic	9						
+509	Kewin	Sikora	33	senior		64	139	sprzedal	8						
+510	Janusz	Baranowski	28	senior		96	139	posiada	8						
+511	Alek	Rutkowski	18	Junior		21	140	chce kupic	10						
+512	Allan	Lewandowski	70	weteran		43	140	sprzedal	6						
+513	Janusz	Piotrowski	91	weteran		67	140	posiada	7						
+514	Kordian	Cieslak	36	senior		74	140	sprzedal	6						
+515	Amadeusz	Wroblewski	28	senior		116	140	sprzedal	7						
+516	Julian	Jasinski	33	senior		120	140	chce kupic	8						
+517	Korneliusz	Zalewski	23	senior		5	141	chce kupic	7						
+518	Kordian	Wysocki	69	weteran		24	141	chce kupic	10						
+519	Mikolaj	Sadowski	59	weteran		33	142	chce kupic	6						
+520	Jaroslaw	Kucharski	40	senior		66	142	posiada	7						
+521	Dawid	Szewczyk	39	senior		101	142	chce kupic	6						
+522	Ludwik	Borkowski	85	weteran		104	142	sprzedal	9						
+523	Jedrzej	Ziolkowski	46	senior		16	143	posiada	10						
+524	Mariusz	Lewandowski	47	senior		44	143	chce kupic	7						
+525	Kryspin	Walczak	60	weteran		93	143	sprzedal	8						
+526	Robert	Wojcik	41	senior		31	144	posiada	6						
+527	Anastazy	Zielinski	47	senior		89	144	posiada	10						
+528	Przemyslaw	Chmielewski	35	senior		18	145	posiada	8						
+529	Kryspin	Gorski	37	senior		31	145	posiada	10						
+530	Borys	Kalinowski	81	weteran		72	145	chce kupic	6						
+531	Ariel	Laskowski	30	senior		77	145	sprzedal	7						
+532	Amir	Marciniak	79	weteran		98	145	posiada	8						
+533	Klaudiusz	Sikorski	21	senior		117	145	chce kupic	9						
+534	Miroslaw	Wlodarczyk	74	weteran		25	146	sprzedal	7						
+535	Franciszek	Jankowski	43	senior		71	147	posiada	6						
+536	Ryszard	Brzezinski	61	weteran		91	147	posiada	9						
+537	Aleksander	Laskowski	48	senior		124	147	posiada	6						
+538	Marcel	Wojcik	39	senior		126	147	posiada	7						
+539	Kamil	Jakubowski	16	Junior		4	148	posiada	9						
+540	Kajetan	Lis	91	weteran		20	148	posiada	6						
+541	Kazimierz	Kozlowski	83	weteran		36	148	posiada	7						
+542	Norbert	Jasinski	23	senior		70	148	posiada	7						
+543	Michal	Nowak	64	weteran		99	148	posiada	7						
+544	Joachim	Wasilewski	66	weteran		113	148	posiada	10						
+545	Antoni	Wojciechowski	92	weteran		127	148	posiada	9						
+546	Heronim	Sadowski	84	weteran		39	149	posiada	9						
+547	Eugeniusz	Andrzejewski	44	senior		66	149	posiada	9						
+548	Rafal	Chmielewski	83	weteran		115	149	sprzedal	6						
+549	Emanuel	Rutkowski	43	senior		116	149	sprzedal	10						
+550	Dariusz	Kowalczyk	20	senior		122	149	sprzedal	6						
+551	Maciej	Szczepanski	69	weteran		13	150	sprzedal	5						
+552	Michal	Wasilewski	35	senior		27	150	sprzedal	7						
+553	Radoslaw	Rutkowski	40	senior		35	150	sprzedal	5						
+554	Piotr	Kucharski	52	weteran		64	150	sprzedal	6						
+555	Mieszko	Kowalski	27	senior		2	151	sprzedal	4						
+556	Patryk	Kucharski	73	weteran		24	151	chce kupic	10						
+557	Klaudiusz	Czerwinski	63	weteran		55	151	chce kupic	8						
+558	Cezary	Makowski	36	senior		65	151	chce kupic	4						
+559	Filip	Lis	58	weteran		86	151	chce kupic	4						
+560	Joachim	Mroz	28	senior		92	152	posiada	10						
+561	Adam	Kowalski	40	senior		22	153	chce kupic	10						
+562	Franciszek	Czarnecki	65	weteran		83	153	sprzedal	2						
+563	Kajetan	Wroblewski	57	weteran		50	154	posiada	5						
+564	Juliusz	Krajewski	87	weteran		16	155	chce kupic	1						
+565	Alfred	Gajewski	29	senior		40	155	sprzedal	7						
+566	Milan	Adamski	83	weteran		58	155	posiada	10						
+567	Patryk	Krupa	42	senior		127	155	sprzedal	2						
+568	Ignacy	Zawadzki	38	senior		2	156	sprzedal	10						
+569	Gniewomir	Chmielewski	56	weteran		11	156	chce kupic	5						
+570	Allan	Mazurek	78	weteran		40	156	chce kupic	6						
+571	Jerzy	Borkowski	79	weteran		71	156	chce kupic	9						
+572	Daniel	Kozlowski	63	weteran		124	156	chce kupic	8						
+573	Kordian	Sikorski	62	weteran		65	157	posiada	8						
+574	Amir	Pawlak	63	weteran		103	157	chce kupic	5						
+575	Fryderyk	Mazurek	31	senior		108	157	sprzedal	8						
+576	Borys	Dabrowski	34	senior		30	158	posiada	5						
+577	Robert	Kowalczyk	73	weteran		61	158	chce kupic	6						
+578	Maciej	Wojciechowski	38	senior		99	158	sprzedal	9						
+579	Kornel	Dabrowski	42	senior		48	159	posiada	7						
+580	Bruno	Szymczak	78	weteran		20	160	posiada	10						
+581	Gracjan	Szymanski	64	weteran		32	160	posiada	10						
+582	Ignacy	Kaminski	21	senior		62	160	posiada	9						
+583	Grzegorz	Gorski	87	weteran		66	160	chce kupic	8						
+584	Michal	Szymanski	35	senior		100	160	sprzedal	7						
+585	Bartlomiej	Kalinowski	68	weteran		71	161	posiada	7						
+586	Eryk	Wozniak	58	weteran		89	161	chce kupic	8						
+587	Maksymilian	Cieslak	49	senior		94	161	sprzedal	8						
+588	Leonardo	Blaszczyk	91	weteran		100	161	posiada	10						
+589	Mariusz	Stepien	54	weteran		7	162	posiada	10						
+590	Damian	Wisniewski	35	senior		24	162	posiada	9						
+591	Natan	Kucharski	81	weteran		75	162	posiada	9						
+592	Juliusz	Krupa	41	senior		98	162	posiada	7						
+593	Dobromil	Pawlak	54	weteran		126	162	posiada	8						
+594	Kacper	Nowak	87	weteran		52	163	posiada	8						
+595	Heronim	Krawczyk	89	weteran		69	163	posiada	9						
+596	Anatol	Sadowski	59	weteran		70	163	posiada	8						
+597	Miron	Ziolkowski	38	senior		128	163	posiada	7						
+598	Kuba	Wasilewski	41	senior		129	163	posiada	9						
+599	Hubert	Gorecki	18	Junior		2	164	posiada	9						
+600	Oktawian	Sawicki	60	weteran		38	164	posiada	9						
+601	Krzysztof	Chmielewski	19	Junior		43	164	sprzedal	9						
+602	Miron	Tomaszewski	53	weteran		124	164	sprzedal	10						
+603	Bronislaw	Baran	14	Junior		60	165	sprzedal	8						
+604	Henryk	Wozniak	28	senior		2	166	sprzedal	7						
+605	Henryk	Urbanski	88	weteran		20	166	sprzedal	7						
+606	Maksymilian	Jaworski	62	weteran		24	166	sprzedal	8						
+607	Igor	Szymczak	74	weteran		78	166	sprzedal	7						
+608	Jedrzej	Kowalczyk	83	weteran		80	166	sprzedal	10						
+609	Aleksy	Gajewski	31	senior		114	166	chce kupic	8						
+610	Daniel	Gajewski	46	senior		124	166	chce kupic	9						
+611	Daniel	Piotrowski	17	Junior		4	167	chce kupic	8						
+612	Norbert	Michalak	67	weteran		87	167	chce kupic	10						
+613	Ignacy	Glowacki	58	weteran		35	168	posiada	7						
+614	Krystian	Mazurek	91	weteran		103	168	chce kupic	7						
+615	Igor	Pietrzak	44	senior		112	168	sprzedal	10						
+616	Damian	Lis	35	senior		119	168	posiada	8						
+617	Ireneusz	Kowalski	68	weteran		122	168	chce kupic	7						
+618	Maksymilian	Wojcik	65	weteran		50	169	sprzedal	10						
+619	Alojzy	Szewczyk	56	weteran		69	169	posiada	9						
+620	Mikolaj	Sadowski	91	weteran		77	169	sprzedal	7						
+621	Janusz	Adamski	44	senior		126	169	sprzedal	9						
+622	Miroslaw	Wozniak	80	weteran		12	170	chce kupic	7						
+623	Diego	Pawlak	26	senior		65	170	chce kupic	8						
+624	Bartosz	Kucharski	31	senior		69	170	chce kupic	8						
+625	Fryderyk	Krupa	73	weteran		12	171	chce kupic	7						
+626	Alfred	Stepien	40	senior		13	171	posiada	8						
+627	Korneliusz	Dabrowski	68	weteran		68	171	chce kupic	10						
+628	Blazej	Michalak	42	senior		86	171	sprzedal	8						
+629	Franciszek	Szymczak	58	weteran		22	172	posiada	10						
+630	Ariel	Jankowski	49	senior		76	172	chce kupic	10						
+631	Alex	Bak	28	senior		79	172	sprzedal	8						
+632	Alfred	Szczepanski	20	senior		120	172	posiada	10						
+633	Patryk	Czerwinski	28	senior		130	172	posiada	8						
+634	Leonardo	Brzezinski	33	senior		13	173	posiada	7						
+635	Cyprian	Walczak	64	weteran		36	173	posiada	10						
+636	Oskar	Adamski	65	weteran		54	173	chce kupic	9						
+637	Dobromil	Jankowski	20	senior		59	173	sprzedal	8						
+638	Olgierd	Sikorski	46	senior		84	173	posiada	8						
+639	Bruno	Cieslak	38	senior		118	173	chce kupic	8						
+640	Remigiusz	Nowak	93	weteran		13	174	sprzedal	9						
+641	Damian	Krupa	27	senior		41	174	posiada	10						
+642	Borys	Wysocki	55	weteran		63	174	posiada	7						
+643	Filip	Laskowski	73	weteran		68	174	posiada	10						
+644	Blazej	Czerwinski	33	senior		129	174	posiada	7						
+645	Anastazy	Mazur	82	weteran		130	174	posiada	9						
+646	Michal	Lewandowski	74	weteran		9	175	posiada	9						
+647	Maurycy	Kaminski	52	weteran		26	175	posiada	8						
+648	Dawid	Nowak	43	senior		27	175	posiada	10						
+649	Dominik	Kowalski	91	weteran		49	175	posiada	9						
+650	Czeslaw	Kwiatkowski	83	weteran		66	175	posiada	9						
+651	Henryk	Ostrowski	43	senior		35	176	posiada	8						
+652	Anatol	Sadowski	26	senior		44	176	posiada	9						
+653	Florian	Przybylski	63	weteran		46	176	posiada	7						
+654	Fabian	Walczak	59	weteran		77	176	sprzedal	8						
+655	Kacper	Lis	76	weteran		126	176	sprzedal	8						
+656	Kewin	Laskowski	46	senior		49	177	sprzedal	8						
+657	Ryszard	Zielinski	85	weteran		67	177	sprzedal	7						
+658	Mieszko	Urbanski	29	senior		99	177	sprzedal	7						
+659	Kewin	Maciejewski	30	senior		127	177	sprzedal	9						
+660	Diego	Kucharski	27	senior		49	178	sprzedal	8						
+661	Dobromil	Glowacki	93	weteran		59	178	sprzedal	8						
+662	Bartosz	Sikorski	67	weteran		97	178	chce kupic	8						
+663	Kornel	Szewczyk	90	weteran		17	179	chce kupic	9						
+664	Janusz	Zawadzki	63	weteran		59	179	chce kupic	7						
+665	Hubert	Kolodziej	92	weteran		78	179	chce kupic	9						
+666	Olgierd	Malinowski	14	Junior		123	179	posiada	8						
+667	Filip	Cieslak	93	weteran		125	179	chce kupic	9						
+668	Alek	Andrzejewski	43	senior		7	180	sprzedal	10						
+669	Bartosz	Szewczyk	27	senior		44	180	posiada	7						
+670	Joachim	Cieslak	45	senior		34	181	chce kupic	8						
+671	Borys	Czarnecki	82	weteran		48	181	sprzedal	8						
+672	Amir	Wojciechowski	36	senior		96	181	posiada	8						
+673	Remigiusz	Kolodziej	56	weteran		26	182	sprzedal	10						
+674	Denis	Sawicki	33	senior		46	182	sprzedal	9						
+675	Olaf	Szymanski	63	weteran		61	182	chce kupic	9						
+676	Jedrzej	Wroblewski	19	Junior		76	182	chce kupic	10						
+677	Bartosz	Czerwinski	39	senior		80	182	chce kupic	9						
+678	Milosz	Wasilewski	91	weteran		94	182	chce kupic	8						
+679	Gracjan	Przybylski	88	weteran		5	183	posiada	10						
+680	Denis	Blaszczyk	85	weteran		23	183	chce kupic	10						
+681	Lucjan	Kucharski	89	weteran		117	183	sprzedal	9						
+682	Piotr	Mazurek	63	weteran		5	184	posiada	7						
+683	Klaudiusz	Szczepanski	85	weteran		80	184	chce kupic	9						
+684	Dawid	Stepien	15	Junior		14	185	sprzedal	7						
+685	Karol	Maciejewski	68	weteran		24	185	posiada	9						
+686	Daniel	Kubiak	21	senior		27	185	posiada	9						
+687	Przemyslaw	Zielinski	31	senior		69	185	posiada	10						
+688	Juliusz	Zalewski	34	senior		82	185	posiada	7						
+689	Mateusz	Rutkowski	28	senior		26	186	chce kupic	10						
+690	Kordian	Czarnecki	89	weteran		65	186	sprzedal	8						
+691	Arkadiusz	Zawadzki	47	senior		96	186	posiada	9						
+692	Janusz	Malinowski	46	senior		108	186	chce kupic	9						
+693	Alan	Laskowski	50	weteran		20	187	sprzedal	7						
+694	Maksymilian	Baranowski	35	senior		46	187	posiada	7						
+695	Olgierd	Michalak	71	weteran		73	187	posiada	10						
+696	Allan	Szewczyk	31	senior		74	187	posiada	9						
+697	Jaroslaw	Kubiak	20	senior		7	188	posiada	9						
+698	Mikolaj	Laskowski	79	weteran		36	188	posiada	10						
+699	Patryk	Lis	40	senior		57	188	posiada	7						
+700	Florian	Sikora	35	senior		101	188	posiada	10						
+701	Maurycy	Bak	91	weteran		103	188	posiada	8						
+702	Oskar	Maciejewski	55	weteran		107	188	posiada	8						
+703	Dominik	Jakubowski	21	senior		127	188	posiada	9						
+704	Norbert	Stepien	85	weteran		68	189	posiada	10						
+705	Jacek	Sobczak	83	weteran		82	189	posiada	7						
+706	Oktawian	Sikorski	87	weteran		110	189	posiada	10						
+707	Anatol	Mazurek	18	Junior		118	189	sprzedal	9						
+708	Mateusz	Ziolkowski	83	weteran		119	189	sprzedal	8						
+709	Kordian	Baran	74	weteran		40	190	sprzedal	10						
+710	Oktawian	Wasilewski	47	senior		42	190	sprzedal	8						
+711	Kazimierz	Kwiatkowski	89	weteran		67	190	sprzedal	10						
+712	Jerzy	Wojciechowski	61	weteran		3	191	sprzedal	9						
+713	Mikolaj	Lewandowski	91	weteran		34	191	sprzedal	8						
+714	Aleks	Brzezinski	71	weteran		94	192	sprzedal	8						
+715	Borys	Wroblewski	19	Junior		98	192	chce kupic	8						
+716	Jozef	Nowak	80	weteran		99	192	chce kupic	7						
+717	Eustachy	Zawadzki	26	senior		110	192	chce kupic	10						
+718	Fryderyk	Dabrowski	69	weteran		131	192	chce kupic	9						
+719	Kajetan	Sokolowski	40	senior		18	193	posiada	10						
+720	Piotr	Jaworski	91	weteran		38	193	chce kupic	8						
+721	Gracjan	Stepien	31	senior		88	193	sprzedal	8						
+722	Oskar	Czarnecki	64	weteran		32	194	posiada	8						
+723	Diego	Baran	57	weteran		75	194	chce kupic	8						
+724	Kamil	Zakrzewski	31	senior		115	194	sprzedal	10						
+725	Hubert	Kozlowski	19	Junior		47	195	posiada	10						
+726	Marcin	Pawlak	75	weteran		57	195	sprzedal	8						
+727	Korneliusz	Brzezinski	31	senior		77	195	sprzedal	9						
+728	Kacper	Wroblewski	35	senior		125	195	chce kupic	9						
+729	Karol	Maciejewski	73	weteran		126	195	chce kupic	8						
+730	Radoslaw	Tomaszewski	33	senior		14	196	chce kupic	10						
+731	Alexander	Sikora	71	weteran		58	196	chce kupic	10						
+732	Janusz	Wisniewski	56	weteran		78	196	posiada	8						
+733	Robert	Lis	85	weteran		16	197	chce kupic	8						
+734	Adrian	Maciejewski	45	senior		97	197	sprzedal	9						
+735	Kuba	Baranowski	75	weteran		109	197	posiada	10						
+736	Alex	Gorecki	91	weteran		110	197	chce kupic	10						
+737	Amir	Zakrzewski	71	weteran		117	197	sprzedal	7						
+738	Heronim	Nowak	51	weteran		125	197	posiada	10						
+739	Mateusz	Zalewski	64	weteran		16	198	posiada	9						
+740	Alexander	Krajewski	84	weteran		52	198	posiada	7						
+741	Ignacy	Kaminski	44	senior		81	198	posiada	9						
+742	Krzysztof	Tomaszewski	17	Junior		122	198	chce kupic	8						
+743	Jakub	Wisniewski	93	weteran		43	199	sprzedal	10						
+744	Przemyslaw	Kwiatkowski	16	Junior		61	199	posiada	10						
+745	Mikolaj	Sobczak	19	Junior		113	199	chce kupic	8						
+746	Juliusz	Sikora	54	weteran		120	200	sprzedal	10						
+747	Aleks	Wasilewski	19	Junior		1	201	posiada	7						
+748	Alojzy	Pietrzak	14	Junior		59	201	posiada	8						
+749	Gracjan	Czarnecki	76	weteran		65	201	posiada	9						
+750	Ludwik	Baranowski	38	senior		87	201	posiada	9						
+751	Daniel	Witkowski	51	weteran		111	201	posiada	8						
+752	Remigiusz	Gajewski	90	weteran		114	201	posiada	7						
+753	Jacek	Mazurek	42	senior		5	202	posiada	10						
+754	Amadeusz	Urbanski	27	senior		10	202	posiada	9						
+755	Jozef	Kazmierczak	69	weteran		4	203	posiada	8						
+756	Blazej	Szczepanski	87	weteran		34	203	posiada	8						
+757	Diego	Borkowski	57	weteran		57	203	posiada	7						
+758	Anatol	Marciniak	63	weteran		68	203	posiada	7						
+759	Gniewomir	Lis	19	Junior		74	203	posiada	10						
+760	Fryderyk	Lewandowski	45	senior		66	204	sprzedal	7						
+761	Bartlomiej	Marciniak	67	weteran		70	204	sprzedal	8						
+762	Milan	Michalak	72	weteran		87	204	sprzedal	7						
+763	Gabriel	Jankowski	26	senior		1	205	sprzedal	7						
+764	Piotr	Duda	61	weteran		46	205	sprzedal	8						
+765	Damian	Duda	87	weteran		90	205	sprzedal	9						
+766	Antoni	Jankowski	56	weteran		57	206	sprzedal	8						
+767	Mariusz	Gajewski	46	senior		60	206	sprzedal	7						
+768	Olgierd	Szymanski	88	weteran		71	206	chce kupic	7						
+769	Norbert	Jasinski	25	senior		77	206	chce kupic	7						
+770	Igor	Szczepanski	68	weteran		96	206	chce kupic	8						
+771	Emil	Kucharski	62	weteran		25	207	chce kupic	8						
+772	Aleksander	Krajewski	79	weteran		58	207	posiada	10						
+773	Jedrzej	Chmielewski	45	senior		76	207	chce kupic	8						
+774	Krystian	Duda	44	senior		41	208	sprzedal	8						
+775	Gabriel	Baranowski	21	senior		45	208	posiada	7						
+776	Florian	Tomaszewski	27	senior		52	208	chce kupic	8						
+777	Alfred	Kalinowski	61	weteran		80	208	sprzedal	9						
+778	Filip	Kaczmarczyk	23	senior		122	208	posiada	7						
+779	Joachim	Szymanski	58	weteran		1	209	sprzedal	10						
+780	Bronislaw	Adamski	59	weteran		15	209	sprzedal	10						
+781	Fryderyk	Kazmierczak	66	weteran		43	209	chce kupic	9						
+782	Fryderyk	Sawicki	45	senior		53	209	chce kupic	7						
+783	Marian	Jakubowski	38	senior		129	209	chce kupic	8						
+784	Miron	Wisniewski	90	weteran		27	210	chce kupic	8						
+785	Henryk	Kowalski	37	senior		60	210	posiada	7						
+786	Dominik	Sadowski	56	weteran		88	210	chce kupic	10						
+787	Emil	Kubiak	43	senior		127	210	sprzedal	9						
+788	Alfred	Malinowski	89	weteran		54	211	posiada	7						
+789	Piotr	Brzezinski	55	weteran		103	211	chce kupic	8						
+790	Maurycy	Kaminski	14	Junior		7	212	sprzedal	10						
+791	Heronim	Kwiatkowski	29	senior		24	212	posiada	10						
+792	Igor	Jasinski	23	senior		46	212	posiada	7						
+793	Juliusz	Krajewski	77	weteran		12	213	posiada	10						
+794	Gracjan	Andrzejewski	68	weteran		17	213	posiada	8						
+795	Eustachy	Wlodarczyk	78	weteran		59	213	chce kupic	7						
+796	Eugeniusz	Chmielewski	48	senior		106	213	sprzedal	10						
+797	Emil	Blaszczyk	86	weteran		38	214	posiada	9						
+798	Cyprian	Sokolowski	78	weteran		61	214	chce kupic	9						
+799	Ariel	Kowalski	85	weteran		105	214	sprzedal	8						
+800	Dobromil	Wojcik	36	senior		119	214	posiada	10						
+801	Ireneusz	Zielinski	65	weteran		30	215	posiada	9						
+802	Andrzej	Zawadzki	28	senior		35	215	posiada	10						
+803	Eustachy	Kwiatkowski	41	senior		70	215	posiada	10						
+804	Roman	Kaminski	73	weteran		108	215	posiada	10						
+805	Jerzy	Szczepanski	65	weteran		123	215	posiada	10						
+806	Igor	Kazmierczak	16	Junior		58	216	posiada	7						
+807	Konrad	Zalewski	74	weteran		61	216	posiada	10						
+808	Dobromil	Brzezinski	30	senior		103	216	posiada	8						
+809	Dorian	Urbanski	30	senior		108	216	posiada	10						
+810	Hubert	Nowak	58	weteran		114	216	posiada	8						
+811	Konrad	Wozniak	78	weteran		25	217	posiada	8						
+812	Bartosz	Kucharski	38	senior		56	217	posiada	10						
+813	Maksymilian	Makowski	93	weteran		64	217	sprzedal	8						
+814	Gracjan	Borkowski	74	weteran		88	217	sprzedal	7						
+815	Ryszard	Zielinski	57	weteran		128	217	sprzedal	10						
+816	Korneliusz	Szczepanski	51	weteran		1	218	sprzedal	8						
+817	Bogumil	Ziolkowski	33	senior		8	218	sprzedal	7						
+818	Jan	Krajewski	44	senior		12	218	sprzedal	8						
+819	Oktawian	Kowalczyk	67	weteran		39	218	sprzedal	7						
+820	Ernest	Malinowski	51	weteran		11	219	sprzedal	10						
+821	Miroslaw	Pawlak	70	weteran		16	219	chce kupic	8						
+822	Filip	Wojciechowski	54	weteran		94	219	chce kupic	7						
+823	Anatol	Lewandowski	45	senior		97	219	chce kupic	8						
+824	Heronim	Kalinowski	77	weteran		117	219	chce kupic	8						
+825	Bogumil	Borkowski	59	weteran		10	220	posiada	7						
+826	Alfred	Malinowski	37	senior		35	220	chce kupic	10						
+827	Pawel	Lewandowski	65	weteran		104	220	sprzedal	8						
+828	Kornel	Sadowski	56	weteran		112	220	posiada	9						
+829	Edward	Zakrzewski	54	weteran		9	221	chce kupic	9						
+830	Allan	Wysocki	74	weteran		96	221	sprzedal	9						
+831	Jacek	Ziolkowski	42	senior		103	221	posiada	7						
+832	Emanuel	Dabrowski	52	weteran		63	222	sprzedal	8						
+833	Bartosz	Gorski	39	senior		19	223	sprzedal	7						
+834	Dobromil	Wisniewski	33	senior		39	223	chce kupic	7						
+835	Juliusz	Stepien	68	weteran		56	223	chce kupic	8						
+836	Norbert	Duda	63	weteran		121	223	chce kupic	8						
+837	Eustachy	Urbanski	78	weteran		43	225	chce kupic	10						
+838	Jozef	Czerwinski	56	weteran		64	225	posiada	7						
+839	Arkadiusz	Krawczyk	30	senior		70	225	chce kupic	8						
+840	Rafal	Dabrowski	76	weteran		125	225	sprzedal	10						
+841	Adam	Wysocki	24	senior		117	226	posiada	9						
+842	Iga	Wozniak	91	weteran		39	227	chce kupic	10						
+843	Aniela	Szulc	65	weteran		129	227	sprzedal	7						
+844	Daria	Jaworska	78	weteran		49	228	posiada	10						
+845	Katarzyna	Makowska	63	weteran		91	228	posiada	9						
+846	Nina	Jakubowska	44	senior		108	228	posiada	8						
+847	Angelika	Ziolkowska	70	weteran		38	229	posiada	7						
+848	Czeslawa	Duda	14	Junior		129	229	chce kupic	8						
+849	Kamila	Blaszczyk	35	senior		15	231	sprzedal	7						
+850	Paula	Ostrowska	40	senior		18	231	posiada	7						
+851	Judyta	Witkowska	92	weteran		39	231	chce kupic	7						
+852	Stefania	Sobczak	15	Junior		90	231	sprzedal	7						
+853	Amanda	Czerwinska	77	weteran		92	231	posiada	7						
+854	Magda	Lis	20	senior		120	231	posiada	10						
+855	Bogda	Kaczmarczyk	49	senior		19	232	posiada	9						
+856	Kinga	Kwiatkowska	45	senior		22	232	posiada	7						
+857	Oliwia	Wasilewska	75	weteran		74	232	posiada	7						
+858	Olga	Tomaszewska	85	weteran		110	232	posiada	10						
+859	Malgorzata	Szymanska	30	senior		31	233	posiada	10						
+860	Lucyna	Pawlak	71	weteran		40	233	posiada	7						
+861	Agata	Kaczmarczyk	15	Junior		83	233	posiada	7						
+862	Eleonora	Kwiatkowska	63	weteran		98	233	posiada	10						
+863	Angelika	Andrzejewska	47	senior		100	233	posiada	7						
+864	Wanda	Malinowska	34	senior		111	233	posiada	9						
+865	Klara	Pietrzak	79	weteran		79	234	posiada	10						
+866	Boguslawa	Jaworska	16	Junior		102	234	sprzedal	9						
+867	Aniela	Blaszczyk	93	weteran		106	234	sprzedal	7						
+868	Kamila	Brzezinska	52	weteran		1	235	sprzedal	7						
+869	Lucyna	Jasinska	37	senior		77	235	sprzedal	10						
+870	Andrea	Blaszczyk	85	weteran		81	235	sprzedal	10						
+871	Miroslawa	Jankowska	37	senior		104	235	sprzedal	7						
+872	Honorata	Zakrzewska	88	weteran		128	235	sprzedal	7						
+873	Berenika	Piotrowska	46	senior		7	236	sprzedal	9						
+874	Elwira	Krupa	90	weteran		12	236	chce kupic	9						
+875	Blanka	Pietrzak	86	weteran		39	236	chce kupic	7						
+876	Iga	Sadowska	88	weteran		46	236	chce kupic	10						
+877	Dominika	Kowalczyk	77	weteran		92	236	chce kupic	9						
+878	Roza	Lis	82	weteran		30	237	posiada	10						
+879	Weronika	Szulc	43	senior		99	237	chce kupic	10						
+880	Czeslawa	Nowak	54	weteran		130	237	sprzedal	8						
+881	Klaudia	Jasinska	91	weteran		70	238	posiada	8						
+882	Agnieszka	Sikora	62	weteran		119	238	chce kupic	8						
+883	Aneta	Czarnecka	70	weteran		27	239	sprzedal	7						
+884	Adela	Cieslak	41	senior		29	240	posiada	9						
+885	Bogumila	Wasilewska	40	senior		67	240	sprzedal	7						
+886	Felicja	Sikora	33	senior		71	240	sprzedal	8						
+887	Emilia	Czerwinska	33	senior		88	240	chce kupic	9						
+888	Zofia	Ostrowska	43	senior		23	241	chce kupic	8						
+889	Amanda	Przybylska	63	weteran		57	241	chce kupic	9						
+890	Klementyna	Krawczyk	84	weteran		72	241	chce kupic	9						
+891	Anatolia	Ziolkowska	88	weteran		81	241	posiada	8						
+892	Matylda	Pawlak	26	senior		115	241	chce kupic	10						
+893	Anastazja	Maciejewska	19	Junior		18	242	sprzedal	8						
+894	Helena	Nowak	79	weteran		19	242	posiada	8						
+895	Luiza	Malinowska	28	senior		32	242	chce kupic	7						
+896	Jolanta	Zalewska	55	weteran		50	242	sprzedal	7						
+897	Alina	Krajewska	49	senior		59	242	posiada	7						
+898	Celina	Szczepanska	42	senior		42	243	posiada	7						
+899	Elena	Czarnecka	26	senior		50	243	posiada	8						
+900	Martyna	Szymczak	38	senior		76	243	posiada	8						
+901	Oktawia	Wysocka	22	senior		103	244	chce kupic	8						
+902	Marzanna	Witkowska	45	senior		10	245	sprzedal	8						
+903	Kamila	Wroblewska	57	weteran		14	245	posiada	10						
+904	Miroslawa	Pietrzak	93	weteran		87	245	chce kupic	7						
+905	Julita	Pawlak	37	senior		95	245	sprzedal	10						
+906	Judyta	Sobczak	83	weteran		103	245	posiada	8						
+907	Liliana	Wozniak	14	Junior		104	245	posiada	8						
+908	Jola	Szymczak	25	senior		23	246	posiada	10						
+909	Eliza	Jakubowska	86	weteran		63	246	posiada	7						
+910	Magdalena	Kwiatkowska	64	weteran		67	246	posiada	7						
+911	Wioletta	Kaczmarczyk	65	weteran		125	246	posiada	7						
+912	Halina	Mroz	34	senior		22	247	posiada	10						
+913	Dominika	Dabrowska	70	weteran		27	247	posiada	10						
+914	Otylia	Makowska	39	senior		81	247	posiada	10						
+915	Martyna	Wisniewska	65	weteran		87	247	posiada	9						
+916	Halina	Cieslak	45	senior		127	247	posiada	8						
+917	Emilia	Kwiatkowska	42	senior		70	248	posiada	10						
+918	Adriana	Wysocka	70	weteran		14	249	posiada	9						
+919	Dagmara	Wojciechowska	37	senior		5	250	sprzedal	8						
+920	Agata	Nowak	46	senior		69	250	sprzedal	8						
+921	Roksana	Wasilewska	30	senior		71	250	sprzedal	7						
+922	Alisa	Jaworska	33	senior		102	250	sprzedal	10						
+923	Regina	Kozlowska	53	weteran		129	250	sprzedal	8						
+924	Kamila	Walczak	89	weteran		35	251	sprzedal	7						
+925	Julia	Krajewska	68	weteran		50	251	sprzedal	9						
+926	Zofia	Kozlowska	69	weteran		51	251	sprzedal	8						
+927	Jolanta	Krupa	56	weteran		58	251	chce kupic	7						
+928	Alana	Walczak	40	senior		130	251	chce kupic	8						
+929	Amanda	Sawicka	24	senior		82	252	chce kupic	9						
+930	Ola	Dabrowska	65	weteran		95	252	chce kupic	10						
+931	Ewa	Mroz	73	weteran		46	253	posiada	7						
+932	Lucja	Sikora	16	Junior		53	253	chce kupic	7						
+933	Aisha	Wlodarczyk	57	weteran		76	253	sprzedal	10						
+934	Jadwiga	Brzezinska	41	senior		88	253	posiada	9						
+935	Aisha	Jankowska	53	weteran		107	253	chce kupic	9						
+936	Lucja	Gorecka	70	weteran		13	254	sprzedal	8						
+937	Alina	Szulc	43	senior		63	254	posiada	9						
+938	Kornelia	Gajewska	91	weteran		96	254	sprzedal	9						
+939	Ewa	Pawlak	84	weteran		28	255	sprzedal	9						
+940	Agata	Pietrzak	29	senior		61	255	chce kupic	9						
+941	Regina	Dabrowska	84	weteran		98	255	chce kupic	8						
+942	Adrianna	Wisniewska	42	senior		105	255	chce kupic	9						
+943	Bogumila	Baranowska	19	Junior		131	255	chce kupic	9						
+944	Andzelika	Szymczak	19	Junior		86	256	posiada	9						
+945	Diana	Tomaszewska	69	weteran		120	256	chce kupic	9						
+946	Wiktoria	Wasilewska	82	weteran		28	257	sprzedal	9						
+947	Hortensja	Sokolowska	15	Junior		32	257	posiada	8						
+948	Emilia	Gajewska	15	Junior		110	257	chce kupic	7						
+949	Alicja	Dabrowska	34	senior		116	257	sprzedal	9						
+950	Alana	Ziolkowska	17	Junior		126	257	posiada	7						
+951	Regina	Kowalczyk	82	weteran		75	258	posiada	10						
+952	Alana	Kalinowska	45	senior		16	260	posiada	8						
+953	Marcelina	Jaworska	73	weteran		47	260	posiada	7						
+954	Boguslawa	Sawicka	34	senior		67	261	posiada	10						
+955	Stefania	Brzezinska	78	weteran		128	261	posiada	8						
+956	Cecylia	Jakubowska	77	weteran		5	262	posiada	10						
+957	Oktawia	Zakrzewska	48	senior		40	262	posiada	9						
+958	Oliwia	Duda	77	weteran		65	262	posiada	10						
+959	Aniela	Andrzejewska	84	weteran		69	262	posiada	7						
+960	Marta	Brzezinska	57	weteran		98	262	posiada	7						
+961	Danuta	Czerwinska	91	weteran		29	263	sprzedal	10						
+962	Magda	Kucharska	16	Junior		79	263	sprzedal	8						
+963	Lucja	Szymanska	45	senior		17	264	sprzedal	9						
+964	Antonina	Baran	43	senior		33	264	sprzedal	10						
+965	Stanislawa	Laskowska	54	weteran		77	264	sprzedal	9						
+966	Andzelika	Kowalska	48	senior		93	264	sprzedal	10						
+967	Oktawia	Kazmierczak	54	weteran		15	265	sprzedal	10						
+968	Gabriela	Jankowska	82	weteran		61	265	sprzedal	10						
+969	Eleonora	Mazurek	66	weteran		71	265	chce kupic	8						
+970	Kaja	Makowska	18	Junior		80	265	chce kupic	8						
+971	Ewelina	Kaczmarczyk	38	senior		108	265	chce kupic	9						
+972	Beata	Sikorska	26	senior		123	265	chce kupic	7						
+973	Alina	Wisniewska	77	weteran		42	266	posiada	9						
+974	Jolanta	Gorska	37	senior		8	267	chce kupic	10						
+975	Karolina	Kwiatkowska	93	weteran		13	267	sprzedal	10						
+976	Dorota	Baranowska	93	weteran		33	267	posiada	9						
+977	Marcelina	Krajewska	51	weteran		39	267	chce kupic	9						
+978	Elwira	Gorecka	31	senior		47	267	sprzedal	7						
+979	Dominika	Piotrowska	82	weteran		80	267	posiada	9						
+980	Maja	Baranowska	18	Junior		87	267	sprzedal	7						
+981	Jozefa	Piotrowska	25	senior		108	267	sprzedal	7						
+982	Helena	Ziolkowska	81	weteran		109	267	chce kupic	9						
+983	Asia	Nowak	89	weteran		4	268	chce kupic	10						
+984	Judyta	Szczepanska	39	senior		23	268	chce kupic	10						
+985	Klara	Tomaszewska	27	senior		77	268	chce kupic	9						
+986	Eleonora	Kozlowska	28	senior		96	268	posiada	8						
+987	Ida	Walczak	39	senior		113	268	chce kupic	8						
+988	Dagmara	Ostrowska	44	senior		29	269	sprzedal	7						
+989	Adrianna	Dabrowska	29	senior		87	269	posiada	8						
+990	Judyta	Maciejewska	47	senior		34	270	chce kupic	10						
+991	Eleonora	Kowalska	63	weteran		60	270	sprzedal	8						
+992	Eliza	Wroblewska	73	weteran		62	270	posiada	7						
+993	Cecylia	Zielinska	20	senior		74	270	posiada	8						
+994	Felicja	Cieslak	69	weteran		98	270	posiada	10						
+995	Jadwiga	Wojciechowska	70	weteran		1	271	posiada	9						
+996	Faustyna	Wojciechowska	84	weteran		79	271	posiada	10						
+997	Berenika	Wysocka	79	weteran		84	271	posiada	10						
+998	Angelika	Gorecka	37	senior		91	271	posiada	10						
+999	Kornelia	Krawczyk	32	senior		97	271	posiada	9						
+1000	Patrycja	Kozlowska	70	weteran		114	271	posiada	7						
+1001	Andrea	Zalewska	48	senior		117	271	posiada	9						
+1002	Olimpia	Sadowska	65	weteran		51	272	posiada	8						
+1003	Florentyna	Stepien	72	weteran		82	272	sprzedal	10						
+1004	Bogna	Pawlak	65	weteran		95	272	sprzedal	7						
+1005	Urszula	Jakubowska	62	weteran		117	272	sprzedal	10						
+1006	Klaudia	Pawlak	50	weteran		1	273	sprzedal	10						
+1007	Dorota	Czerwinska	36	senior		86	273	sprzedal	9						
+1008	Izabela	Sikora	67	weteran		18	274	sprzedal	7						
+1009	Kinga	Kwiatkowska	43	senior		27	274	sprzedal	7						
+1010	Danuta	Walczak	33	senior		78	274	sprzedal	10						
+1011	Roksana	Malinowska	43	senior		112	274	chce kupic	10						
+1012	Marcelina	Jaworska	39	senior		126	274	chce kupic	8						
+1013	Anastazja	Jankowska	27	senior		77	275	chce kupic	10						
+1014	Konstancja	Gorska	37	senior		83	275	chce kupic	7						
+1015	Malwina	Borkowska	25	senior		58	276	posiada	8						
+1016	Maria	Kalinowska	92	weteran		89	276	chce kupic	9						
+1017	Paulina	Ostrowska	66	weteran		124	276	sprzedal	9						
+1018	Judyta	Krawczyk	80	weteran		13	277	posiada	8						
+1019	Aneta	Ostrowska	39	senior		99	277	chce kupic	9						
+1020	Andrea	Mroz	85	weteran		6	278	sprzedal	7						
+1021	Roksana	Walczak	19	Junior		15	278	posiada	8						
+1022	Florencja	Kaczmarczyk	18	Junior		16	278	sprzedal	9						
+1023	Czeslawa	Jankowska	84	weteran		28	278	sprzedal	9						
+1024	Luiza	Jankowska	35	senior		58	278	chce kupic	8						
+1025	Ilona	Wojciechowska	93	weteran		81	278	chce kupic	9						
+1026	Kamila	Dabrowska	70	weteran		87	278	chce kupic	8						
+1027	Barbara	Szewczyk	83	weteran		115	278	chce kupic	8						
+1028	Krystyna	Czarnecka	62	weteran		58	279	posiada	9						
+1029	Emilia	Wasilewska	37	senior		59	279	chce kupic	10						
+1030	Natasza	Zawadzka	21	senior		97	279	sprzedal	9						
+1031	Oliwia	Piotrowska	51	weteran		125	279	posiada	10						
+1032	Magdalena	Wasilewska	56	weteran		128	279	chce kupic	10						
+1033	Urszula	Czerwinska	87	weteran		26	280	sprzedal	10						
+1034	Daria	Kwiatkowska	48	senior		59	280	posiada	10						
+1035	Honorata	Krawczyk	79	weteran		61	280	posiada	10						
+1036	Krystyna	Wlodarczyk	78	weteran		86	280	posiada	9						
+1037	Olimpia	Ostrowska	55	weteran		92	280	posiada	9						
+1038	Milena	Czarnecka	15	Junior		3	281	posiada	7						
+1039	Alisa	Rutkowska	76	weteran		24	281	posiada	8						
+1040	Klara	Adamska	39	senior		29	282	posiada	7						
+1041	Faustyna	Rutkowska	87	weteran		47	282	posiada	8						
+						35	283	posiada	7						
+						51	283	posiada	8						
+						72	283	posiada	9						
+						87	283	sprzedal	7						
+						103	283	sprzedal	10						
+						120	283	sprzedal	9						
+						20	284	sprzedal	8						
+						36	284	sprzedal	7						
+						90	284	sprzedal	9						
+						10	285	sprzedal	9						
+						39	285	sprzedal	10						
+						58	285	chce kupic	7						
+						66	286	chce kupic	9						
+						100	286	chce kupic	7						
+						126	286	chce kupic	8						
+						10	287	posiada	10						
+						23	287	chce kupic	8						
+						52	287	sprzedal	8						
+						24	288	posiada	7						
+						60	288	chce kupic	7						
+						61	288	sprzedal	7						
+						74	288	posiada	8						
+						81	288	sprzedal	9						
+						122	288	sprzedal	9						
+						2	289	chce kupic	9						
+						38	289	chce kupic	9						
+						39	289	chce kupic	10						
+						80	289	chce kupic	8						
+						28	290	posiada	8						
+						38	290	chce kupic	7						
+						42	290	sprzedal	7						
+						94	290	posiada	10						
+						97	290	chce kupic	7						
+						107	290	sprzedal	10						
+						3	291	posiada	9						
+						6	291	posiada	8						
+						42	291	posiada	8						
+						53	291	posiada	8						
+						118	292	posiada	7						
+						128	292	posiada	8						
+						3	293	posiada	9						
+						24	293	posiada	9						
+						36	293	posiada	7						
+						70	293	posiada	9						
+						106	293	posiada	10						
+						112	293	sprzedal	8						
+						12	294	sprzedal	9						
+						39	294	sprzedal	7						
+						58	294	sprzedal	8						
+						63	294	sprzedal	7						
+						82	294	sprzedal	9						
+						93	294	sprzedal	8						
+						102	294	sprzedal	8						
+						118	294	chce kupic	7						
+						14	296	chce kupic	8						
+						50	296	chce kupic	8						
+						92	296	chce kupic	7						
+						111	296	posiada	10						
+						11	297	chce kupic	7						
+						18	297	sprzedal	8						
+						84	297	posiada	8						
+						44	298	chce kupic	7						
+						65	298	sprzedal	9						
+						103	298	posiada	7						
+						126	298	sprzedal	10						
+						30	299	sprzedal	9						
+						32	299	chce kupic	10						
+						43	299	chce kupic	8						
+						50	299	chce kupic	8						
+						74	299	chce kupic	8						
+						79	299	posiada	8						
+						100	299	chce kupic	8						
+						40	300	sprzedal	10						
+						52	300	posiada	8						
+						88	300	chce kupic	7						
+						25	301	sprzedal	7						
+						34	301	posiada	10						
+						35	301	posiada	10						
+						51	301	posiada	10						
+						67	301	posiada	10						
+						81	301	posiada	10						
+						108	301	posiada	8						
+						98	302	posiada	10						
+						21	303	posiada	8						
+						121	303	posiada	10						
+						19	304	posiada	10						
+						28	304	posiada	9						
+						114	304	sprzedal	9						
+						5	305	sprzedal	10						
+						27	305	sprzedal	7						
+						32	305	sprzedal	8						
+						35	305	sprzedal	9						
+						85	305	sprzedal	8						
+						1	306	sprzedal	7						
+						112	306	sprzedal	9						
+						3	307	chce kupic	9						
+						129	307	chce kupic	9						
+						130	307	chce kupic	7						
+						8	308	chce kupic	10						
+						21	308	posiada	8						
+						55	308	chce kupic	7						
+						68	309	sprzedal	9						
+						14	311	posiada	9						
+						74	311	chce kupic	7						
+						17	312	sprzedal	9						
+						53	312	posiada	7						
+						69	312	sprzedal	9						
+						71	312	sprzedal	8						
+						10	313	chce kupic	9						
+						29	313	chce kupic	9						
+						66	313	chce kupic	7						
+						127	313	chce kupic	9						
+						15	314	posiada	9						
+						56	314	chce kupic	9						
+						76	314	sprzedal	7						
+						101	314	posiada	7						
+						3	315	chce kupic	10						
+						16	315	sprzedal	8						
+						21	315	posiada	10						
+						85	315	posiada	10						
+						86	315	posiada	9						
+						111	315	posiada	7						
+						3	316	posiada	8						
+						26	316	posiada	9						
+						18	317	posiada	9						
+						19	317	posiada	8						
+						20	317	posiada	9						
+						24	317	posiada	8						
+						42	317	posiada	7						
+						45	317	sprzedal	10						
+						69	317	sprzedal	7						
+						70	317	sprzedal	10						
+						120	317	sprzedal	9						
+						4	318	sprzedal	9						
+						18	318	sprzedal	7						
+						24	318	sprzedal	8						
+						74	318	sprzedal	8						
+						119	318	chce kupic	10						
+						6	319	chce kupic	7						
+						23	319	chce kupic	9						
+						25	319	chce kupic	8						
+						82	319	posiada	9						
+						104	319	chce kupic	7						
+						125	320	sprzedal	10						
+						57	321	posiada	10						
+						88	321	chce kupic	8						
+						115	321	sprzedal	9						
+						21	322	posiada	8						
+						48	322	sprzedal	8						
+						51	322	sprzedal	7						
+						80	322	chce kupic	7						
+						100	322	chce kupic	10						
+						105	322	chce kupic	9						
+						24	323	chce kupic	7						
+						30	323	posiada	7						
+						39	323	chce kupic	7						
+						45	323	sprzedal	7						
+						101	323	posiada	10						
+						120	323	chce kupic	7						
+						19	324	sprzedal	10						
+						101	324	posiada	9						
+						111	324	posiada	9						
+						11	325	posiada	7						
+						32	325	posiada	9						
+						44	325	posiada	7						
+						103	325	posiada	8						
+						122	325	posiada	8						
+						18	326	posiada	9						
+						82	326	posiada	8						
+						37	327	posiada	8						
+						69	327	posiada	8						
+						65	328	sprzedal	9						
+						75	328	sprzedal	8						
+						11	329	sprzedal	7						
+						29	329	sprzedal	7						
+						57	329	sprzedal	10						
+						110	329	sprzedal	9						
+						114	329	sprzedal	10						
+						117	329	sprzedal	8						
+						19	330	chce kupic	8						
+						106	330	chce kupic	8						
+						121	330	chce kupic	7						
+						11	331	chce kupic	9						
+						29	331	posiada	9						
+						76	331	chce kupic	8						
+						87	331	sprzedal	10						
+						96	331	posiada	10						
+						30	332	chce kupic	10						
+						43	332	sprzedal	8						
+						51	332	posiada	9						
+						78	332	sprzedal	10						
+						63	333	sprzedal	10						
+						78	333	chce kupic	9						
+						95	333	chce kupic	10						
+						18	334	chce kupic	8						
+						36	334	chce kupic	8						
+						68	334	posiada	8						
+						73	334	chce kupic	10						
+						104	334	sprzedal	8						
+						23	335	posiada	8						
+						72	335	chce kupic	8						
+						121	335	sprzedal	9						
+						4	336	posiada	10						
+						31	336	posiada	9						
+						40	336	posiada	10						
+						48	336	posiada	10						
+						60	336	posiada	10						
+						99	336	posiada	9						
+						107	336	posiada	9						
+						1	337	posiada	8						
+						2	337	posiada	9						
+						102	337	posiada	7						
+						112	337	posiada	10						
+						121	337	sprzedal	9						
+						68	338	sprzedal	7						
+						79	338	sprzedal	8						
+						8	339	sprzedal	10						
+						10	339	sprzedal	7						
+						13	339	sprzedal	8						
+						26	339	sprzedal	10						
+						40	339	sprzedal	9						
+						55	339	chce kupic	9						
+						60	339	chce kupic	8						
+						67	339	chce kupic	9						
+						79	339	chce kupic	10						
+						99	339	posiada	7						
+						107	339	chce kupic	9						
+						124	339	sprzedal	4						
+						15	340	posiada	4						
+						82	340	chce kupic	8						
+						122	340	sprzedal	8						
+						17	341	posiada	8						
+						25	341	sprzedal	2						
+						40	341	sprzedal	9						
+						68	341	chce kupic	3						
+						81	341	chce kupic	10						
+						7	342	chce kupic	3						
+						30	342	chce kupic	2						
+						68	342	posiada	10						
+						86	342	chce kupic	9						
+						129	343	sprzedal	2						
+						6	344	posiada	5						
+						56	344	chce kupic	4						
+						84	344	sprzedal	1						
+						101	344	posiada	7						
+						32	345	posiada	2						
+						130	345	posiada	8						
+						4	346	posiada	10						
+						9	346	posiada	9						
+						19	346	posiada	10						
+						23	346	posiada	8						
+						33	346	posiada	8						
+						96	346	posiada	8						
+						115	346	posiada	8						
+						44	347	posiada	8						
+						108	347	sprzedal	8						
+						119	347	sprzedal	9						
+						121	347	sprzedal	9						
+						15	348	sprzedal	8						
+						35	348	sprzedal	10						
+						43	348	sprzedal	8						
+						107	348	sprzedal	8						
+						117	348	sprzedal	10						
+						126	348	chce kupic	10						
+						36	349	chce kupic	8						
+						38	349	chce kupic	9						
+						7	350	chce kupic	10						
+						31	350	posiada	8						
+						8	351	chce kupic	10						
+						24	351	sprzedal	8						
+						25	351	posiada	10						
+						79	351	chce kupic	8						
+						117	351	sprzedal	10						
+						131	351	posiada	10						
+						62	352	sprzedal	8						
+						71	352	sprzedal	9						
+						76	352	chce kupic	8						
+						80	352	chce kupic	10						
+						125	352	chce kupic	8						
+						55	353	chce kupic	8						
+						59	353	posiada	8						
+						109	353	chce kupic	8						
+						131	353	sprzedal	9						
+						60	354	posiada	8						
+						94	354	chce kupic	8						
+						16	355	sprzedal	10						
+						42	355	posiada	9						
+						54	355	posiada	8						
+						89	355	posiada	9						
+						32	356	posiada	9						
+						89	356	posiada	10						
+						97	356	posiada	10						
+						108	356	posiada	8						
+						5	357	posiada	9						
+						11	357	posiada	8						
+						7	358	posiada	8						
+						26	358	posiada	10						
+						97	358	sprzedal	10						
+						122	358	sprzedal	10						
+						69	359	sprzedal	10						
+						85	359	sprzedal	8						
+						122	359	sprzedal	9						
+						18	360	sprzedal	8						
+						24	360	sprzedal	10						
+						91	360	sprzedal	9						
+						93	360	chce kupic	10						
+						104	360	chce kupic	10						
+						19	361	chce kupic	9						
+						71	361	chce kupic	10						
+						127	361	posiada	10						
+						66	362	chce kupic	10						
+						71	362	sprzedal	10						
+						76	362	posiada	10						
+						126	362	chce kupic	9						
+						76	363	sprzedal	8						
+						84	363	posiada	10						
+						124	363	sprzedal	8						
+						2	364	sprzedal	9						
+						5	364	chce kupic	10						
+						61	364	chce kupic	10						
+						101	364	chce kupic	8						
+						114	364	chce kupic	10						
+						5	365	posiada	8						
+						74	365	chce kupic	8						
+						98	365	sprzedal	8						
+						112	365	posiada	8						
+						40	367	chce kupic	8						
+						57	367	sprzedal	8						
+						64	367	posiada	10						
+						71	367	posiada	10						
+						83	367	posiada	9						
+						122	367	posiada	9						
+						28	368	posiada	8						
+						104	368	posiada	8						
+						115	368	posiada	9						
+						9	369	posiada	8						
+						42	369	posiada	10						
+						97	369	posiada	8						
+						100	369	posiada	8						
+						115	369	sprzedal	9						
+						18	370	sprzedal	10						
+						32	370	sprzedal	8						
+						33	370	sprzedal	10						
+						43	370	sprzedal	8						
+						81	370	sprzedal	8						
+						15	371	sprzedal	8						
+						23	371	sprzedal	9						
+						25	371	chce kupic	8						
+						54	371	chce kupic	10						
+						84	371	chce kupic	8						
+						97	371	chce kupic	9						
+						111	371	posiada	10						
+						24	372	chce kupic	9						
+						36	372	sprzedal	8						
+						89	372	posiada	8						
+						122	372	chce kupic	8						
+						58	373	sprzedal	8						
+						113	373	posiada	8						
+						117	373	sprzedal	10						
+						51	374	sprzedal	8						
+						85	374	chce kupic	10						
+						97	374	chce kupic	9						
+						65	375	chce kupic	9						
+						105	375	chce kupic	10						
+						10	376	posiada	10						
+						63	376	chce kupic	8						
+						93	376	sprzedal	8						
+						98	376	posiada	10						
+						102	376	chce kupic	9						
+						48	377	sprzedal	8						
+						58	377	posiada	10						
+						92	377	posiada	8						
+						8	378	posiada	8						
+						18	378	posiada	8						
+						34	379	posiada	10						
+						51	379	posiada	8						
+						58	379	posiada	8						
+						86	379	posiada	8						
+						90	379	posiada	8						
+						115	379	posiada	9						
+						121	379	posiada	8						
+						124	379	sprzedal	10						
+						21	380	sprzedal	10						
+						62	380	sprzedal	10						
+						97	380	sprzedal	8						
+						131	380	sprzedal	10						
+						26	381	sprzedal	8						
+						92	381	sprzedal	8						
+						128	381	sprzedal	8						
+						20	382	chce kupic	10						
+						60	382	chce kupic	8						
+						126	382	chce kupic	10						
+						51	383	chce kupic	10						
+						82	383	posiada	9						
+						110	383	chce kupic	9						
+						121	383	sprzedal	10						
+						38	384	posiada	10						
+						68	384	chce kupic	8						
+						129	384	sprzedal	8						
+						16	385	posiada	9						
+						34	385	sprzedal	10						
+						43	385	sprzedal	10						
+						53	385	chce kupic	8						
+						55	385	chce kupic	8						
+						62	385	chce kupic	9						
+						69	385	chce kupic	8						
+						82	385	posiada	8						
+						115	385	chce kupic	8						
+						122	385	sprzedal	10						
+						4	386	posiada	10						
+						15	386	chce kupic	9						
+						21	386	sprzedal	10						
+						23	386	posiada	8						
+						47	386	posiada	8						
+						73	386	posiada	9						
+						12	387	posiada	10						
+						36	387	posiada	10						
+						89	387	posiada	10						
+						63	388	posiada	9						
+						69	388	posiada	9						
+						100	388	posiada	10						
+						103	388	posiada	10						
+						20	389	posiada	9						
+						60	389	sprzedal	10						
+						65	389	sprzedal	9						
+						91	389	sprzedal	8						
+						122	389	sprzedal	9						
+						6	390	sprzedal	8						
+						7	390	sprzedal	10						
+						8	390	sprzedal	8						
+						58	390	sprzedal	10						
+						32	391	chce kupic	9						
+						44	391	chce kupic	10						
+						58	391	chce kupic	8						
+						63	391	chce kupic	9						
+						121	391	posiada	9						
+						123	391	chce kupic	9						
+						27	392	sprzedal	9						
+						45	392	posiada	9						
+						77	392	chce kupic	10						
+						99	392	sprzedal	10						
+						125	392	posiada	9						
+						30	393	sprzedal	9						
+						38	393	sprzedal	10						
+						90	393	chce kupic	8						
+						99	393	chce kupic	8						
+						110	393	chce kupic	9						
+						1	394	chce kupic	8						
+						2	394	posiada	9						
+						24	394	chce kupic	10						
+						35	394	sprzedal	9						
+						83	394	posiada	10						
+						103	394	chce kupic	8						
+						119	394	sprzedal	9						
+						14	395	posiada	9						
+						26	395	posiada	9						
+						34	395	posiada	10						
+						57	395	posiada	9						
+						62	395	posiada	8						
+						102	395	posiada	9						
+						38	396	posiada	8						
+						66	396	posiada	8						
+						122	396	posiada	8						
+						9	397	posiada	10						
+						38	397	posiada	9						
+						107	397	sprzedal	9						
+						13	398	sprzedal	8						
+						27	398	sprzedal	9						
+						29	398	sprzedal	9						
+						33	398	sprzedal	9						
+						62	398	sprzedal	9						
+						83	398	sprzedal	8						
+						94	398	sprzedal	9						
+						8	399	chce kupic	8						
+						69	399	chce kupic	8						
+						117	399	chce kupic	10						
+						3	400	chce kupic	8						
+						13	400	posiada	9						
+						76	400	chce kupic	8						
+						109	400	sprzedal	8						
+						131	400	posiada	9						
+						27	401	chce kupic	9						
+						52	401	sprzedal	8						
+						108	401	posiada	9						
+						69	402	sprzedal	9						
+						83	402	sprzedal	9						
+						100	402	chce kupic	10						
+						120	402	chce kupic	8						
+						14	403	chce kupic	9						
+						114	403	chce kupic	10						
+						116	403	posiada	9						
+						43	404	chce kupic	10						
+						60	404	sprzedal	10						
+						123	404	posiada	9						
+						7	405	chce kupic	10						
+						81	405	sprzedal	10						
+						57	406	posiada	10						
+						12	407	posiada	10						
+						47	407	posiada	9						
+						71	407	posiada	9						
+						99	407	posiada	8						
+						106	407	posiada	9						
+						73	408	posiada	8						
+						29	409	posiada	9						
+						30	409	posiada	9						
+						45	409	posiada	9						
+						58	409	posiada	10						
+						110	409	sprzedal	9						
+						122	409	sprzedal	9						
+						53	410	sprzedal	9						
+						63	410	sprzedal	8						
+						68	410	sprzedal	10						
+						82	410	sprzedal	9						
+						55	411	sprzedal	8						
+						35	412	sprzedal	9						
+						55	412	chce kupic	10						
+						76	412	chce kupic	10						
+						56	413	chce kupic	9						
+						107	413	chce kupic	10						
+						112	413	posiada	9						
+						120	413	chce kupic	9						
+						26	414	sprzedal	10						
+						47	414	posiada	10						
+						55	414	chce kupic	8						
+						40	415	sprzedal	8						
+						43	415	posiada	8						
+						61	415	sprzedal	10						
+						40	416	sprzedal	9						
+						70	416	chce kupic	10						
+						87	416	chce kupic	10						
+						88	416	chce kupic	8						
+						116	416	chce kupic	10						
+						44	417	posiada	8						
+						62	417	chce kupic	8						
+						75	417	sprzedal	9						
+						117	417	posiada	10						
+						32	418	chce kupic	10						
+						55	418	sprzedal	8						
+						78	419	posiada	8						
+						119	419	posiada	10						
+						131	419	posiada	8						
+						21	420	posiada	9						
+						66	420	posiada	8						
+						71	420	posiada	8						
+						88	420	posiada	9						
+						123	420	posiada	10						
+						2	421	posiada	10						
+						40	421	posiada	10						
+						84	421	posiada	8						
+						87	421	sprzedal	10						
+						106	421	sprzedal	9						
+						120	421	sprzedal	10						
+						8	422	sprzedal	10						
+						58	422	sprzedal	9						
+						74	422	sprzedal	9						
+						114	422	sprzedal	8						
+						16	423	sprzedal	8						
+						20	423	chce kupic	9						
+						26	423	chce kupic	8						
+						47	423	chce kupic	10						
+						59	423	chce kupic	8						
+						85	423	posiada	8						
+						114	423	chce kupic	10						
+						11	424	sprzedal	9						
+						114	425	posiada	9						
+						129	425	chce kupic	8						
+						18	426	sprzedal	8						
+						24	426	posiada	9						
+						85	426	sprzedal	8						
+						115	426	sprzedal	8						
+						128	426	chce kupic	9						
+						103	427	chce kupic	9						
+						106	427	chce kupic	8						
+						26	428	chce kupic	9						
+						51	428	posiada	10						
+						91	428	chce kupic	8						
+						124	428	sprzedal	9						
+						128	428	posiada	10						
+						12	429	chce kupic	9						
+						75	429	sprzedal	8						
+						82	429	posiada	8						
+						14	430	posiada	9						
+						19	430	posiada	9						
+						76	430	posiada	9						
+						106	430	posiada	10						
+						16	431	posiada	8						
+						42	431	posiada	9						
+						60	431	posiada	9						
+						63	431	posiada	10						
+						101	431	posiada	8						
+						123	431	posiada	8						
+						126	431	sprzedal	8						
+						8	432	sprzedal	9						
+						72	432	sprzedal	8						
+						127	432	sprzedal	9						
+						37	433	sprzedal	8						
+						57	433	sprzedal	9						
+						93	433	sprzedal	8						
+						48	434	sprzedal	9						
+						92	434	chce kupic	8						
+						2	435	chce kupic	8						
+						15	435	chce kupic	8						
+						121	436	chce kupic	10						
+						124	436	posiada	10						
+						15	437	chce kupic	10						
+						99	437	sprzedal	10						
+						125	437	posiada	10						
+						25	438	chce kupic	8						
+						30	438	sprzedal	8						
+						34	438	posiada	9						
+						82	438	sprzedal	10						
+						5	439	sprzedal	9						
+						37	439	chce kupic	9						
+						70	439	chce kupic	8						
+						22	440	chce kupic	10						
+						25	440	chce kupic	8						
+						68	440	posiada	10						
+						82	440	chce kupic	8						
+						17	441	sprzedal	10						
+						23	441	posiada	8						
+						55	441	chce kupic	8						
+						101	441	sprzedal	10						
+						114	441	posiada	8						
+						32	442	posiada	8						
+						34	442	posiada	8						
+						91	442	posiada	8						
+						128	442	posiada	9						
+						30	443	posiada	9						
+						37	443	posiada	8						
+						83	443	posiada	10						
+						103	443	posiada	8						
+						64	444	posiada	9						
+						65	444	posiada	10						
+						7	445	sprzedal	8						
+						43	445	sprzedal	9						
+						80	445	sprzedal	10						
+						104	445	sprzedal	10						
+						52	446	sprzedal	9						
+						106	446	sprzedal	9						
+						109	446	sprzedal	9						
+						128	446	sprzedal	9						
+						72	447	chce kupic	10						
+						80	447	chce kupic	9						
+						34	448	chce kupic	10						
+						82	448	chce kupic	9						
+						127	448	posiada	9						
+						12	449	chce kupic	8						
+						54	449	sprzedal	10						
+						111	449	posiada	8						
+						18	450	chce kupic	10						
+						21	450	sprzedal	9						
+						61	450	posiada	8						
+						6	451	sprzedal	8						
+						43	451	sprzedal	9						
+						58	451	chce kupic	10						
+						4	452	chce kupic	10						
+						5	452	chce kupic	10						
+						28	452	chce kupic	10						
+						34	452	posiada	9						
+						87	452	chce kupic	9						
+						101	452	sprzedal	9						
+						102	452	posiada	10						
+						4	453	chce kupic	8						
+						17	453	sprzedal	8						
+						59	453	posiada	9						
+						118	453	posiada	8						
+						131	453	posiada	10						
+						33	454	posiada	9						
+						34	454	posiada	8						
+						70	454	posiada	8						
+						97	454	posiada	10						
+						105	454	posiada	9						
+						15	455	posiada	10						
+						30	455	posiada	10						
+						36	455	posiada	9						
+						48	455	sprzedal	8						
+						73	455	sprzedal	9						
+						103	455	sprzedal	8						
+						121	455	sprzedal	9						
+						130	455	sprzedal	9						
+						8	456	sprzedal	8						
+						53	456	sprzedal	9						
+						61	456	sprzedal	8						
+						113	456	chce kupic	8						
+						116	456	chce kupic	9						
+						125	456	chce kupic	9						
+						126	456	chce kupic	9						
+						47	457	posiada	9						
+						94	457	chce kupic	9						
+						87	458	sprzedal	8						
+						92	458	posiada	8						
+						110	458	chce kupic	8						
+						122	458	sprzedal	9						
+						124	458	posiada	10						
+						2	459	sprzedal	8						
+						26	459	sprzedal	9						
+						28	459	chce kupic	9						
+						8	460	chce kupic	10						
+						12	460	chce kupic	9						
+						76	460	chce kupic	10						
+						45	461	posiada	8						
+						114	461	chce kupic	9						
+						5	462	sprzedal	9						
+						31	463	posiada	10						
+						50	463	chce kupic	10						
+						93	464	sprzedal	10						
+						10	466	posiada	10						
+						44	466	posiada	10						
+						99	466	posiada	10						
+						103	466	posiada	10						
+						111	466	posiada	10						
+						114	466	posiada	9						
+						87	467	posiada	9						
+						96	467	posiada	8						
+						125	467	posiada	8						
+						5	468	posiada	9						
+						11	468	posiada	9						
+						41	468	sprzedal	10						
+						99	468	sprzedal	9						
+						1	469	sprzedal	8						
+						67	469	sprzedal	10						
+						81	469	sprzedal	8						
+						114	469	sprzedal	8						
+						124	469	sprzedal	9						
+						6	470	sprzedal	8						
+						27	470	chce kupic	8						
+						63	470	chce kupic	10						
+						64	470	chce kupic	8						
+						130	470	chce kupic	9						
+						44	471	posiada	10						
+						84	471	chce kupic	8						
+						96	471	sprzedal	9						
+						100	471	posiada	8						
+						112	471	chce kupic	9						
+						43	472	sprzedal	9						
+						55	472	posiada	10						
+						66	472	sprzedal	9						
+						109	472	sprzedal	9						
+						19	473	chce kupic	10						
+						40	473	chce kupic	9						
+						42	473	chce kupic	9						
+						28	474	chce kupic	10						
+						79	474	posiada	9						
+						28	475	chce kupic	9						
+						59	475	sprzedal	10						
+						77	475	posiada	9						
+						91	475	chce kupic	9						
+						48	476	sprzedal	9						
+						80	476	posiada	9						
+						95	476	posiada	9						
+						113	476	posiada	8						
+						95	477	posiada	10						
+						101	477	posiada	9						
+						103	477	posiada	9						
+						110	477	posiada	8						
+						38	478	posiada	9						
+						79	478	posiada	9						
+						100	478	posiada	10						
+						101	478	posiada	10						
+						25	479	sprzedal	10						
+						48	479	sprzedal	10						
+						55	479	sprzedal	10						
+						99	479	sprzedal	10						
+						12	480	sprzedal	10						
+						59	480	sprzedal	9						
+						90	480	sprzedal	10						
+						95	480	sprzedal	9						
+						106	480	chce kupic	8						
+						114	480	chce kupic	8						
+						125	480	chce kupic	8						
+						2	481	chce kupic	8						
+						10	481	posiada	9						
+						19	481	chce kupic	9						
+						23	481	sprzedal	10						
+						53	481	posiada	9						
+						8	482	chce kupic	9						
+						114	482	sprzedal	8						
+						120	482	posiada	10						
+						124	482	sprzedal	10						
+						131	482	sprzedal	8						
+						6	483	chce kupic	10						
+						10	483	chce kupic	9						
+						65	483	chce kupic	9						
+						26	484	chce kupic	10						
+						9	485	posiada	9						
+						58	485	chce kupic	8						
+						72	485	sprzedal	8						
+						117	485	posiada	9						
+						4	486	chce kupic	8						
+						33	486	sprzedal	10						
+						45	486	posiada	9						
+						97	486	posiada	9						
+						44	487	posiada	8						
+						68	487	posiada	10						
+						24	488	posiada	9						
+						6	489	posiada	9						
+						7	489	posiada	9						
+						25	489	posiada	8						
+						31	489	posiada	10						
+						48	489	posiada	9						
+						95	489	posiada	9						
+						98	489	sprzedal	8						
+						104	489	sprzedal	10						
+						112	489	sprzedal	9						
+						3	490	sprzedal	8						
+						47	490	sprzedal	10						
+						127	490	sprzedal	10						
+						24	491	sprzedal	8						
+						52	491	sprzedal	8						
+						67	491	chce kupic	9						
+						110	491	chce kupic	9						
+						39	492	chce kupic	8						
+						73	492	chce kupic	9						
+						113	492	posiada	8						
+						10	493	chce kupic	9						
+						25	493	sprzedal	8						
+						38	493	posiada	9						
+						21	494	chce kupic	9						
+						36	494	sprzedal	9						
+						97	494	posiada	9						
+						130	494	sprzedal	10						
+						5	495	sprzedal	9						
+						38	495	chce kupic	10						
+						47	495	chce kupic	10						
+						97	495	chce kupic	9						
+						14	496	chce kupic	8						
+						69	496	posiada	8						
+						87	496	chce kupic	8						
+						9	497	sprzedal	9						
+						13	497	posiada	10						
+						18	497	chce kupic	8						
+						38	497	sprzedal	9						
+						50	497	posiada	9						
+						21	498	posiada	8						
+						32	498	posiada	10						
+						39	498	posiada	10						
+						67	498	posiada	9						
+						91	498	posiada	10						
+						80	499	posiada	10						
+						82	499	posiada	8						
+						9	500	posiada	9						
+						124	500	posiada	10						
+						5	501	posiada	10						
+						31	501	sprzedal	9						
+						115	501	sprzedal	9						
+						17	502	sprzedal	8						
+						58	502	sprzedal	10						
+						123	502	sprzedal	8						
+						33	503	sprzedal	10						
+						74	503	sprzedal	10						
+						128	503	sprzedal	10						
+						32	504	chce kupic	9						
+						92	504	chce kupic	8						
+						101	504	chce kupic	10						
+						47	505	chce kupic	10						
+						61	505	posiada	9						
+						67	505	chce kupic	8						
+						112	505	sprzedal	10						
+						131	505	posiada	9						
+						4	506	chce kupic	10						
+						15	506	sprzedal	8						
+						28	506	posiada	9						
+						50	506	sprzedal	8						
+						55	506	sprzedal	10						
+						81	506	chce kupic	8						
+						18	507	chce kupic	10						
+						82	507	chce kupic	9						
+						131	507	chce kupic	10						
+						49	508	posiada	8						
+						98	508	chce kupic	9						
+						119	508	sprzedal	9						
+						4	509	posiada	9						
+						13	509	chce kupic	10						
+						23	509	sprzedal	8						
+						48	509	posiada	10						
+						97	509	posiada	10						
+						119	510	posiada	8						
+						126	510	posiada	9						
+						17	511	posiada	9						
+						64	511	posiada	9						
+						68	511	posiada	8						
+						109	511	posiada	10						
+						117	511	posiada	8						
+						119	511	posiada	8						
+						3	512	posiada	9						
+						126	512	sprzedal	8						
+						18	513	sprzedal	8						
+						30	513	sprzedal	10						
+						46	513	sprzedal	8						
+						63	513	sprzedal	8						
+						48	514	sprzedal	9						
+						90	514	sprzedal	9						
+						112	514	sprzedal	8						
+						10	515	chce kupic	8						
+						68	515	chce kupic	9						
+						131	515	chce kupic	8						
+						36	516	chce kupic	8						
+						51	516	posiada	10						
+						112	516	chce kupic	8						
+						60	517	sprzedal	8						
+						100	517	posiada	8						
+						127	517	chce kupic	9						
+						49	519	sprzedal	8						
+						77	519	posiada	10						
+						90	519	sprzedal	10						
+						130	519	sprzedal	9						
+						43	520	chce kupic	10						
+						72	520	chce kupic	10						
+						77	520	chce kupic	8						
+						130	520	chce kupic	9						
+						10	521	posiada	9						
+						44	521	chce kupic	8						
+						55	521	sprzedal	9						
+						75	521	posiada	8						
+						89	521	chce kupic	9						
+						3	522	sprzedal	9						
+						9	522	posiada	8						
+						20	522	posiada	8						
+						35	522	posiada	10						
+						38	522	posiada	9						
+						40	522	posiada	8						
+						51	522	posiada	10						
+						56	523	posiada	8						
+						58	523	posiada	9						
+						93	523	posiada	9						
+						105	523	posiada	9						
+						130	523	posiada	8						
+						1	524	sprzedal	9						
+						5	524	sprzedal	8						
+						83	524	sprzedal	9						
+						27	525	sprzedal	9						
+						127	525	sprzedal	8						
+						23	526	sprzedal	10						
+						36	526	sprzedal	10						
+						14	527	sprzedal	8						
+						19	527	chce kupic	8						
+						20	527	chce kupic	9						
+						64	527	chce kupic	10						
+						58	528	chce kupic	9						
+						64	528	posiada	9						
+						78	528	chce kupic	9						
+						21	529	sprzedal	9						
+						44	529	posiada	9						
+						45	529	chce kupic	9						
+						64	529	sprzedal	9						
+						73	529	posiada	8						
+						95	529	sprzedal	8						
+						36	530	sprzedal	10						
+						67	530	chce kupic	8						
+						100	530	chce kupic	9						
+						126	530	chce kupic	10						
+						41	531	chce kupic	9						
+						81	531	posiada	8						
+						6	532	chce kupic	9						
+						14	532	sprzedal	8						
+						70	532	posiada	8						
+						73	532	chce kupic	9						
+						82	532	sprzedal	9						
+						99	532	posiada	8						
+						33	533	posiada	10						
+						76	533	posiada	9						
+						28	534	posiada	10						
+						95	534	posiada	8						
+						123	534	posiada	10						
+						38	535	posiada	8						
+						102	535	posiada	8						
+						24	536	posiada	10						
+						41	536	posiada	9						
+						59	536	posiada	8						
+						69	536	sprzedal	10						
+						70	536	sprzedal	8						
+						86	536	sprzedal	10						
+						109	536	sprzedal	10						
+						121	536	sprzedal	10						
+						7	537	sprzedal	9						
+						20	537	sprzedal	9						
+						49	537	sprzedal	10						
+						88	537	chce kupic	10						
+						127	537	chce kupic	8						
+						12	538	chce kupic	10						
+						22	538	chce kupic	10						
+						41	538	posiada	9						
+						120	538	chce kupic	8						
+						36	539	sprzedal	9						
+						115	539	posiada	10						
+						10	540	chce kupic	10						
+						50	540	sprzedal	10						
+						98	540	posiada	8						
+						114	540	sprzedal	9						
+						85	541	sprzedal	8						
+						98	541	chce kupic	10						
+						115	541	chce kupic	9						
+						122	541	chce kupic	10						
+						4	542	chce kupic	9						
+						18	542	posiada	8						
+						36	542	chce kupic	9						
+						53	542	sprzedal	10						
+						117	542	posiada	9						
+						2	543	chce kupic	8						
+						9	543	sprzedal	8						
+						25	543	posiada	10						
+						27	543	posiada	9						
+						2	544	posiada	10						
+						8	544	posiada	9						
+						88	544	posiada	9						
+						89	544	posiada	8						
+						92	544	posiada	9						
+						4	545	posiada	8						
+						12	545	posiada	8						
+						59	545	posiada	9						
+						75	545	posiada	9						
+						1	546	sprzedal	10						
+						13	547	sprzedal	10						
+						86	547	sprzedal	8						
+						107	547	sprzedal	9						
+						127	547	sprzedal	10						
+						55	548	sprzedal	9						
+						73	548	sprzedal	8						
+						130	548	sprzedal	10						
+						46	549	chce kupic	10						
+						119	549	chce kupic	10						
+						121	549	chce kupic	8						
+						1	550	chce kupic	9						
+						110	550	posiada	9						
+						122	550	chce kupic	10						
+						124	550	sprzedal	9						
+						109	551	posiada	9						
+						127	551	chce kupic	10						
+						44	552	sprzedal	10						
+						58	552	posiada	9						
+						77	552	sprzedal	8						
+						82	552	sprzedal	9						
+						34	553	chce kupic	8						
+						35	553	chce kupic	8						
+						76	553	chce kupic	9						
+						80	553	chce kupic	9						
+						11	554	posiada	9						
+						12	554	chce kupic	10						
+						31	554	sprzedal	8						
+						79	554	posiada	9						
+						99	554	chce kupic	9						
+						108	554	sprzedal	9						
+						123	554	posiada	9						
+						131	554	posiada	10						
+						1	555	posiada	9						
+						22	555	posiada	8						
+						60	555	posiada	8						
+						112	555	posiada	8						
+						8	556	posiada	9						
+						20	556	posiada	8						
+						42	556	posiada	8						
+						55	556	posiada	8						
+						60	556	posiada	10						
+						108	556	sprzedal	10						
+						15	557	sprzedal	10						
+						27	557	sprzedal	9						
+						89	557	sprzedal	8						
+						96	557	sprzedal	9						
+						105	557	sprzedal	10						
+						32	558	sprzedal	10						
+						35	558	sprzedal	8						
+						58	558	chce kupic	10						
+						106	558	chce kupic	9						
+						107	558	chce kupic	9						
+						122	558	chce kupic	9						
+						26	559	posiada	10						
+						52	559	chce kupic	8						
+						58	559	sprzedal	9						
+						89	559	posiada	10						
+						61	560	chce kupic	10						
+						77	560	sprzedal	8						
+						57	561	posiada	8						
+						14	562	sprzedal	10						
+						18	562	sprzedal	8						
+						94	562	chce kupic	9						
+						32	563	chce kupic	10						
+						33	563	chce kupic	8						
+						11	564	chce kupic	8						
+						10	565	posiada	10						
+						32	565	chce kupic	8						
+						85	565	sprzedal	10						
+						104	565	posiada	10						
+						48	566	chce kupic	9						
+						55	566	sprzedal	8						
+						79	566	posiada	8						
+						80	566	posiada	9						
+						114	566	posiada	10						
+						117	566	posiada	8						
+						24	567	posiada	10						
+						77	567	posiada	8						
+						117	567	posiada	10						
+						118	567	posiada	8						
+						119	567	posiada	9						
+						125	567	posiada	8						
+						130	567	posiada	9						
+						19	568	sprzedal	2						
+						36	568	sprzedal	1						
+						60	568	sprzedal	8						
+						79	568	sprzedal	3						
+						90	568	sprzedal	9						
+						102	568	sprzedal	3						
+						106	568	sprzedal	7						
+						123	568	sprzedal	9						
+						126	568	chce kupic	7						
+						48	569	chce kupic	8						
+						59	569	chce kupic	6						
+						80	569	chce kupic	5						
+						88	569	posiada	1						
+						117	569	chce kupic	7						
+						38	570	sprzedal	8						
+						101	570	posiada	8						
+						107	571	chce kupic	10						
+						50	572	sprzedal	8						
+						86	572	posiada	6						
+						4	573	sprzedal	7						
+						38	573	sprzedal	6						
+						47	573	chce kupic	8						
+						52	573	chce kupic	8						
+						69	573	chce kupic	9						
+						87	573	chce kupic	7						
+						96	573	posiada	6						
+						110	573	chce kupic	8						
+						15	574	sprzedal	9						
+						19	574	posiada	9						
+						57	574	chce kupic	10						
+						81	574	sprzedal	7						
+						86	574	posiada	8						
+						93	574	posiada	8						
+						94	574	posiada	10						
+						125	574	posiada	8						
+						50	575	posiada	9						
+						66	575	posiada	10						
+						87	575	posiada	9						
+						98	575	posiada	10						
+						117	575	posiada	9						
+						77	576	posiada	9						
+						101	576	posiada	10						
+						116	576	sprzedal	9						
+						10	577	sprzedal	9						
+						58	577	sprzedal	7						
+						69	577	sprzedal	8						
+						72	577	sprzedal	10						
+						88	577	sprzedal	9						
+						97	577	sprzedal	10						
+						120	577	sprzedal	9						
+						7	578	chce kupic	8						
+						52	578	chce kupic	7						
+						56	578	chce kupic	7						
+						104	578	chce kupic	6						
+						84	579	posiada	7						
+						110	579	chce kupic	8						
+						16	580	sprzedal	6						
+						116	580	posiada	10						
+						124	580	chce kupic	8						
+						41	581	sprzedal	9						
+						48	581	posiada	6						
+						86	581	sprzedal	6						
+						112	581	sprzedal	6						
+						18	582	chce kupic	7						
+						38	582	chce kupic	9						
+						56	582	chce kupic	6						
+						12	583	chce kupic	7						
+						67	583	posiada	6						
+						81	584	chce kupic	7						
+						63	585	sprzedal	10						
+						129	585	posiada	8						
+						31	586	chce kupic	8						
+						13	587	sprzedal	9						
+						36	587	posiada	6						
+						42	587	posiada	7						
+						56	587	posiada	8						
+						58	587	posiada	8						
+						98	587	posiada	9						
+						114	587	posiada	9						
+						117	587	posiada	8						
+						16	588	posiada	8						
+						102	588	posiada	8						
+						131	588	posiada	8						
+						28	589	posiada	8						
+						32	589	sprzedal	10						
+						50	589	sprzedal	10						
+						8	590	sprzedal	10						
+						14	590	sprzedal	7						
+						58	590	sprzedal	6						
+						101	590	sprzedal	6						
+						84	591	sprzedal	7						
+						103	591	sprzedal	8						
+						125	591	chce kupic	8						
+						9	592	chce kupic	7						
+						116	592	chce kupic	6						
+						128	592	chce kupic	6						
+						17	593	posiada	7						
+						28	593	chce kupic	9						
+						88	593	sprzedal	10						
+						45	594	posiada	9						
+						72	594	chce kupic	9						
+						97	594	sprzedal	7						
+						36	595	posiada	6						
+						41	595	sprzedal	8						
+						106	595	sprzedal	10						
+						87	596	chce kupic	9						
+						120	596	chce kupic	7						
+						1	597	chce kupic	9						
+						3	597	chce kupic	6						
+						16	597	posiada	7						
+						106	597	chce kupic	10						
+						122	597	sprzedal	7						
+						61	598	posiada	9						
+						110	598	chce kupic	7						
+						91	599	sprzedal	9						
+						24	600	posiada	6						
+						72	600	posiada	7						
+						89	600	posiada	9						
+						109	600	posiada	6						
+						72	601	posiada	6						
+						78	601	posiada	8						
+						100	601	posiada	8						
+						125	601	posiada	10						
+						33	602	posiada	7						
+						59	602	posiada	9						
+						65	602	posiada	8						
+						115	602	sprzedal	10						
+						116	602	sprzedal	7						
+						48	603	sprzedal	6						
+						58	603	sprzedal	9						
+						71	603	sprzedal	9						
+						15	604	sprzedal	7						
+						46	604	sprzedal	6						
+						68	604	sprzedal	6						
+						79	604	chce kupic	8						
+						5	605	chce kupic	6						
+						47	605	chce kupic	7						
+						54	605	chce kupic	7						
+						22	606	posiada	7						
+						45	606	chce kupic	7						
+						65	606	sprzedal	7						
+						78	606	posiada	10						
+						81	606	chce kupic	9						
+						128	606	sprzedal	10						
+						71	607	posiada	7						
+						39	608	sprzedal	10						
+						56	608	sprzedal	7						
+						90	608	chce kupic	6						
+						92	608	chce kupic	6						
+						34	609	chce kupic	7						
+						108	609	chce kupic	10						
+						102	610	posiada	7						
+						7	611	chce kupic	6						
+						37	611	sprzedal	9						
+						58	611	posiada	9						
+						92	611	chce kupic	7						
+						14	612	sprzedal	9						
+						35	612	posiada	8						
+						50	612	posiada	9						
+						3	613	posiada	6						
+						43	613	posiada	6						
+						130	613	posiada	6						
+						75	614	posiada	7						
+						107	614	posiada	7						
+						4	615	posiada	10						
+						53	615	posiada	9						
+						96	615	posiada	7						
+						105	615	posiada	10						
+						111	615	sprzedal	10						
+						117	615	sprzedal	8						
+						39	616	sprzedal	9						
+						15	617	sprzedal	9						
+						42	617	sprzedal	10						
+						57	617	sprzedal	6						
+						63	617	sprzedal	9						
+						71	617	sprzedal	10						
+						80	617	chce kupic	6						
+						116	617	chce kupic	6						
+						128	618	chce kupic	8						
+						20	619	chce kupic	10						
+						28	619	posiada	10						
+						81	619	chce kupic	9						
+						101	619	sprzedal	6						
+						110	619	posiada	6						
+						21	620	chce kupic	7						
+						88	620	sprzedal	9						
+						123	620	posiada	9						
+						42	621	sprzedal	8						
+						58	621	sprzedal	7						
+						66	621	chce kupic	6						
+						68	621	chce kupic	6						
+						27	622	chce kupic	6						
+						77	622	chce kupic	7						
+						112	622	posiada	7						
+						118	622	chce kupic	8						
+						5	623	sprzedal	7						
+						11	623	posiada	9						
+						33	623	chce kupic	8						
+						46	623	sprzedal	6						
+						109	623	posiada	9						
+						73	624	posiada	8						
+						105	624	posiada	6						
+						119	624	posiada	6						
+						121	624	posiada	6						
+						49	625	posiada	6						
+						127	625	posiada	8						
+						7	626	posiada	6						
+						24	626	posiada	10						
+						55	626	posiada	10						
+						58	626	posiada	9						
+						106	626	sprzedal	10						
+						57	628	sprzedal	8						
+						71	628	sprzedal	6						
+						98	628	sprzedal	8						
+						121	628	sprzedal	6						
+						123	628	sprzedal	10						
+						37	629	sprzedal	10						
+						51	629	sprzedal	8						
+						56	629	chce kupic	6						
+						71	629	chce kupic	9						
+						97	629	chce kupic	9						
+						125	629	chce kupic	9						
+						131	629	posiada	7						
+						76	630	chce kupic	7						
+						89	630	sprzedal	10						
+						97	630	posiada	8						
+						108	630	chce kupic	7						
+						123	630	sprzedal	6						
+						61	631	posiada	7						
+						65	631	sprzedal	8						
+						32	632	sprzedal	7						
+						33	632	chce kupic	7						
+						102	632	chce kupic	6						
+						108	632	chce kupic	7						
+						22	633	chce kupic	7						
+						46	633	posiada	6						
+						107	633	chce kupic	9						
+						120	633	sprzedal	8						
+						70	634	posiada	7						
+						126	634	chce kupic	6						
+						79	635	sprzedal	9						
+						91	635	posiada	9						
+						117	635	posiada	7						
+						120	635	posiada	8						
+						129	635	posiada	9						
+						8	636	posiada	8						
+						47	636	posiada	8						
+						65	636	posiada	6						
+						101	636	posiada	10						
+						20	637	posiada	7						
+						77	637	posiada	6						
+						81	637	posiada	9						
+						125	637	sprzedal	10						
+						22	638	sprzedal	9						
+						76	639	sprzedal	10						
+						68	640	sprzedal	8						
+						86	640	sprzedal	10						
+						101	640	sprzedal	7						
+						36	641	sprzedal	9						
+						42	641	sprzedal	9						
+						60	641	chce kupic	10						
+						83	641	chce kupic	6						
+						16	642	chce kupic	8						
+						67	642	chce kupic	9						
+						78	642	posiada	8						
+						8	643	chce kupic	8						
+						47	643	sprzedal	6						
+						4	644	posiada	6						
+						15	644	chce kupic	7						
+						30	644	sprzedal	7						
+						78	644	posiada	6						
+						95	644	sprzedal	7						
+						119	644	sprzedal	9						
+						3	645	chce kupic	7						
+						13	645	chce kupic	8						
+						23	645	chce kupic	10						
+						24	645	chce kupic	9						
+						98	645	posiada	7						
+						101	645	chce kupic	8						
+						34	646	sprzedal	7						
+						57	646	posiada	8						
+						71	646	chce kupic	10						
+						44	647	sprzedal	6						
+						131	647	posiada	7						
+						53	648	posiada	9						
+						59	648	posiada	6						
+						74	648	posiada	10						
+						99	648	posiada	9						
+						122	648	posiada	7						
+						42	649	posiada	10						
+						47	649	posiada	9						
+						122	649	posiada	8						
+						127	649	posiada	9						
+						31	650	posiada	8						
+						40	650	sprzedal	9						
+						65	650	sprzedal	7						
+						82	650	sprzedal	8						
+						93	650	sprzedal	9						
+						94	650	sprzedal	8						
+						110	650	sprzedal	8						
+						131	650	sprzedal	10						
+						31	651	sprzedal	8						
+						33	651	chce kupic	9						
+						7	652	chce kupic	8						
+						20	652	chce kupic	7						
+						36	652	chce kupic	9						
+						101	652	posiada	6						
+						14	653	chce kupic	8						
+						41	653	sprzedal	10						
+						48	653	posiada	6						
+						82	653	chce kupic	10						
+						98	653	sprzedal	9						
+						18	654	posiada	8						
+						50	654	sprzedal	10						
+						128	654	sprzedal	8						
+						51	655	chce kupic	10						
+						119	655	chce kupic	6						
+						13	656	chce kupic	8						
+						23	656	chce kupic	6						
+						109	656	posiada	6						
+						111	656	chce kupic	9						
+						4	657	sprzedal	9						
+						84	657	posiada	6						
+						96	657	chce kupic	6						
+						70	658	sprzedal	9						
+						12	659	posiada	8						
+						16	659	posiada	6						
+						74	659	posiada	10						
+						131	659	posiada	8						
+						23	660	posiada	8						
+						106	660	posiada	10						
+						115	660	posiada	8						
+						94	661	posiada	8						
+						106	661	posiada	9						
+						113	661	posiada	8						
+						7	662	posiada	7						
+						22	662	sprzedal	10						
+						27	662	sprzedal	8						
+						46	662	sprzedal	6						
+						74	662	sprzedal	7						
+						77	662	sprzedal	9						
+						87	662	sprzedal	7						
+						114	662	sprzedal	7						
+						38	663	sprzedal	9						
+						57	663	chce kupic	9						
+						82	663	chce kupic	10						
+						8	664	chce kupic	10						
+						105	664	chce kupic	8						
+						66	666	posiada	6						
+						52	667	chce kupic	6						
+						61	667	sprzedal	6						
+						8	668	posiada	10						
+						51	668	chce kupic	9						
+						64	668	sprzedal	6						
+						65	668	posiada	10						
+						88	668	sprzedal	7						
+						122	668	sprzedal	8						
+						130	668	chce kupic	6						
+						28	669	chce kupic	9						
+						47	669	chce kupic	10						
+						53	669	chce kupic	7						
+						83	669	posiada	10						
+						9	670	chce kupic	6						
+						14	670	sprzedal	6						
+						20	670	posiada	9						
+						23	670	chce kupic	9						
+						42	670	sprzedal	7						
+						98	670	posiada	8						
+						18	671	posiada	8						
+						79	671	posiada	6						
+						48	672	posiada	7						
+						86	672	posiada	9						
+						102	673	posiada	8						
+						27	674	posiada	9						
+						44	674	posiada	6						
+						56	674	posiada	8						
+						71	674	posiada	8						
+						98	674	posiada	6						
+						32	675	sprzedal	9						
+						52	675	sprzedal	8						
+						91	675	sprzedal	10						
+						113	675	sprzedal	9						
+						11	676	sprzedal	6						
+						21	676	sprzedal	7						
+						9	677	sprzedal	8						
+						59	677	sprzedal	9						
+						60	677	chce kupic	7						
+						13	678	chce kupic	6						
+						19	678	chce kupic	10						
+						58	678	chce kupic	10						
+						75	678	posiada	10						
+						81	678	chce kupic	8						
+						100	678	sprzedal	6						
+						117	678	posiada	9						
+						126	678	chce kupic	9						
+						4	679	sprzedal	8						
+						38	679	posiada	8						
+						46	679	sprzedal	9						
+						68	679	sprzedal	10						
+						75	679	chce kupic	7						
+						64	680	chce kupic	6						
+						90	680	chce kupic	7						
+						105	680	chce kupic	6						
+						131	680	posiada	7						
+						33	681	chce kupic	7						
+						84	681	sprzedal	9						
+						123	681	posiada	6						
+						26	682	chce kupic	8						
+						59	682	sprzedal	7						
+						86	682	posiada	9						
+						9	683	posiada	6						
+						24	683	posiada	6						
+						72	683	posiada	9						
+						124	683	posiada	8						
+						5	684	posiada	8						
+						30	684	posiada	9						
+						33	684	posiada	10						
+						123	684	posiada	6						
+						29	685	posiada	6						
+						45	685	posiada	8						
+						121	685	sprzedal	8						
+						24	686	sprzedal	9						
+						127	686	sprzedal	9						
+						92	687	sprzedal	8						
+						122	688	sprzedal	7						
+						128	688	sprzedal	7						
+						23	689	sprzedal	9						
+						91	689	sprzedal	10						
+						112	690	chce kupic	8						
+						122	690	chce kupic	9						
+						62	691	chce kupic	9						
+						65	691	chce kupic	8						
+						76	691	posiada	6						
+						115	691	chce kupic	8						
+						23	692	sprzedal	8						
+						26	692	posiada	6						
+						89	692	chce kupic	6						
+						45	693	sprzedal	8						
+						59	693	posiada	9						
+						88	693	sprzedal	9						
+						125	693	sprzedal	8						
+						48	694	chce kupic	10						
+						52	694	chce kupic	8						
+						22	695	chce kupic	10						
+						51	695	chce kupic	6						
+						130	695	posiada	10						
+						25	696	chce kupic	8						
+						55	696	sprzedal	10						
+						111	696	posiada	6						
+						4	697	chce kupic	10						
+						60	697	sprzedal	8						
+						62	697	posiada	10						
+						95	697	posiada	8						
+						13	698	posiada	6						
+						69	698	posiada	8						
+						125	698	posiada	7						
+						21	699	posiada	10						
+						51	699	posiada	6						
+						56	699	posiada	10						
+						44	700	posiada	9						
+						77	700	posiada	9						
+						96	700	posiada	10						
+						104	700	sprzedal	7						
+						1	701	sprzedal	6						
+						49	701	sprzedal	8						
+						61	701	sprzedal	9						
+						64	701	sprzedal	6						
+						76	701	sprzedal	8						
+						93	701	sprzedal	6						
+						116	701	sprzedal	10						
+						27	702	chce kupic	10						
+						74	702	chce kupic	7						
+						80	702	chce kupic	7						
+						101	703	chce kupic	7						
+						128	703	posiada	9						
+						5	704	chce kupic	8						
+						40	704	sprzedal	8						
+						75	704	posiada	8						
+						128	704	chce kupic	7						
+						8	705	sprzedal	10						
+						25	705	posiada	6						
+						88	705	sprzedal	8						
+						78	706	sprzedal	10						
+						22	707	chce kupic	7						
+						77	707	chce kupic	9						
+						101	707	chce kupic	6						
+						15	708	chce kupic	8						
+						114	708	posiada	6						
+						119	708	chce kupic	8						
+						121	708	sprzedal	9						
+						2	709	posiada	8						
+						9	709	chce kupic	10						
+						23	709	sprzedal	7						
+						64	709	posiada	8						
+						101	709	posiada	7						
+						102	709	posiada	9						
+						43	710	posiada	10						
+						1	711	posiada	8						
+						57	711	posiada	10						
+						28	712	posiada	9						
+						51	712	posiada	8						
+						100	712	posiada	7						
+						60	713	posiada	7						
+						69	713	posiada	7						
+						11	714	sprzedal	9						
+						13	714	sprzedal	10						
+						59	714	sprzedal	6						
+						72	714	sprzedal	6						
+						85	714	sprzedal	10						
+						103	714	sprzedal	7						
+						4	715	sprzedal	6						
+						15	715	sprzedal	6						
+						22	715	chce kupic	9						
+						56	715	chce kupic	8						
+						121	715	chce kupic	10						
+						9	716	chce kupic	7						
+						15	716	posiada	10						
+						18	716	chce kupic	9						
+						20	716	sprzedal	7						
+						76	716	posiada	6						
+						128	716	chce kupic	7						
+						117	717	sprzedal	10						
+						7	718	posiada	8						
+						53	718	sprzedal	8						
+						59	718	sprzedal	9						
+						129	718	chce kupic	7						
+						52	719	chce kupic	10						
+						115	719	chce kupic	8						
+						118	719	chce kupic	8						
+						121	719	posiada	9						
+						61	720	chce kupic	6						
+						111	720	sprzedal	9						
+						128	720	posiada	10						
+						44	721	chce kupic	7						
+						7	722	sprzedal	10						
+						12	722	posiada	8						
+						87	722	posiada	9						
+						26	723	posiada	10						
+						19	724	posiada	6						
+						30	724	posiada	10						
+						83	724	posiada	6						
+						84	724	posiada	9						
+						130	724	posiada	9						
+						45	725	posiada	6						
+						94	725	posiada	6						
+						118	725	posiada	9						
+						12	726	sprzedal	6						
+						58	726	sprzedal	9						
+						125	726	sprzedal	10						
+						15	727	sprzedal	6						
+						30	727	sprzedal	10						
+						50	727	sprzedal	7						
+						69	727	sprzedal	10						
+						97	727	sprzedal	8						
+						130	727	chce kupic	8						
+						5	728	chce kupic	8						
+						41	728	chce kupic	7						
+						57	728	chce kupic	8						
+						74	728	posiada	9						
+						103	728	chce kupic	10						
+						115	728	sprzedal	6						
+						119	728	posiada	9						
+						121	728	chce kupic	9						
+						31	729	sprzedal	7						
+						65	729	posiada	6						
+						112	729	sprzedal	6						
+						125	729	sprzedal	8						
+						35	730	chce kupic	8						
+						96	730	chce kupic	10						
+						112	730	chce kupic	6						
+						118	730	chce kupic	8						
+						24	731	posiada	10						
+						39	731	chce kupic	8						
+						93	731	sprzedal	7						
+						100	731	posiada	8						
+						21	732	chce kupic	6						
+						25	732	sprzedal	7						
+						53	733	posiada	6						
+						105	733	posiada	6						
+						14	734	posiada	9						
+						56	734	posiada	6						
+						92	734	posiada	8						
+						16	735	posiada	7						
+						31	735	posiada	10						
+						93	735	posiada	7						
+						95	735	posiada	9						
+						111	735	posiada	6						
+						126	735	posiada	9						
+						8	736	sprzedal	10						
+						50	736	sprzedal	8						
+						67	736	sprzedal	10						
+						122	736	sprzedal	6						
+						65	737	sprzedal	10						
+						33	738	sprzedal	10						
+						65	738	sprzedal	6						
+						67	738	sprzedal	6						
+						96	738	chce kupic	9						
+						97	738	chce kupic	6						
+						115	738	chce kupic	6						
+						2	739	chce kupic	6						
+						17	739	posiada	10						
+						43	739	chce kupic	10						
+						99	739	sprzedal	7						
+						131	739	posiada	8						
+						48	740	chce kupic	8						
+						65	740	sprzedal	8						
+						78	740	posiada	8						
+						98	740	sprzedal	7						
+						105	740	sprzedal	8						
+						120	740	chce kupic	8						
+						23	741	chce kupic	6						
+						26	741	chce kupic	6						
+						50	741	chce kupic	6						
+						127	741	posiada	9						
+						29	742	chce kupic	7						
+						77	742	sprzedal	10						
+						118	742	posiada	9						
+						32	743	chce kupic	6						
+						87	743	sprzedal	9						
+						10	744	posiada	9						
+						19	744	posiada	6						
+						33	744	posiada	8						
+						81	744	posiada	7						
+						86	744	posiada	7						
+						99	744	posiada	9						
+						17	745	posiada	7						
+						43	745	posiada	9						
+						52	746	posiada	9						
+						55	746	posiada	9						
+						72	746	posiada	9						
+						78	746	sprzedal	7						
+						112	746	sprzedal	9						
+						123	746	sprzedal	10						
+						125	746	sprzedal	9						
+						129	746	sprzedal	9						
+						4	747	sprzedal	10						
+						8	747	sprzedal	10						
+						43	747	sprzedal	8						
+						44	747	chce kupic	8						
+						83	747	chce kupic	6						
+						96	747	chce kupic	7						
+						99	747	chce kupic	6						
+						104	747	posiada	10						
+						5	748	chce kupic	7						
+						16	748	sprzedal	6						
+						21	748	posiada	6						
+						60	748	chce kupic	6						
+						87	748	sprzedal	10						
+						8	749	posiada	9						
+						24	749	sprzedal	9						
+						46	749	sprzedal	7						
+						67	749	chce kupic	7						
+						82	749	chce kupic	8						
+						125	749	chce kupic	9						
+						128	749	chce kupic	7						
+						6	750	posiada	7						
+						85	751	chce kupic	8						
+						103	751	sprzedal	10						
+						114	751	posiada	9						
+						6	752	chce kupic	6						
+						19	752	sprzedal	8						
+						65	752	posiada	7						
+						80	752	posiada	9						
+						110	752	posiada	9						
+						19	753	posiada	9						
+						34	753	posiada	6						
+						72	753	posiada	7						
+						89	753	posiada	8						
+						120	753	posiada	9						
+						22	754	posiada	10						
+						53	754	posiada	6						
+						108	754	posiada	8						
+						123	754	sprzedal	9						
+						24	755	sprzedal	9						
+						32	755	sprzedal	6						
+						54	755	sprzedal	8						
+						70	755	sprzedal	6						
+						69	756	sprzedal	6						
+						94	756	sprzedal	7						
+						118	756	sprzedal	10						
+						17	757	chce kupic	10						
+						55	757	chce kupic	7						
+						59	757	chce kupic	8						
+						64	757	chce kupic	6						
+						13	758	posiada	9						
+						122	758	chce kupic	7						
+						58	759	sprzedal	6						
+						74	759	posiada	9						
+						88	759	chce kupic	10						
+						97	759	sprzedal	9						
+						106	759	posiada	6						
+						121	759	sprzedal	10						
+						3	760	sprzedal	8						
+						12	760	chce kupic	8						
+						16	760	chce kupic	7						
+						36	760	chce kupic	8						
+						52	760	chce kupic	10						
+						32	761	posiada	10						
+						56	761	chce kupic	7						
+						73	761	sprzedal	7						
+						85	761	posiada	10						
+						112	761	chce kupic	6						
+						126	761	sprzedal	9						
+						128	761	posiada	8						
+						36	762	posiada	9						
+						104	762	posiada	9						
+						122	762	posiada	9						
+						58	763	posiada	10						
+						92	763	posiada	8						
+						95	763	posiada	6						
+						52	764	posiada	6						
+						90	764	posiada	7						
+						23	765	posiada	10						
+						62	765	posiada	6						
+						121	765	sprzedal	10						
+						5	766	sprzedal	10						
+						75	766	sprzedal	6						
+						79	766	sprzedal	7						
+						90	766	sprzedal	7						
+						118	766	sprzedal	9						
+						130	766	sprzedal	10						
+						82	767	sprzedal	8						
+						86	767	chce kupic	7						
+						99	767	chce kupic	10						
+						4	768	chce kupic	9						
+						55	768	chce kupic	6						
+						104	768	posiada	10						
+						11	769	chce kupic	8						
+						41	769	sprzedal	9						
+						45	769	posiada	8						
+						86	769	chce kupic	9						
+						12	770	sprzedal	6						
+						33	770	posiada	8						
+						85	770	sprzedal	8						
+						90	770	sprzedal	6						
+						100	770	chce kupic	10						
+						60	771	chce kupic	6						
+						72	771	chce kupic	9						
+						129	771	chce kupic	9						
+						2	772	posiada	8						
+						13	772	chce kupic	7						
+						35	772	sprzedal	6						
+						68	772	posiada	7						
+						76	772	chce kupic	9						
+						79	772	sprzedal	9						
+						9	773	posiada	10						
+						23	773	posiada	8						
+						45	773	posiada	10						
+						106	773	posiada	7						
+						109	773	posiada	10						
+						110	773	posiada	7						
+						47	774	posiada	10						
+						117	774	posiada	6						
+						48	775	posiada	8						
+						60	775	posiada	7						
+						125	775	posiada	7						
+						20	776	sprzedal	7						
+						130	776	sprzedal	9						
+						64	777	sprzedal	7						
+						103	777	sprzedal	6						
+						104	777	sprzedal	8						
+						109	777	sprzedal	10						
+						40	778	sprzedal	9						
+						72	778	sprzedal	7						
+						105	778	chce kupic	7						
+						107	778	chce kupic	6						
+						118	778	chce kupic	8						
+						2	779	chce kupic	6						
+						22	779	posiada	7						
+						39	779	chce kupic	8						
+						41	779	sprzedal	6						
+						48	779	posiada	10						
+						64	779	chce kupic	7						
+						110	779	sprzedal	9						
+						124	779	posiada	10						
+						36	780	sprzedal	6						
+						71	780	sprzedal	9						
+						83	780	chce kupic	7						
+						105	780	chce kupic	10						
+						120	781	chce kupic	6						
+						16	782	chce kupic	8						
+						29	782	posiada	7						
+						60	782	chce kupic	8						
+						65	782	sprzedal	6						
+						76	782	posiada	9						
+						83	782	chce kupic	10						
+						30	783	sprzedal	7						
+						49	783	posiada	8						
+						77	783	posiada	7						
+						81	783	posiada	6						
+						10	784	posiada	8						
+						16	784	posiada	7						
+						51	784	posiada	10						
+						94	784	posiada	7						
+						129	784	posiada	6						
+						58	785	posiada	6						
+						63	785	posiada	6						
+						71	785	posiada	8						
+						91	785	sprzedal	6						
+						49	786	sprzedal	7						
+						51	787	sprzedal	6						
+						55	787	sprzedal	8						
+						59	787	sprzedal	8						
+						3	788	sprzedal	6						
+						13	788	sprzedal	7						
+						69	789	sprzedal	10						
+						2	790	chce kupic	9						
+						60	790	chce kupic	6						
+						67	790	chce kupic	6						
+						93	790	chce kupic	7						
+						105	790	posiada	6						
+						120	790	chce kupic	9						
+						19	791	sprzedal	6						
+						122	791	posiada	10						
+						128	791	chce kupic	10						
+						15	792	sprzedal	8						
+						56	792	posiada	6						
+						69	792	sprzedal	10						
+						97	792	sprzedal	9						
+						112	792	chce kupic	6						
+						121	792	chce kupic	10						
+						126	792	chce kupic	8						
+						130	792	chce kupic	9						
+						12	793	posiada	7						
+						32	793	chce kupic	7						
+						41	793	sprzedal	10						
+						62	793	posiada	7						
+						71	793	chce kupic	10						
+						111	793	sprzedal	6						
+						38	794	posiada	9						
+						53	794	posiada	6						
+						57	794	posiada	8						
+						59	794	posiada	6						
+						70	794	posiada	8						
+						71	794	posiada	10						
+						115	794	posiada	10						
+						116	794	posiada	9						
+						125	794	posiada	9						
+						11	795	posiada	7						
+						38	795	posiada	8						
+						69	795	sprzedal	10						
+						78	795	sprzedal	6						
+						123	795	sprzedal	9						
+						124	795	sprzedal	9						
+						77	796	sprzedal	7						
+						98	796	sprzedal	7						
+						124	796	sprzedal	7						
+						17	797	sprzedal	6						
+						55	797	chce kupic	8						
+						84	797	chce kupic	6						
+						113	797	chce kupic	8						
+						92	798	chce kupic	6						
+						101	798	posiada	8						
+						107	798	chce kupic	6						
+						6	799	sprzedal	10						
+						37	799	posiada	7						
+						49	799	chce kupic	7						
+						114	799	sprzedal	8						
+						123	800	posiada	10						
+						26	801	sprzedal	10						
+						44	801	sprzedal	6						
+						56	801	chce kupic	9						
+						6	802	chce kupic	9						
+						49	802	chce kupic	9						
+						50	802	chce kupic	6						
+						51	802	posiada	8						
+						104	802	chce kupic	6						
+						129	802	sprzedal	8						
+						18	803	posiada	7						
+						27	803	chce kupic	10						
+						50	804	sprzedal	9						
+						100	804	posiada	9						
+						110	804	posiada	9						
+						16	805	posiada	6						
+						29	805	posiada	6						
+						34	805	posiada	7						
+						72	805	posiada	8						
+						80	805	posiada	8						
+						121	805	posiada	6						
+						26	806	posiada	7						
+						41	806	posiada	6						
+						70	806	posiada	8						
+						27	807	sprzedal	8						
+						23	808	sprzedal	10						
+						110	808	sprzedal	9						
+						129	808	sprzedal	7						
+						55	809	sprzedal	7						
+						111	810	sprzedal	6						
+						95	811	sprzedal	8						
+						96	811	sprzedal	9						
+						126	811	chce kupic	10						
+						130	811	chce kupic	6						
+						41	812	chce kupic	6						
+						87	812	chce kupic	7						
+						101	812	posiada	10						
+						5	813	chce kupic	6						
+						6	813	sprzedal	6						
+						64	813	posiada	8						
+						108	813	chce kupic	7						
+						127	813	sprzedal	7						
+						15	814	posiada	6						
+						59	814	sprzedal	8						
+						81	814	sprzedal	6						
+						116	814	chce kupic	8						
+						32	815	chce kupic	8						
+						47	815	chce kupic	7						
+						53	815	chce kupic	10						
+						65	815	posiada	6						
+						94	815	chce kupic	7						
+						109	815	sprzedal	10						
+						49	816	posiada	10						
+						62	816	chce kupic	7						
+						65	816	sprzedal	8						
+						92	816	posiada	10						
+						127	816	posiada	9						
+						46	817	posiada	6						
+						108	817	posiada	8						
+						127	817	posiada	8						
+						22	818	posiada	8						
+						65	818	posiada	6						
+						78	818	posiada	10						
+						108	818	posiada	6						
+						23	819	posiada	7						
+						27	819	posiada	8						
+						43	819	sprzedal	7						
+						80	819	sprzedal	8						
+						83	819	sprzedal	9						
+						105	819	sprzedal	8						
+						115	819	sprzedal	7						
+						12	820	sprzedal	9						
+						19	820	sprzedal	8						
+						37	820	sprzedal	6						
+						57	821	chce kupic	7						
+						80	821	chce kupic	6						
+						114	821	chce kupic	9						
+						124	821	chce kupic	9						
+						131	821	posiada	9						
+						44	822	chce kupic	8						
+						61	822	sprzedal	6						
+						77	822	posiada	7						
+						123	822	chce kupic	8						
+						21	823	sprzedal	6						
+						33	823	posiada	8						
+						40	823	sprzedal	6						
+						48	823	sprzedal	8						
+						24	824	chce kupic	6						
+						36	824	chce kupic	10						
+						50	824	chce kupic	10						
+						111	824	chce kupic	9						
+						37	825	posiada	8						
+						40	825	chce kupic	10						
+						67	825	sprzedal	8						
+						99	825	posiada	8						
+						115	825	chce kupic	7						
+						118	825	sprzedal	7						
+						37	826	posiada	7						
+						74	826	posiada	9						
+						77	826	posiada	10						
+						89	826	posiada	9						
+						7	827	posiada	6						
+						18	827	posiada	9						
+						21	827	posiada	6						
+						61	827	posiada	7						
+						66	827	posiada	6						
+						75	827	posiada	7						
+						82	827	posiada	7						
+						87	827	sprzedal	8						
+						90	827	sprzedal	10						
+						41	828	sprzedal	6						
+						6	829	sprzedal	8						
+						83	829	sprzedal	6						
+						85	829	sprzedal	9						
+						130	829	sprzedal	6						
+						3	830	sprzedal	8						
+						15	830	chce kupic	7						
+						86	830	chce kupic	6						
+						92	830	chce kupic	10						
+						108	830	chce kupic	6						
+						124	830	posiada	7						
+						42	831	chce kupic	8						
+						102	831	sprzedal	8						
+						114	831	posiada	10						
+						115	831	chce kupic	6						
+						121	831	sprzedal	7						
+						35	832	posiada	8						
+						97	832	sprzedal	8						
+						104	832	sprzedal	10						
+						128	832	chce kupic	6						
+						18	833	chce kupic	10						
+						23	833	chce kupic	6						
+						41	833	chce kupic	7						
+						46	833	posiada	9						
+						80	833	chce kupic	7						
+						1	834	sprzedal	6						
+						96	834	posiada	9						
+						51	835	chce kupic	6						
+						69	835	sprzedal	9						
+						109	835	posiada	6						
+						128	836	posiada	9						
+						15	837	posiada	10						
+						49	837	posiada	9						
+						6	838	posiada	10						
+						17	838	posiada	10						
+						37	838	posiada	7						
+						47	838	posiada	10						
+						49	838	posiada	7						
+						68	838	posiada	9						
+						47	839	posiada	7						
+						126	839	sprzedal	9						
+						76	840	sprzedal	10						
+						88	840	sprzedal	7						
+						115	840	sprzedal	7						
+						56	841	sprzedal	6						
+						85	841	sprzedal	7						
+						126	841	sprzedal	6						
+						59	842	sprzedal	8						
+						99	842	chce kupic	10						
+						117	842	chce kupic	8						
+						6	843	chce kupic	10						
+						18	843	chce kupic	9						
+						83	843	posiada	8						
+						97	843	chce kupic	8						
+						76	844	sprzedal	9						
+						39	845	posiada	9						
+						47	845	chce kupic	8						
+						88	845	sprzedal	10						
+						103	845	posiada	10						
+						82	846	sprzedal	8						
+						97	846	sprzedal	8						
+						15	847	chce kupic	7						
+						18	847	chce kupic	6						
+						25	847	chce kupic	6						
+						40	847	chce kupic	9						
+						17	848	posiada	6						
+						52	848	chce kupic	6						
+						78	848	sprzedal	10						
+						102	848	posiada	10						
+						59	849	chce kupic	8						
+						79	849	sprzedal	7						
+						78	850	posiada	9						
+						79	850	posiada	10						
+						81	850	posiada	7						
+						7	851	posiada	6						
+						23	851	posiada	6						
+						42	851	posiada	9						
+						43	851	posiada	9						
+						89	851	posiada	6						
+						93	851	posiada	8						
+						106	851	posiada	9						
+						127	851	posiada	9						
+						109	852	sprzedal	6						
+						122	852	sprzedal	8						
+						5	853	sprzedal	7						
+						14	853	sprzedal	9						
+						85	853	sprzedal	7						
+						29	854	sprzedal	9						
+						44	854	sprzedal	9						
+						73	854	sprzedal	8						
+						101	854	chce kupic	6						
+						109	854	chce kupic	10						
+						131	854	chce kupic	6						
+						50	855	chce kupic	6						
+						71	855	posiada	7						
+						15	856	chce kupic	7						
+						21	856	sprzedal	7						
+						46	856	posiada	9						
+						60	856	chce kupic	9						
+						96	856	sprzedal	8						
+						109	856	posiada	7						
+						40	857	sprzedal	9						
+						63	857	sprzedal	9						
+						76	857	chce kupic	8						
+						126	857	chce kupic	8						
+						12	858	chce kupic	8						
+						69	858	chce kupic	6						
+						13	859	posiada	9						
+						111	859	chce kupic	7						
+						113	859	sprzedal	10						
+						35	860	posiada	6						
+						90	860	chce kupic	6						
+						40	861	sprzedal	9						
+						48	861	posiada	7						
+						53	861	posiada	10						
+						69	861	posiada	8						
+						74	861	posiada	10						
+						89	862	posiada	10						
+						109	862	posiada	6						
+						117	862	posiada	6						
+						126	862	posiada	9						
+						27	863	posiada	8						
+						42	863	posiada	9						
+						121	863	posiada	9						
+						20	864	sprzedal	9						
+						22	864	sprzedal	8						
+						24	864	sprzedal	9						
+						98	864	sprzedal	8						
+						107	864	sprzedal	6						
+						124	864	sprzedal	6						
+						127	864	sprzedal	10						
+						15	865	sprzedal	6						
+						21	865	chce kupic	10						
+						33	865	chce kupic	6						
+						63	865	chce kupic	10						
+						75	865	chce kupic	9						
+						89	865	posiada	7						
+						124	865	chce kupic	6						
+						30	866	sprzedal	7						
+						43	866	posiada	8						
+						50	866	chce kupic	6						
+						65	866	sprzedal	7						
+						75	866	posiada	10						
+						3	867	sprzedal	9						
+						5	867	sprzedal	10						
+						37	867	chce kupic	8						
+						44	867	chce kupic	7						
+						107	867	chce kupic	9						
+						111	867	chce kupic	10						
+						119	867	posiada	6						
+						29	868	chce kupic	6						
+						31	868	sprzedal	6						
+						42	868	posiada	9						
+						50	868	chce kupic	10						
+						63	868	sprzedal	7						
+						81	868	posiada	6						
+						127	868	posiada	9						
+						12	869	posiada	10						
+						15	869	posiada	8						
+						24	869	posiada	10						
+						87	869	posiada	10						
+						53	870	posiada	9						
+						77	870	posiada	6						
+						111	870	posiada	9						
+						129	870	posiada	6						
+						12	871	posiada	8						
+						34	871	sprzedal	8						
+						44	871	sprzedal	6						
+						54	871	sprzedal	7						
+						130	871	sprzedal	6						
+						78	872	sprzedal	10						
+						83	872	sprzedal	10						
+						103	872	sprzedal	6						
+						120	873	sprzedal	10						
+						29	874	chce kupic	8						
+						55	874	chce kupic	6						
+						85	874	chce kupic	10						
+						104	874	chce kupic	10						
+						107	874	posiada	10						
+						10	875	chce kupic	9						
+						19	875	sprzedal	9						
+						48	875	posiada	10						
+						73	875	chce kupic	8						
+						123	875	sprzedal	7						
+						23	876	posiada	8						
+						109	877	sprzedal	9						
+						32	878	sprzedal	9						
+						109	878	chce kupic	10						
+						54	879	chce kupic	10						
+						67	879	chce kupic	10						
+						69	879	chce kupic	9						
+						71	879	posiada	10						
+						9	880	chce kupic	6						
+						34	880	sprzedal	6						
+						104	880	posiada	7						
+						34	881	chce kupic	9						
+						101	881	sprzedal	10						
+						117	881	posiada	2						
+						3	882	posiada	4						
+						5	882	posiada	6						
+						92	882	posiada	5						
+						124	882	posiada	5						
+						49	883	posiada	2						
+						62	883	posiada	10						
+						74	883	posiada	2						
+						105	883	posiada	6						
+						118	883	posiada	8						
+						12	884	posiada	9						
+						21	884	sprzedal	6						
+						7	885	sprzedal	5						
+						35	885	sprzedal	6						
+						118	885	sprzedal	9						
+						126	885	sprzedal	7						
+						32	886	sprzedal	5						
+						114	886	sprzedal	9						
+						9	887	sprzedal	6						
+						53	887	chce kupic	9						
+						8	888	chce kupic	6						
+						63	889	chce kupic	8						
+						68	889	chce kupic	10						
+						1	890	posiada	5						
+						5	890	chce kupic	5						
+						15	890	sprzedal	10						
+						58	890	posiada	8						
+						69	890	chce kupic	8						
+						82	890	sprzedal	10						
+						102	890	posiada	8						
+						111	890	sprzedal	10						
+						77	891	sprzedal	9						
+						82	891	chce kupic	6						
+						16	892	chce kupic	6						
+						30	892	chce kupic	10						
+						119	892	chce kupic	5						
+						62	893	posiada	9						
+						101	893	chce kupic	5						
+						4	894	sprzedal	7						
+						31	894	posiada	7						
+						43	894	chce kupic	8						
+						83	894	sprzedal	9						
+						97	894	posiada	5						
+						129	896	posiada	8						
+						18	897	posiada	7						
+						44	897	posiada	7						
+						82	897	posiada	7						
+						4	898	posiada	10						
+						21	898	posiada	8						
+						27	898	posiada	5						
+						28	898	posiada	7						
+						37	898	posiada	9						
+						57	898	posiada	9						
+						77	898	sprzedal	8						
+						82	898	sprzedal	7						
+						19	899	sprzedal	9						
+						24	899	sprzedal	5						
+						25	899	sprzedal	10						
+						37	899	sprzedal	6						
+						49	899	sprzedal	9						
+						118	899	sprzedal	8						
+						77	901	chce kupic	9						
+						89	901	chce kupic	5						
+						120	901	chce kupic	5						
+						15	902	chce kupic	6						
+						27	903	posiada	10						
+						31	903	chce kupic	5						
+						41	903	sprzedal	7						
+						71	903	posiada	5						
+						4	904	chce kupic	7						
+						49	904	sprzedal	6						
+						60	904	posiada	10						
+						82	904	sprzedal	8						
+						111	904	sprzedal	9						
+						123	904	chce kupic	6						
+						44	905	chce kupic	5						
+						79	905	chce kupic	9						
+						83	905	chce kupic	6						
+						3	906	posiada	6						
+						33	906	chce kupic	8						
+						59	906	sprzedal	5						
+						71	906	posiada	6						
+						82	906	chce kupic	9						
+						10	907	sprzedal	10						
+						32	907	posiada	8						
+						52	907	posiada	5						
+						120	907	posiada	10						
+						5	908	posiada	9						
+						21	908	posiada	6						
+						48	909	posiada	10						
+						68	909	posiada	10						
+						87	909	posiada	7						
+						121	909	posiada	7						
+						6	910	posiada	5						
+						8	910	posiada	7						
+						11	910	sprzedal	7						
+						39	910	sprzedal	9						
+						114	910	sprzedal	7						
+						6	911	sprzedal	10						
+						13	911	sprzedal	10						
+						61	911	sprzedal	9						
+						24	912	sprzedal	6						
+						54	912	sprzedal	7						
+						97	912	chce kupic	9						
+						13	913	chce kupic	5						
+						21	913	chce kupic	10						
+						31	913	chce kupic	7						
+						37	913	posiada	6						
+						64	913	chce kupic	5						
+						84	913	sprzedal	10						
+						97	913	posiada	6						
+						119	913	chce kupic	7						
+						126	913	sprzedal	7						
+						129	913	posiada	9						
+						7	914	sprzedal	6						
+						84	914	sprzedal	8						
+						98	914	chce kupic	9						
+						1	915	chce kupic	8						
+						18	915	chce kupic	5						
+						29	915	chce kupic	8						
+						54	915	posiada	7						
+						35	916	chce kupic	6						
+						95	916	sprzedal	6						
+						19	917	posiada	7						
+						99	917	chce kupic	6						
+						89	918	sprzedal	8						
+						103	918	posiada	9						
+						9	919	posiada	8						
+						12	919	posiada	10						
+						59	919	posiada	5						
+						81	919	posiada	7						
+						100	919	posiada	9						
+						102	919	posiada	7						
+						115	919	posiada	8						
+						8	920	posiada	7						
+						17	920	posiada	9						
+						32	920	posiada	8						
+						73	920	sprzedal	7						
+						80	920	sprzedal	6						
+						23	921	sprzedal	10						
+						41	921	sprzedal	9						
+						44	921	sprzedal	9						
+						72	921	sprzedal	7						
+						10	922	sprzedal	9						
+						21	922	sprzedal	5						
+						41	922	chce kupic	7						
+						78	922	chce kupic	8						
+						93	922	chce kupic	9						
+						113	922	chce kupic	7						
+						1	923	posiada	6						
+						16	923	chce kupic	9						
+						51	923	sprzedal	10						
+						86	923	posiada	5						
+						125	923	chce kupic	7						
+						3	924	sprzedal	9						
+						13	924	posiada	8						
+						63	924	sprzedal	8						
+						68	924	sprzedal	7						
+						73	924	chce kupic	7						
+						75	924	chce kupic	5						
+						79	924	chce kupic	8						
+						97	924	chce kupic	10						
+						116	924	posiada	9						
+						121	924	chce kupic	6						
+						18	925	sprzedal	6						
+						37	925	posiada	6						
+						47	925	chce kupic	6						
+						68	925	sprzedal	5						
+						118	925	posiada	10						
+						18	926	posiada	5						
+						20	926	posiada	10						
+						29	926	posiada	8						
+						41	926	posiada	7						
+						78	926	posiada	7						
+						23	927	posiada	6						
+						110	927	posiada	6						
+						65	928	posiada	5						
+						96	928	posiada	8						
+						107	928	posiada	6						
+						119	928	sprzedal	6						
+						123	928	sprzedal	10						
+						59	929	sprzedal	10						
+						82	929	sprzedal	9						
+						115	929	sprzedal	9						
+						120	929	sprzedal	9						
+						31	930	sprzedal	10						
+						109	930	sprzedal	5						
+						4	931	chce kupic	8						
+						39	931	chce kupic	5						
+						50	931	chce kupic	8						
+						123	931	chce kupic	6						
+						1	932	posiada	7						
+						14	932	chce kupic	8						
+						16	932	sprzedal	8						
+						65	932	posiada	7						
+						114	932	chce kupic	6						
+						120	932	sprzedal	7						
+						125	932	posiada	9						
+						15	933	sprzedal	8						
+						20	933	sprzedal	10						
+						38	933	chce kupic	9						
+						48	933	chce kupic	7						
+						72	933	chce kupic	7						
+						89	933	chce kupic	9						
+						22	934	posiada	7						
+						66	934	chce kupic	10						
+						99	934	sprzedal	7						
+						94	935	posiada	10						
+						96	935	chce kupic	9						
+						111	935	sprzedal	7						
+						28	936	posiada	8						
+						40	936	posiada	9						
+						46	936	posiada	9						
+						109	936	posiada	7						
+						18	937	posiada	5						
+						20	937	posiada	6						
+						31	937	posiada	8						
+						34	937	posiada	10						
+						64	937	posiada	10						
+						97	937	posiada	6						
+						112	937	posiada	10						
+						22	938	sprzedal	7						
+						55	938	sprzedal	9						
+						64	938	sprzedal	7						
+						74	938	sprzedal	9						
+						103	938	sprzedal	8						
+						23	939	sprzedal	7						
+						46	939	sprzedal	7						
+						74	939	sprzedal	5						
+						124	939	chce kupic	9						
+						126	939	chce kupic	7						
+						113	940	chce kupic	5						
+						26	941	chce kupic	7						
+						85	941	posiada	7						
+						118	941	chce kupic	5						
+						122	941	sprzedal	8						
+						127	941	posiada	8						
+						129	941	chce kupic	5						
+						1	942	sprzedal	6						
+						33	942	posiada	8						
+						46	942	sprzedal	6						
+						52	942	sprzedal	10						
+						94	942	chce kupic	5						
+						3	943	chce kupic	10						
+						47	943	chce kupic	9						
+						106	943	chce kupic	6						
+						109	943	posiada	6						
+						118	943	chce kupic	9						
+						83	944	sprzedal	10						
+						100	944	posiada	5						
+						129	944	chce kupic	5						
+						29	945	sprzedal	8						
+						27	946	posiada	10						
+						31	946	posiada	5						
+						65	946	posiada	5						
+						85	946	posiada	5						
+						111	946	posiada	7						
+						31	947	posiada	10						
+						48	947	posiada	6						
+						59	947	posiada	10						
+						73	947	posiada	9						
+						80	947	posiada	7						
+						8	948	posiada	8						
+						59	948	sprzedal	10						
+						26	949	sprzedal	10						
+						27	949	sprzedal	9						
+						38	949	sprzedal	7						
+						82	949	sprzedal	6						
+						122	949	sprzedal	9						
+						12	950	sprzedal	7						
+						31	950	sprzedal	6						
+						42	950	chce kupic	10						
+						58	950	chce kupic	8						
+						62	950	chce kupic	10						
+						91	950	chce kupic	9						
+						113	950	posiada	6						
+						49	951	chce kupic	6						
+						51	951	sprzedal	6						
+						81	951	posiada	9						
+						24	952	chce kupic	8						
+						58	952	sprzedal	9						
+						88	952	posiada	6						
+						93	952	sprzedal	7						
+						24	953	sprzedal	8						
+						57	953	chce kupic	8						
+						85	953	chce kupic	8						
+						4	954	chce kupic	9						
+						21	954	chce kupic	6						
+						108	954	posiada	6						
+						127	954	chce kupic	10						
+						88	955	sprzedal	6						
+						22	956	posiada	7						
+						35	956	chce kupic	6						
+						67	956	sprzedal	8						
+						100	956	posiada	10						
+						125	956	posiada	10						
+						30	958	posiada	5						
+						58	958	posiada	5						
+						129	958	posiada	5						
+						104	959	posiada	9						
+						111	959	posiada	6						
+						6	960	posiada	7						
+						10	960	posiada	6						
+						14	960	posiada	5						
+						48	960	posiada	5						
+						55	960	sprzedal	9						
+						60	960	sprzedal	6						
+						93	960	sprzedal	7						
+						6	961	sprzedal	5						
+						27	961	sprzedal	10						
+						38	961	sprzedal	8						
+						44	961	sprzedal	9						
+						46	961	sprzedal	5						
+						17	962	chce kupic	7						
+						44	962	chce kupic	5						
+						95	962	chce kupic	7						
+						127	962	chce kupic	6						
+						83	963	posiada	9						
+						89	963	chce kupic	10						
+						4	964	sprzedal	6						
+						10	964	posiada	6						
+						19	964	chce kupic	9						
+						21	964	sprzedal	8						
+						59	964	posiada	8						
+						67	964	sprzedal	10						
+						97	964	sprzedal	8						
+						103	964	chce kupic	7						
+						15	965	chce kupic	8						
+						26	965	chce kupic	6						
+						113	965	chce kupic	5						
+						115	965	posiada	8						
+						126	965	chce kupic	10						
+						73	966	sprzedal	7						
+						81	966	posiada	9						
+						130	966	chce kupic	10						
+						5	967	sprzedal	5						
+						21	967	posiada	9						
+						75	967	posiada	7						
+						82	967	posiada	7						
+						107	968	posiada	6						
+						28	969	posiada	10						
+						118	969	posiada	5						
+						2	970	posiada	7						
+						29	971	posiada	10						
+						58	971	posiada	9						
+						59	971	posiada	7						
+						103	971	posiada	7						
+						130	971	sprzedal	9						
+						13	972	sprzedal	6						
+						14	972	sprzedal	5						
+						36	972	sprzedal	5						
+						121	972	sprzedal	6						
+						95	973	sprzedal	9						
+						114	973	sprzedal	5						
+						15	974	sprzedal	8						
+						21	974	chce kupic	8						
+						58	974	chce kupic	5						
+						80	974	chce kupic	7						
+						93	974	chce kupic	5						
+						26	975	posiada	8						
+						76	975	chce kupic	8						
+						83	975	sprzedal	9						
+						118	975	posiada	10						
+						125	975	chce kupic	8						
+						45	976	sprzedal	5						
+						54	976	posiada	8						
+						112	976	sprzedal	9						
+						52	977	sprzedal	9						
+						14	978	chce kupic	6						
+						67	978	chce kupic	6						
+						68	978	chce kupic	6						
+						4	979	chce kupic	5						
+						42	979	posiada	7						
+						69	979	chce kupic	7						
+						95	979	sprzedal	9						
+						18	980	posiada	6						
+						70	980	chce kupic	8						
+						86	980	sprzedal	8						
+						102	980	posiada	8						
+						104	980	posiada	10						
+						33	981	posiada	9						
+						48	981	posiada	9						
+						80	981	posiada	9						
+						86	981	posiada	8						
+						90	981	posiada	9						
+						96	981	posiada	9						
+						114	981	posiada	8						
+						121	981	posiada	10						
+						127	981	posiada	9						
+						6	982	sprzedal	10						
+						54	982	sprzedal	8						
+						85	982	sprzedal	5						
+						26	983	sprzedal	8						
+						46	983	sprzedal	7						
+						109	983	sprzedal	7						
+						23	984	sprzedal	9						
+						42	984	sprzedal	7						
+						65	984	chce kupic	9						
+						103	985	chce kupic	10						
+						120	985	chce kupic	8						
+						55	986	chce kupic	9						
+						57	986	posiada	7						
+						78	986	chce kupic	6						
+						97	986	sprzedal	5						
+						2	987	posiada	10						
+						13	987	chce kupic	7						
+						44	987	sprzedal	10						
+						51	987	posiada	6						
+						100	987	sprzedal	10						
+						104	987	sprzedal	8						
+						124	987	chce kupic	8						
+						112	988	chce kupic	10						
+						41	989	chce kupic	9						
+						53	989	chce kupic	7						
+						68	989	posiada	8						
+						75	989	chce kupic	9						
+						103	989	sprzedal	5						
+						106	989	posiada	8						
+						4	990	chce kupic	5						
+						33	990	sprzedal	10						
+						29	992	posiada	10						
+						31	993	posiada	7						
+						69	993	posiada	5						
+						126	993	posiada	8						
+						130	993	posiada	7						
+						11	994	posiada	9						
+						16	995	posiada	8						
+						23	995	posiada	10						
+						86	995	posiada	8						
+						131	995	posiada	7						
+						24	996	posiada	8						
+						56	996	sprzedal	7						
+						57	996	sprzedal	8						
+						116	996	sprzedal	9						
+						14	997	sprzedal	5						
+						58	997	sprzedal	10						
+						76	997	sprzedal	9						
+						15	998	sprzedal	7						
+						19	998	sprzedal	10						
+						43	998	chce kupic	8						
+						61	998	chce kupic	10						
+						65	999	chce kupic	8						
+						81	999	chce kupic	9						
+						101	999	posiada	8						
+						121	999	chce kupic	10						
+						124	999	sprzedal	8						
+						126	999	posiada	7						
+						1	1000	chce kupic	6						
+						13	1000	sprzedal	5						
+						24	1000	posiada	8						
+						84	1000	sprzedal	9						
+						130	1000	sprzedal	8						
+						36	1001	chce kupic	9						
+						43	1001	chce kupic	10						
+						59	1001	chce kupic	6						
+						76	1001	chce kupic	5						
+						78	1001	posiada	8						
+						99	1001	chce kupic	6						
+						119	1001	sprzedal	7						
+						129	1001	posiada	7						
+						47	1002	chce kupic	6						
+						123	1002	sprzedal	8						
+						5	1003	posiada	5						
+						24	1003	posiada	6						
+						27	1003	posiada	10						
+						104	1003	posiada	7						
+						18	1004	posiada	7						
+						26	1004	posiada	9						
+						42	1004	posiada	9						
+						59	1004	posiada	7						
+						71	1004	posiada	6						
+						72	1004	posiada	8						
+						73	1004	posiada	10						
+						98	1004	sprzedal	9						
+						105	1004	sprzedal	7						
+						50	1005	sprzedal	9						
+						75	1005	sprzedal	8						
+						106	1005	sprzedal	5						
+						19	1006	sprzedal	7						
+						38	1006	sprzedal	7						
+						62	1006	sprzedal	9						
+						74	1006	chce kupic	9						
+						79	1006	chce kupic	10						
+						89	1006	chce kupic	7						
+						16	1007	chce kupic	6						
+						25	1007	posiada	6						
+						60	1007	chce kupic	7						
+						108	1007	sprzedal	5						
+						12	1008	posiada	10						
+						33	1008	chce kupic	8						
+						67	1008	sprzedal	8						
+						85	1008	posiada	8						
+						102	1008	sprzedal	10						
+						12	1009	sprzedal	5						
+						17	1009	chce kupic	9						
+						56	1009	chce kupic	9						
+						64	1009	chce kupic	9						
+						85	1009	chce kupic	9						
+						99	1009	posiada	6						
+						9	1010	chce kupic	8						
+						29	1010	sprzedal	6						
+						56	1010	posiada	9						
+						68	1010	chce kupic	5						
+						100	1010	sprzedal	8						
+						76	1011	posiada	7						
+						97	1011	posiada	6						
+						113	1011	posiada	9						
+						120	1011	posiada	9						
+						20	1012	posiada	5						
+						33	1012	posiada	6						
+						108	1012	posiada	6						
+						114	1012	posiada	7						
+						37	1013	posiada	9						
+						117	1013	posiada	8						
+						131	1013	posiada	9						
+						6	1014	sprzedal	7						
+						19	1014	sprzedal	8						
+						31	1014	sprzedal	10						
+						36	1014	sprzedal	6						
+						48	1014	sprzedal	8						
+						116	1014	sprzedal	6						
+						118	1014	sprzedal	10						
+						126	1014	sprzedal	5						
+						1	1015	chce kupic	5						
+						9	1015	chce kupic	9						
+						46	1015	chce kupic	8						
+						82	1015	chce kupic	8						
+						92	1015	posiada	9						
+						41	1016	chce kupic	9						
+						43	1016	sprzedal	6						
+						66	1016	posiada	7						
+						7	1017	chce kupic	8						
+						15	1017	sprzedal	7						
+						18	1017	posiada	6						
+						60	1017	sprzedal	6						
+						78	1017	sprzedal	9						
+						120	1017	chce kupic	9						
+						4	1018	chce kupic	5						
+						13	1018	chce kupic	9						
+						19	1018	chce kupic	9						
+						58	1018	posiada	8						
+						112	1018	chce kupic	9						
+						14	1019	sprzedal	9						
+						40	1019	posiada	6						
+						50	1019	chce kupic	8						
+						97	1019	sprzedal	7						
+						106	1019	posiada	9						
+						40	1020	posiada	6						
+						73	1020	posiada	8						
+						79	1020	posiada	5						
+						108	1020	posiada	5						
+						58	1021	posiada	5						
+						105	1021	posiada	7						
+						108	1021	posiada	5						
+						38	1022	posiada	6						
+						65	1022	posiada	5						
+						81	1022	posiada	5						
+						82	1022	sprzedal	7						
+						105	1022	sprzedal	6						
+						116	1022	sprzedal	7						
+						17	1023	sprzedal	9						
+						19	1023	sprzedal	5						
+						88	1023	sprzedal	10						
+						95	1023	sprzedal	9						
+						109	1023	sprzedal	8						
+						125	1023	chce kupic	7						
+						105	1024	chce kupic	5						
+						3	1025	chce kupic	6						
+						36	1025	chce kupic	10						
+						79	1026	posiada	8						
+						129	1027	chce kupic	6						
+						30	1028	sprzedal	8						
+						49	1029	posiada	10						
+						88	1029	chce kupic	7						
+						91	1029	sprzedal	6						
+						96	1029	posiada	10						
+						99	1029	sprzedal	5						
+						61	1030	sprzedal	9						
+						76	1030	chce kupic	9						
+						83	1030	chce kupic	9						
+						129	1030	chce kupic	10						
+						105	1031	chce kupic	10						
+						13	1032	posiada	10						
+						75	1032	chce kupic	5						
+						101	1032	sprzedal	9						
+						125	1032	posiada	10						
+						37	1033	chce kupic	8						
+						60	1033	sprzedal	9						
+						75	1033	posiada	7						
+						93	1033	posiada	5						
+						130	1033	posiada	5						
+						1	1034	posiada	7						
+						41	1034	posiada	5						
+						46	1034	posiada	6						
+						55	1034	posiada	6						
+						114	1034	posiada	8						
+						128	1034	posiada	8						
+						10	1035	posiada	9						
+						29	1035	posiada	8						
+						36	1036	sprzedal	5						
+						43	1036	sprzedal	5						
+						66	1036	sprzedal	10						
+						110	1036	sprzedal	7						
+						19	1037	sprzedal	5						
+						43	1037	sprzedal	8						
+						55	1037	sprzedal	9						
+						85	1037	sprzedal	8						
+						114	1037	chce kupic	8						
+						83	1038	chce kupic	7						
+						94	1038	chce kupic	6						
+						31	1039	chce kupic	9						
+						45	1039	posiada	7						
+						55	1039	chce kupic	5						
+						15	1040	sprzedal	5						
+						40	1040	posiada	8						
+						63	1040	chce kupic	9						
+						69	1040	sprzedal	6						
+						28	1041	posiada	7						
+						51	1041	sprzedal	10						
+						70	1041	sprzedal	10						

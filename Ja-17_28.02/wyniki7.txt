@@ -1,0 +1,40 @@
+7.1.
+Tytuł	LiczbaOcen
+K2	48
+
+7.2.
+nazwa			kategoria	ŚredniaOfocena
+5 sekund		imprezowa	8,16
+Avalone			imprezowa	8,25
+Colt Express		imprezowa	7,54
+Jenga			imprezowa	8,16
+Koncept			imprezowa	8,37
+Mamy szpiega		imprezowa	8,22
+Przebiegle wielblady	imprezowa	7,73
+Sushi Go		imprezowa	8,07
+Swiatowy Konflikt	imprezowa	7,80
+Szeryf z Nottingham	imprezowa	7,88
+
+7.3.
+
+liczbaGraczy
+334
+
+7.4
+Etykiety wierszy	Maksimum z PoliczOfocena
+juniorzy		6
+Terraformacja Marsa	6
+K2			6
+seniorzy		24
+K2			24
+weterani		28
+Robinson Crusoe		28
+Suma końcowa		28
+
+
+7.5
+
+SELECT Sum(Sklep.cena) AS SumaOfcena
+FROM Gry INNER JOIN Sklep ON Gry.id_gry = Sklep.id_gry
+GROUP BY Gry.kategoria, Sklep.promocja
+HAVING (((Gry.kategoria)="logiczna") AND ((Sklep.promocja)=True));
