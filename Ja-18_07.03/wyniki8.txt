@@ -1,0 +1,31 @@
+8.1
+177
+
+8.2
+bmw
+daewoo
+honda
+kia
+lancia
+mazda
+nissan
+saab
+volkswagen
+
+8.3
+id_wlasciciela	SumaOfcena
+897	1340
+
+nr_rejestracyjny	usluga
+SB 3799	wymiana sprzegla
+SB 3799	wymiana amortyzatora tyl
+SB 9213	felga stalowa do 16 cali
+SB 9213	ozonowanie ukladu klimatyzacji i kabiny
+SB 5822	wymiana paska rozrzadu
+SB 5822	wymiana oleju silnikowego z filtrem
+
+8.4
+SELECT Wlasciciele.imie, Wlasciciele.nazwisko
+FROM Samochody INNER JOIN Wlasciciele ON Samochody.id_wlasciciela = Wlasciciele.id_wlasciciela
+WHERE (((Samochody.nr_rejestracyjny) Like "SH*") AND ((Samochody.rok_produkcji)=2020))
+ORDER BY Wlasciciele.nazwisko;
